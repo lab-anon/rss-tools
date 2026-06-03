@@ -1,0 +1,108 @@
+######################
+# Project / IDE      #
+######################
+.idea/
+.vscode/
+.codex/
+.problems/
+*.code-workspace
+AGENTS.md
+
+######################
+# OS generated files #
+######################
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+
+######################
+# Python             #
+######################
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+.env
+.env.*
+!.env.example
+.env/
+env/
+.venv
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.uv/
+.uv-cache/
+site/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage
+.pytest_cache/
+.cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Type checking / linters
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.ruff_cache/
+.pyright/
+
+# RSS build state / workflow staging
+.state/
+runtime-state/
+gh-pages-worktree/
+
+# Translations
+*.mo
+*.pot
+
+# Django
+*.log
+local_settings.py
+
+# Scrapy
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# pyenv
+.python-version
+
+# Jupyter
+.ipynb_checkpoints/
