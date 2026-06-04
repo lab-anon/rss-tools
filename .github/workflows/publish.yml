@@ -1,0 +1,99 @@
+name: Publish
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish-gh-pages
+  cancel-in-progress: false
+
+env:
+  GH_PAGES_WORKTREE: gh-pages-worktree
+  PUBLISH_BRANCH: gh-pages
+  PYTHON_VERSION: "3.13"
+  SITE_DIR: site
+  STATE_ROOT: runtime-state/.state
+
+jobs:
+  publish:
+    if: github.event_name != 'push' || github.ref_name == github.event.repository.default_branch
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      - name: Set up uv
+        uses: astral-sh/setup-uv@v8.2.0
+        with:
+          enable-cache: true
+
+      - name: Prepare publish worktree
+        run: |
+          set -euo pipefail
+          if git ls-remote --exit-code --heads origin "${PUBLISH_BRANCH}" >/dev/null 2>&1; then
+            git fetch --depth=1 origin "${PUBLISH_BRANCH}:refs/remotes/origin/${PUBLISH_BRANCH}"
+            git worktree add --detach "${GH_PAGES_WORKTREE}" "origin/${PUBLISH_BRANCH}"
+          else
+            git worktree add --detach "${GH_PAGES_WORKTREE}"
+            git -C "${GH_PAGES_WORKTREE}" checkout --orphan "${PUBLISH_BRANCH}"
+            git -C "${GH_PAGES_WORKTREE}" read-tree --empty
+            find "${GH_PAGES_WORKTREE}" -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
+          fi
+
+          mkdir -p "${STATE_ROOT}/sources"
+          if [ -d "${GH_PAGES_WORKTREE}/.state" ]; then
+            rm -rf "${STATE_ROOT}"
+            cp -a "${GH_PAGES_WORKTREE}/.state" "${STATE_ROOT}"
+          fi
+
+      - name: Run tests
+        run: uv run --frozen pytest -q
+
+      - name: Run lint
+        run: uv run --frozen ruff check src tests
+
+      - name: Build feeds
+        run: |
+          uv run --frozen rss-tools build \
+            --feeds feeds.json \
+            --mergers mergers.json \
+            --state-dir "${STATE_ROOT}/sources" \
+            --source-delay-seconds 10 \
+            --output-dir "${SITE_DIR}"
+
+      - name: Publish gh-pages
+        run: |
+          set -euo pipefail
+          find "${GH_PAGES_WORKTREE}" -mindepth 1 -maxdepth 1 \
+            ! -name .git \
+            ! -name CNAME \
+            ! -name 404.html \
+            ! -name .nojekyll \
+            -exec rm -rf {} +
+
+          cp -a "${SITE_DIR}/." "${GH_PAGES_WORKTREE}/"
+          rm -rf "${GH_PAGES_WORKTREE}/.state"
+          cp -a "${STATE_ROOT}" "${GH_PAGES_WORKTREE}/.state"
+
+          git -C "${GH_PAGES_WORKTREE}" config user.name "github-actions[bot]"
+          git -C "${GH_PAGES_WORKTREE}" config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git -C "${GH_PAGES_WORKTREE}" add -A
+          if git -C "${GH_PAGES_WORKTREE}" diff --cached --quiet; then
+            echo "No gh-pages changes to publish."
+          else
+            git -C "${GH_PAGES_WORKTREE}" commit -m "Publish RSS feeds"
+            git -C "${GH_PAGES_WORKTREE}" push origin "HEAD:${PUBLISH_BRANCH}"
+          fi

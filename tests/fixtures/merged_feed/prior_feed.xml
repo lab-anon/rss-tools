@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+>
+  <channel>
+    <title>Merged Feed</title>
+    <atom:link href="https://example.test/merged-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.test/</link>
+    <description>Merged and deduplicated test feed.</description>
+    <lastBuildDate>Tue, 03 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <language>en-US</language>
+    <generator>rss-tools</generator>
+    <item>
+      <title>Prior Retained</title>
+      <link>https://example.test/prior-retained/</link>
+      <dc:creator>Prior Author</dc:creator>
+      <pubDate>Sun, 31 May 2026 12:00:00 +0000</pubDate>
+      <description><![CDATA[prior retained]]></description>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Prior Expired</title>
+      <link>https://example.test/prior-expired/</link>
+      <dc:creator>Prior Author</dc:creator>
+      <pubDate>Sun, 24 May 2026 11:00:00 +0000</pubDate>
+      <description><![CDATA[prior expired]]></description>
+      <slash:comments>0</slash:comments>
+    </item>
+  </channel>
+</rss>
