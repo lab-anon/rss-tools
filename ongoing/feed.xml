@@ -1,32 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:wp9="com-wordpress:feed-additions:1" version="2.0">
   <channel>
-    <title>OnGoing Comics Searches</title>
+    <title>Merged - OnGoing</title>
     <atom:link href="https://lab-anon.github.io/rss-tools/ongoing/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>Merged and deduplicated GetComics OnGoing feeds.</description>
-    <lastBuildDate>Thu, 04 Jun 2026 18:46:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 18:59:54 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
-    <item>
-      <title>It’s Jeff – Brand New Week #1 (2026)</title>
-      <link>https://getcomics.org/marvel/its-jeff-brand-new-week-1-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:22af4ecc600613b10a46e5bd6b52539c7b5e7f987521dcf2fa0d8f2bb10a68f5</guid>
-      <comments>https://getcomics.org/marvel/its-jeff-brand-new-week-1-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Wed, 03 Jun 2026 05:16:46 +0000</pubDate>
-      <category>Marvel Comics</category>
-      <category>0-Day</category>
-      <category>It's Jeff</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 74 MB&lt;/p&gt;
-&lt;p&gt;Since he made his debut, Jeff the Land Shark has enjoyed the company of the Marvel Universe's greatest heroes — but all he wants is to be left alone after he runs into a clingy septapus named Ken! When they find themselves stuck together in a tricky predicament, will Jeff put aside his grievances in time to help them both escape? Plus, revisit some of Jeff's earliest encounters with Deadpool and Elsa Bloodstone! Collecting material from JEFF WEEK (2025), DEADPOOL (2019), and MARVEL COMICS (2019) #1000&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/marvel/its-jeff-brand-new-week-1-2026/"&gt;It&amp;#8217;s Jeff &amp;#8211; Brand New Week #1 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/marvel/its-jeff-brand-new-week-1-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>398143</wp9:post-id>
-    </item>
     <item>
       <title>Universal Monsters – Phantom of the Opera #4 (2026)</title>
       <link>https://getcomics.org/other-comics/universal-monsters-phantom-of-the-opera-4-2026/</link>
@@ -46,6 +27,46 @@
       <wfw:commentRss>https://getcomics.org/other-comics/universal-monsters-phantom-of-the-opera-4-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>397648</wp9:post-id>
+    </item>
+    <item>
+      <title>BRZRKR – Light Draws Breath #1 (2026)</title>
+      <link>https://getcomics.org/other-comics/brzrkr-light-draws-breath-1-2026/</link>
+      <guid isPermaLink="false">rss-tools:link-sha256:1578e6909705bc242a9ca625c33697f40da38107267e5af58b6a9b1b657295ad</guid>
+      <comments>https://getcomics.org/other-comics/brzrkr-light-draws-breath-1-2026/#respond</comments>
+      <dc:creator>The Comic Guy</dc:creator>
+      <pubDate>Thu, 28 May 2026 02:14:53 +0000</pubDate>
+      <category>Other Comics</category>
+      <category>0-Day</category>
+      <category>Boom Studios</category>
+      <category>BRZRKR</category>
+      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 87 MB&lt;/p&gt;
+&lt;p&gt;It’s the Bronze Age and B. is dead. Again. Not for long, of course. But two rogue scientists have siphoned off a tiny portion of his protoplasm before he can fully reconfigure, and something else has been born anew... Something that must learn what it is, what its powers are, how to be in the world — and how to fight those who would try to control it.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/brzrkr-light-draws-breath-1-2026/"&gt;BRZRKR &amp;#8211; Light Draws Breath #1 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
+</description>
+      <wfw:commentRss>https://getcomics.org/other-comics/brzrkr-light-draws-breath-1-2026/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <wp9:post-id>397717</wp9:post-id>
+    </item>
+    <item>
+      <title>Alien – The Friendliest Facehugger – Infinity Comic #2 – 4 (2026)</title>
+      <link>https://getcomics.org/marvel/alien-the-friendliest-facehugger-infinity-comic-2-4-2026/</link>
+      <guid isPermaLink="false">rss-tools:link-sha256:4786e0e95156b456b0d5e1961e595f9d9df6129d0690431b6ae96cfe09ab6831</guid>
+      <comments>https://getcomics.org/marvel/alien-the-friendliest-facehugger-infinity-comic-2-4-2026/#respond</comments>
+      <dc:creator>The Comic Guy</dc:creator>
+      <pubDate>Tue, 26 May 2026 05:29:34 +0000</pubDate>
+      <category>Marvel Comics</category>
+      <category>Alien</category>
+      <category>Infinity Comic</category>
+      <category>Non 0-Day</category>
+      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 9 MB&lt;/p&gt;
+&lt;p&gt;While the Xenomorphs spread chaos and violence aboard a space station, Facehuggie is just looking for someone to latch onto! Has Facehuggie found its friend at last?&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://getcomics.org/marvel/alien-the-friendliest-facehugger-infinity-comic-2-4-2026/"&gt;Alien &amp;#8211; The Friendliest Facehugger &amp;#8211; Infinity Comic #2 &amp;#8211; 4 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
+</description>
+      <wfw:commentRss>https://getcomics.org/marvel/alien-the-friendliest-facehugger-infinity-comic-2-4-2026/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <wp9:post-id>397731</wp9:post-id>
     </item>
     <item>
       <title>W0rldtr33 #20 (2026)</title>
@@ -68,6 +89,25 @@
       <wp9:post-id>396547</wp9:post-id>
     </item>
     <item>
+      <title>Predator – Bloodshed #4 (2026)</title>
+      <link>https://getcomics.org/marvel/predator-bloodshed-4-2026/</link>
+      <guid isPermaLink="false">rss-tools:link-sha256:5d3638bc791034a4f28d623f53a4e83cc4a6729abc94b34e3ad7a30f62768c56</guid>
+      <comments>https://getcomics.org/marvel/predator-bloodshed-4-2026/#respond</comments>
+      <dc:creator>The Comic Guy</dc:creator>
+      <pubDate>Wed, 20 May 2026 14:24:36 +0000</pubDate>
+      <category>Marvel Comics</category>
+      <category>0-Day</category>
+      <category>Predator</category>
+      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 80 MB&lt;/p&gt;
+&lt;p&gt;A tournament of the world's fiercest fighters has been decimated after a Predator's lethal hunt. As the Yautja zeroes in on the few survivors left standing, one warrior's true purpose is finally unmasked. With deadly danger from within and without, it's kill or be killed. Will the Predator collect its final trophy?&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://getcomics.org/marvel/predator-bloodshed-4-2026/"&gt;Predator &amp;#8211; Bloodshed #4 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
+</description>
+      <wfw:commentRss>https://getcomics.org/marvel/predator-bloodshed-4-2026/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <wp9:post-id>397027</wp9:post-id>
+    </item>
+    <item>
       <title>Deathstroke – The Terminator #3 (2026)</title>
       <link>https://getcomics.org/dc/deathstroke-the-terminator-3-2026/</link>
       <guid isPermaLink="false">rss-tools:link-sha256:daca00017bc67026604a08536aabb237e8810c3400d5003bfd8622501daf5dc6</guid>
@@ -85,6 +125,47 @@
       <wfw:commentRss>https://getcomics.org/dc/deathstroke-the-terminator-3-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>396982</wp9:post-id>
+    </item>
+    <item>
+      <title>Aliens Epic Collection – The Original Years Vol. 3 (2025)</title>
+      <link>https://getcomics.org/marvel/aliens-epic-collection-the-original-years-vol-3-2025/</link>
+      <guid isPermaLink="false">rss-tools:link-sha256:61874d2b576b998f6fd06d3bcb65de4d28a6328ea4bbe685dff88ba7f004bcad</guid>
+      <comments>https://getcomics.org/marvel/aliens-epic-collection-the-original-years-vol-3-2025/#respond</comments>
+      <dc:creator>The Comic Guy</dc:creator>
+      <pubDate>Sun, 17 May 2026 22:50:19 +0000</pubDate>
+      <category>Marvel Comics</category>
+      <category>Aliens</category>
+      <category>Epic Collection</category>
+      <category>Non 0-Day</category>
+      <category>TPB</category>
+      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2025 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 1.5 GB&lt;/p&gt;
+&lt;p&gt;An elite team of Space Marines takes the fight to the Aliens across the galaxy! Meanwhile, Professor Ernst Kleist has achieved the impossible: He has genetically engineered powerful, obedient Aliens. But the horror of nature is dwarfed by the terror of the man toying with it! And he isn’t the only one carrying out experiments on the Aliens: Colonel Doctor Paul Church, head of the space station Innominata, is determined to find out what makes them tick — and he’s using Colonial Marines as bait. But the U.S. government doesn’t like what it’s hearing, and they send an investigator empowered to get the truth — any way he can! Plus: more tales of Alien horror! Collecting ALIEN 3 #1-3, ALIENS: SPACE MARINES #1-12, ALIENS: ROGUE #1-4, ALIENS: LABYRINTH #1-4 and material from DARK HORSE COMICS (1992) #3-5 and #11-13, PREVIEWS (1993) #1-12, PREVIEWS (1994) #1 and ALIENS MAGAZINE (1992) #9-12.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://getcomics.org/marvel/aliens-epic-collection-the-original-years-vol-3-2025/"&gt;Aliens Epic Collection &amp;#8211; The Original Years Vol. 3 (2025)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
+</description>
+      <wfw:commentRss>https://getcomics.org/marvel/aliens-epic-collection-the-original-years-vol-3-2025/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <wp9:post-id>396911</wp9:post-id>
+    </item>
+    <item>
+      <title>Predator Kills The Marvel Universe (TPB) (2026)</title>
+      <link>https://getcomics.org/marvel/predator-kills-the-marvel-universe-tpb-2026/</link>
+      <guid isPermaLink="false">rss-tools:link-sha256:552d53d874863ea77c6e9f7fdea937951055adebd7bd09fad88a688209a1c550</guid>
+      <comments>https://getcomics.org/marvel/predator-kills-the-marvel-universe-tpb-2026/#respond</comments>
+      <dc:creator>The Comic Guy</dc:creator>
+      <pubDate>Thu, 14 May 2026 00:44:38 +0000</pubDate>
+      <category>Marvel Comics</category>
+      <category>Non 0-Day</category>
+      <category>Predator</category>
+      <category>TPB</category>
+      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 413 MB&lt;/p&gt;
+&lt;p&gt;The biggest crossover yet between the iconic franchises of Marvel and Predator! A Predator King, emboldened by a new vibranium arsenal and aided by a surprising human ally, launches an all-out invasion of Earth, claiming the planet as a hunting preserve! After several battles in our solar system - which devastate both the Guardians of the Galaxy and the Fantastic Four - the Predators escalate to the next stage of their war. And the X-Men and the Avengers are at the top of their kill list! Wolverine, Spider-Man and Black Panther call on all their experience battling Predators in the past, and an unexpected ally makes an appearance…but will it be enough? Who will survive this extinction-level event as the entire Marvel Universe finds itself in the tri-laser crosshairs of the Predators?! Collecting PREDATOR KILLS THE MARVEL UNIVERSE (2025) #1-5.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://getcomics.org/marvel/predator-kills-the-marvel-universe-tpb-2026/"&gt;Predator Kills The Marvel Universe (TPB) (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
+</description>
+      <wfw:commentRss>https://getcomics.org/marvel/predator-kills-the-marvel-universe-tpb-2026/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <wp9:post-id>396809</wp9:post-id>
     </item>
     <item>
       <title>Hello Darkness #21 (2026)</title>
@@ -145,6 +226,25 @@
       <wfw:commentRss>https://getcomics.org/other-comics/fall-of-the-house-of-slaughter-1-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>396148</wp9:post-id>
+    </item>
+    <item>
+      <title>Alien – King Killer #2 (2026)</title>
+      <link>https://getcomics.org/marvel/alien-king-killer-2-2026/</link>
+      <guid isPermaLink="false">rss-tools:link-sha256:2e28ec345320b68a71101dfcc90106f180a3f089183a0866d3cfd67aef55c9a1</guid>
+      <comments>https://getcomics.org/marvel/alien-king-killer-2-2026/#respond</comments>
+      <dc:creator>The Comic Guy</dc:creator>
+      <pubDate>Wed, 06 May 2026 05:12:51 +0000</pubDate>
+      <category>Marvel Comics</category>
+      <category>0-Day</category>
+      <category>Alien</category>
+      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 73 MB&lt;/p&gt;
+&lt;p&gt;On a world already overrun by Xenomorphs, the few remaining humans survive under the protection of a trio of mysterious warlords known as the Three Kings. But there is one other human who can hold his own against the alien horde, the wanderer Idris. And now Idris is coming for the first of the Kings. What is Idris' secret connection to humanity's apparent saviors – and why does he want to burn the last bastion of humanity down to the ground?!&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://getcomics.org/marvel/alien-king-killer-2-2026/"&gt;Alien &amp;#8211; King Killer #2 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
+</description>
+      <wfw:commentRss>https://getcomics.org/marvel/alien-king-killer-2-2026/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <wp9:post-id>396016</wp9:post-id>
     </item>
   </channel>
 </rss>
