@@ -1,17 +1,303 @@
 <!doctype html>
-<html lang="en">
+<html lang="en-US">
   <head>
     <meta charset="utf-8">
     <title>RSS Tools</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+      :root { color-scheme: light; }
+      body { margin: 2rem; font-family: system-ui, sans-serif; color: #182016; background: #fbfaf5; }
+      main { max-width: 1100px; }
+      h2 { margin-top: 2rem; }
+      table { width: 100%; border-collapse: collapse; background: white; }
+      th, td { padding: 0.65rem 0.75rem; border-bottom: 1px solid #ddd8ca; text-align: left; vertical-align: top; }
+      th { background: #263238; color: #fffdf5; font-size: 0.85rem; }
+      a { color: #205f76; font-weight: 700; overflow-wrap: anywhere; }
+      .status-row.status-error { background: #fde8e8; }
+      .status-row.status-stale { background: #fff3cd; }
+      .status-row.status-ok { background: #edf7ed; }
+      .status-row.status-skipped { background: #f1f3f5; }
+      .status-label { font-weight: 700; text-transform: uppercase; }
+      .error-text { max-width: 32rem; }
+      @media (max-width: 760px) { body { margin: 1rem; } table { font-size: 0.9rem; } th, td { padding: 0.5rem; } }
+    </style>
   </head>
   <body>
-    <h1>RSS Tools</h1>
-    <p>Static RSS feeds generated for curated sources.</p>
-    <ul>
-      <li><strong>Merged - OnGoing</strong><br>Merged and deduplicated GetComics OnGoing feeds.<br><a href="./ongoing/feed.xml">feed</a><br><small>merged 12 item(s)</small></li>
-      <li><strong>Merged - Supers</strong><br>Merged and deduplicated GetComics Supers feeds.<br><a href="./supers/feed.xml">feed</a><br><small>merged 5 item(s)</small></li>
-      <li><strong>Merged - TPB</strong><br>Merged and deduplicated comics TPB feed.<br><a href="./tpb/feed.xml">feed</a><br><small>merged 113 item(s)</small></li>
-    </ul>
+    <main>
+      <h1>RSS Tools</h1>
+      <p>Static RSS feeds generated for curated sources.</p>
+      <p><strong>Generated:</strong> 2026-06-04T19:45:56.307982Z</p>
+      <h2>Merged Feeds</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Feed</th>
+            <th>Items</th>
+            <th>Status</th>
+            <th>Error</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="status-row status-ok">
+            <td>Merged - OnGoing</td>
+            <td>Merged and deduplicated GetComics OnGoing feeds.</td>
+            <td><a href="ongoing/feed.xml">feed</a></td>
+            <td>12</td>
+            <td><span class="status-label">ok</span></td>
+            <td class="error-text"></td>
+          </tr>
+          <tr class="status-row status-ok">
+            <td>Merged - Supers</td>
+            <td>Merged and deduplicated GetComics Supers feeds.</td>
+            <td><a href="supers/feed.xml">feed</a></td>
+            <td>5</td>
+            <td><span class="status-label">ok</span></td>
+            <td class="error-text"></td>
+          </tr>
+          <tr class="status-row status-ok">
+            <td>Merged - TPB</td>
+            <td>Merged and deduplicated comics TPB feed.</td>
+            <td><a href="tpb/feed.xml">feed</a></td>
+            <td>113</td>
+            <td><span class="status-label">ok</span></td>
+            <td class="error-text"></td>
+          </tr>
+        </tbody>
+      </table>
+      <h2>Source Feeds</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Slug</th>
+            <th>Link</th>
+            <th>Refresh Hours</th>
+            <th>Status</th>
+            <th>Last Success</th>
+            <th>Items</th>
+            <th>Error</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="status-row status-skipped">
+            <td>absolute_tpb_search</td>
+            <td><a href="https://getcomics.org/search/absolute+TPB/feed/rss2/">https://getcomics.org/search/absolute+TPB/feed/rss2/</a></td>
+            <td>24</td>
+            <td><span class="status-label">skipped</span></td>
+            <td>2026-06-04T18:43:07.305130Z</td>
+            <td>0</td>
+            <td class="error-text"></td>
+          </tr>
+          <tr class="status-row status-skipped">
+            <td>aliens_search</td>
+            <td><a href="https://getcomics.org/search/aliens/feed/rss2/">https://getcomics.org/search/aliens/feed/rss2/</a></td>
+            <td>24</td>
+            <td><span class="status-label">skipped</span></td>
+            <td>2026-06-04T18:58:51.966788Z</td>
+            <td>3</td>
+            <td class="error-text"></td>
+          </tr>
+          <tr class="status-row status-skipped">
+            <td>beneath_the_trees_search</td>
+            <td><a href="https://getcomics.org/search/Beneath+the+Trees/feed/rss2/">https://getcomics.org/search/Beneath+the+Trees/feed/rss2/</a></td>
+            <td>24</td>
+            <td><span class="status-label">skipped</span></td>
+            <td>2026-06-04T18:43:07.305130Z</td>
+            <td>0</td>
+            <td class="error-text"></td>
+          </tr>
+          <tr class="status-row status-skipped">
+            <td>blade_runner_search</td>
+            <td><a href="https://getcomics.org/search/Blade+Runner/feed/rss2/">https://getcomics.org/search/Blade+Runner/feed/rss2/</a></td>
+            <td>24</td>
+            <td><span class="status-label">skipped</span></td>
+            <td>2026-06-04T18:43:07.305130Z</td>
+            <td>0</td>
+            <td class="error-text"></td>
+          </tr>
+          <tr class="status-row status-skipped">
+            <td>brzrkr_search</td>
+            <td><a href="https://getcomics.org/search/brzrkr/feed/rss2/">https://getcomics.org/search/brzrkr/feed/rss2/</a></td>
+            <td>24</td>
+            <td><span class="status-label">skipped</span></td>
+            <td>2026-06-04T18:58:51.966788Z</td>
+            <td>1</td>
+            <td class="error-text"></td>
+          </tr>
+          <tr class="status-row status-skipped">
+            <td>criminal_search</td>
+            <td><a href="https://getcomics.org/search/criminal/feed/rss2/">https://getcomics.org/search/criminal/feed/rss2/</a></td>
+            <td>24</td>
+            <td><span class="status-label">skipped</span></td>
+            <td>2026-06-04T18:43:07.305130Z</td>
+            <td>0</td>
+            <td class="error-text"></td>
+          </tr>
+          <tr class="status-row status-skipped">
+            <td>critical_role_search</td>
+            <td><a href="https://getcomics.org/search/critical+role/feed/rss2/">https://getcomics.org/search/critical+role/feed/rss2/</a></td>
+            <td>24</td>
+            <td><span class="status-label">skipped</span></td>
+            <td>2026-06-04T18:43:07.305130Z</td>
+            <td>0</td>
+            <td class="error-text"></td>
+          </tr>
+          <tr class="status-row status-skipped">
+            <td>expanse_search</td>
+            <td><a href="https://getcomics.org/search/expanse/feed/rss2/">https://getcomics.org/search/expanse/feed/rss2/</a></td>
+            <td>24</td>
+            <td><span class="status-label">skipped</span></td>
+            <td>2026-06-04T18:43:07.305130Z</td>
+            <td>0</td>
+            <td class="error-text"></td>
+          </tr>
+          <tr class="status-row status-skipped">
+            <td>hello_darkness_search</td>
+            <td><a href="https://getcomics.org/search/hello+darkness/feed/rss2/">https://getcomics.org/search/hello+darkness/feed/rss2/</a></td>
+            <td>24</td>
+            <td><span class="status-label">skipped</span></td>
+            <td>2026-06-04T18:43:07.305130Z</td>
+            <td>1</td>
+            <td class="error-text"></td>
+          </tr>
+          <tr class="status-row status-skipped">
+            <td>house_slaughter_search</td>
+            <td><a href="https://getcomics.org/search/house+slaughter/feed/rss2/">https://getcomics.org/search/house+slaughter/feed/rss2/</a></td>
+            <td>24</td>
+            <td><span class="status-label">skipped</span></td>
+            <td>2026-06-04T18:43:07.305130Z</td>
+            <td>1</td>
+            <td class="error-text"></td>
+          </tr>
+          <tr class="status-row status-skipped">
+            <td>its_jeff_search</td>
+            <td><a href="https://getcomics.org/search/it%27s+jeff/feed/rss2/">https://getcomics.org/search/it%27s+jeff/feed/rss2/</a></td>
+            <td>24</td>
+            <td><span class="status-label">skipped</span></td>
+            <td>2026-06-04T18:43:07.305130Z</td>
+            <td>1</td>
+            <td class="error-text"></td>
+          </tr>
+          <tr class="status-row status-skipped">
+            <td>nice_house_sea_search</td>
+            <td><a href="https://getcomics.org/search/nice+house+sea/feed/rss2/">https://getcomics.org/search/nice+house+sea/feed/rss2/</a></td>
+            <td>24</td>
+            <td><span class="status-label">skipped</span></td>
+            <td>2026-06-04T18:43:07.305130Z</td>
+            <td>0</td>
+            <td class="error-text"></td>
+          </tr>
+          <tr class="status-row status-skipped">
+            <td>predator_search</td>
+            <td><a href="https://getcomics.org/search/predator/feed/rss2/">https://getcomics.org/search/predator/feed/rss2/</a></td>
+            <td>24</td>
+            <td><span class="status-label">skipped</span></td>
+            <td>2026-06-04T18:58:51.966788Z</td>
+            <td>2</td>
+            <td class="error-text"></td>
+          </tr>
+          <tr class="status-row status-skipped">
+            <td>reckless_search</td>
+            <td><a href="https://getcomics.org/search/reckless/feed/rss2/">https://getcomics.org/search/reckless/feed/rss2/</a></td>
+            <td>24</td>
+            <td><span class="status-label">skipped</span></td>
+            <td>2026-06-04T18:43:07.305130Z</td>
+            <td>0</td>
+            <td class="error-text"></td>
+          </tr>
+          <tr class="status-row status-skipped">
+            <td>red_band_search</td>
+            <td><a href="https://getcomics.org/search/red+band/feed/rss2/">https://getcomics.org/search/red+band/feed/rss2/</a></td>
+            <td>24</td>
+            <td><span class="status-label">skipped</span></td>
+            <td>2026-06-04T18:58:51.966788Z</td>
+            <td>1</td>
+            <td class="error-text"></td>
+          </tr>
+          <tr class="status-row status-skipped">
+            <td>something_killing_search</td>
+            <td><a href="https://getcomics.org/search/something+killing/feed/rss2/">https://getcomics.org/search/something+killing/feed/rss2/</a></td>
+            <td>24</td>
+            <td><span class="status-label">skipped</span></td>
+            <td>2026-06-04T18:43:07.305130Z</td>
+            <td>1</td>
+            <td class="error-text"></td>
+          </tr>
+          <tr class="status-row status-skipped">
+            <td>terminator_search</td>
+            <td><a href="https://getcomics.org/search/terminator/feed/rss2/">https://getcomics.org/search/terminator/feed/rss2/</a></td>
+            <td>24</td>
+            <td><span class="status-label">skipped</span></td>
+            <td>2026-06-04T18:43:07.305130Z</td>
+            <td>1</td>
+            <td class="error-text"></td>
+          </tr>
+          <tr class="status-row status-skipped">
+            <td>tpb_search</td>
+            <td><a href="https://getcomics.org/search/tpb/feed/rss2/">https://getcomics.org/search/tpb/feed/rss2/</a></td>
+            <td>24</td>
+            <td><span class="status-label">skipped</span></td>
+            <td>2026-06-04T18:43:07.305130Z</td>
+            <td>84</td>
+            <td class="error-text"></td>
+          </tr>
+          <tr class="status-row status-skipped">
+            <td>tpb_tag</td>
+            <td><a href="https://getcomics.org/tag/tpb/feed/">https://getcomics.org/tag/tpb/feed/</a></td>
+            <td>6</td>
+            <td><span class="status-label">skipped</span></td>
+            <td>2026-06-04T18:43:07.305130Z</td>
+            <td>111</td>
+            <td class="error-text"></td>
+          </tr>
+          <tr class="status-row status-skipped">
+            <td>ultimate_search</td>
+            <td><a href="https://getcomics.org/search/ultimate/feed/rss2/">https://getcomics.org/search/ultimate/feed/rss2/</a></td>
+            <td>24</td>
+            <td><span class="status-label">skipped</span></td>
+            <td>2026-06-04T18:58:51.966788Z</td>
+            <td>3</td>
+            <td class="error-text"></td>
+          </tr>
+          <tr class="status-row status-skipped">
+            <td>universal_monsters_search</td>
+            <td><a href="https://getcomics.org/search/universal+monsters/feed/rss2/">https://getcomics.org/search/universal+monsters/feed/rss2/</a></td>
+            <td>24</td>
+            <td><span class="status-label">skipped</span></td>
+            <td>2026-06-04T18:43:07.305130Z</td>
+            <td>1</td>
+            <td class="error-text"></td>
+          </tr>
+          <tr class="status-row status-skipped">
+            <td>w0rldtr33_search</td>
+            <td><a href="https://getcomics.org/search/W0rldtr33/feed/rss2/">https://getcomics.org/search/W0rldtr33/feed/rss2/</a></td>
+            <td>24</td>
+            <td><span class="status-label">skipped</span></td>
+            <td>2026-06-04T18:43:07.305130Z</td>
+            <td>1</td>
+            <td class="error-text"></td>
+          </tr>
+          <tr class="status-row status-skipped">
+            <td>white_knight_search</td>
+            <td><a href="https://getcomics.org/search/white+knight/feed/rss2/">https://getcomics.org/search/white+knight/feed/rss2/</a></td>
+            <td>24</td>
+            <td><span class="status-label">skipped</span></td>
+            <td>2026-06-04T18:58:51.966788Z</td>
+            <td>0</td>
+            <td class="error-text"></td>
+          </tr>
+          <tr class="status-row status-skipped">
+            <td>wynd_search</td>
+            <td><a href="https://getcomics.org/search/wynd/feed/rss2/">https://getcomics.org/search/wynd/feed/rss2/</a></td>
+            <td>24</td>
+            <td><span class="status-label">skipped</span></td>
+            <td>2026-06-04T18:43:07.305130Z</td>
+            <td>0</td>
+            <td class="error-text"></td>
+          </tr>
+        </tbody>
+      </table>
+    </main>
   </body>
 </html>
