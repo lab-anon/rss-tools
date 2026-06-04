@@ -1,0 +1,62 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rss-tools"
+version = "0.1.0"
+description = "Static RSS feed builders for GitHub Pages."
+readme = "README.md"
+requires-python = ">=3.13"
+
+[dependency-groups]
+dev = [
+  "pytest==9.0.3",
+  "ruff==0.15.12",
+  "ty==0.0.33",
+]
+
+[project.optional-dependencies]
+test = ["pytest==9.0.3"]
+
+[project.scripts]
+rss-tools = "rss_tools.cli:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+addopts = "-q"
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 88
+src = ["src", "tests"]
+target-version = "py313"
+
+[tool.ruff.lint]
+select = [
+  "E",
+  "F",
+  "W",
+  "B",
+  "I",
+  "UP",
+  "SIM",
+  "RUF",
+  "N",
+]
+ignore = [
+  "E501",
+  "W291",
+  "E203",
+  "N812",
+]
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
+skip-magic-trailing-comma = false

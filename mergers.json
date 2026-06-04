@@ -1,0 +1,79 @@
+[
+  {
+    "slug": "ongoing",
+    "title": "Merged - OnGoing",
+    "description": "GetComics OnGoing feeds",
+    "feeds": [
+      "assorted_search",
+      "christopher_chaos_search",
+      "cyberpunk_2077_search",
+      "department_truth_search",
+      "exquisite_corpses_search",
+      "knights_vs_samurai_search",
+      "skinbreaker_search",
+      "void_rivals_search"
+    ],
+    "retention_days": 30
+  },
+  {
+    "slug": "ongoing_reading",
+    "title": "Merged - OnGoing Reading",
+    "description": "GetComics OnGoing Reading feeds",
+    "feeds": [
+      "aliens_search",
+      "beneath_the_trees_search",
+      "blade_runner_search",
+      "brzrkr_search",
+      "criminal_search",
+      "critical_role_search",
+      "expanse_search",
+      "hello_darkness_search",
+      "house_slaughter_search",
+      "nice_house_sea_search",
+      "predator_search",
+      "reckless_search",
+      "something_killing_search",
+      "terminator_search",
+      "universal_monsters_search",
+      "w0rldtr33_search",
+      "wynd_search"
+    ],
+    "retention_days": 30
+  },
+  {
+    "slug": "open",
+    "title": "Merged - Open",
+    "description": "GetComics Open feeds",
+    "feeds": [
+      "league_of_extraordinary_gentlemen_search",
+      "white_knight_search"
+    ],
+    "retention_days": 30
+  },
+  {
+    "slug": "supers",
+    "title": "Merged - Supers",
+    "description": "GetComics Supers feeds",
+    "feeds": [
+      "absolute_tpb_search",
+      "invincible_universe_search",
+      "its_jeff_search",
+      "miles_morales_spider_man_search",
+      "nemesis_forever_search",
+      "red_band_search",
+      "ultimate_search",
+      "white_knight_search"
+    ],
+    "retention_days": 30
+  },
+  {
+    "slug": "tpb",
+    "title": "Merged - TPB",
+    "description": "GetComics TPB feed",
+    "feeds": [
+      "tpb_search",
+      "tpb_tag"
+    ],
+    "retention_days": 30
+  }
+]
