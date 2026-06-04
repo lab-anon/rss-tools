@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T19:45:56.307982Z",
+  "generated_at": "2026-06-04T20:58:08.510643Z",
   "rows": [
     {
       "description": "Merged and deduplicated GetComics OnGoing feeds.",
       "item_count": 12,
       "last_error": null,
-      "last_success_at": "2026-06-04T19:45:56.307982Z",
+      "last_success_at": "2026-06-04T20:58:08.510643Z",
       "public_url": "https://lab-anon.github.io/rss-tools/ongoing/feed.xml",
       "slug": "ongoing",
       "status": "ok",
@@ -16,7 +16,7 @@
       "description": "Merged and deduplicated GetComics Supers feeds.",
       "item_count": 5,
       "last_error": null,
-      "last_success_at": "2026-06-04T19:45:56.307982Z",
+      "last_success_at": "2026-06-04T20:58:08.510643Z",
       "public_url": "https://lab-anon.github.io/rss-tools/supers/feed.xml",
       "slug": "supers",
       "status": "ok",
@@ -27,7 +27,7 @@
       "description": "Merged and deduplicated comics TPB feed.",
       "item_count": 113,
       "last_error": null,
-      "last_success_at": "2026-06-04T19:45:56.307982Z",
+      "last_success_at": "2026-06-04T20:58:08.510643Z",
       "public_url": "https://lab-anon.github.io/rss-tools/tpb/feed.xml",
       "slug": "tpb",
       "status": "ok",
