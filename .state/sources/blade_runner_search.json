@@ -1,0 +1,24 @@
+{
+  "etag": "W/\"f7bfac89518c94a032d7d4bee76abddc\"",
+  "items": [],
+  "last_changed_at": "2026-06-04T18:43:07.305130Z",
+  "last_checked_at": "2026-06-04T18:43:07.305130Z",
+  "last_error": null,
+  "last_modified": "Thu, 04 Jun 2026 13:57:06 GMT",
+  "last_success_at": "2026-06-04T18:43:07.305130Z",
+  "link": "https://getcomics.org/search/Blade+Runner/feed/rss2/",
+  "namespaces": {
+    "atom": "http://www.w3.org/2005/Atom",
+    "content": "http://purl.org/rss/1.0/modules/content/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "slash": "http://purl.org/rss/1.0/modules/slash/",
+    "sy": "http://purl.org/rss/1.0/modules/syndication/",
+    "wfw": "http://wellformedweb.org/CommentAPI/",
+    "wp": "com-wordpress:feed-additions:1",
+    "wp2": "com-wordpress:feed-additions:1",
+    "wp3": "com-wordpress:feed-additions:1",
+    "wp4": "com-wordpress:feed-additions:1"
+  },
+  "refresh_hours": 24,
+  "slug": "blade_runner_search"
+}

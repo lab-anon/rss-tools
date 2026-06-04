@@ -1,0 +1,42 @@
+{
+  "etag": "W/\"f7bfac89518c94a032d7d4bee76abddc\"",
+  "items": [
+    {
+      "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp13=\"com-wordpress:feed-additions:1\">\n\t\t<title>Deathstroke \u2013 The Terminator #3 (2026)</title>\n\t\t<link>https://getcomics.org/dc/deathstroke-the-terminator-3-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/dc/deathstroke-the-terminator-3-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Wed, 20 May 2026 08:19:31 +0000</pubDate>\n\t\t\t\t<category>DC Comics</category>\n\t\t<category>0-Day</category>\n\t\t<category>Deathstroke</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 48 MB&lt;/p&gt;\n&lt;p&gt;THE BOUNTY IS OUT ON SLADE WILSON! It's said there is no honor among thieves. But there is a code among killers. Slade Wilson wrote the code. And now he's in Deadshot's and Deathblow's crosshairs for breaking its first rule!&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/dc/deathstroke-the-terminator-3-2026/\"&gt;Deathstroke &amp;#8211; The Terminator #3 (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/dc/deathstroke-the-terminator-3-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp13:post-id>396982</wp13:post-id>\t</item>\n\t\t",
+      "link": "https://getcomics.org/dc/deathstroke-the-terminator-3-2026/",
+      "normalized_link": "https://getcomics.org/dc/deathstroke-the-terminator-3-2026",
+      "published_at": "2026-05-20T08:19:31Z",
+      "stable_id": "daca00017bc67026604a08536aabb237e8810c3400d5003bfd8622501daf5dc6",
+      "title": "Deathstroke \u2013 The Terminator #3 (2026)"
+    }
+  ],
+  "last_changed_at": "2026-06-04T18:43:07.305130Z",
+  "last_checked_at": "2026-06-04T18:43:07.305130Z",
+  "last_error": null,
+  "last_modified": "Thu, 04 Jun 2026 13:57:06 GMT",
+  "last_success_at": "2026-06-04T18:43:07.305130Z",
+  "link": "https://getcomics.org/search/terminator/feed/rss2/",
+  "namespaces": {
+    "atom": "http://www.w3.org/2005/Atom",
+    "content": "http://purl.org/rss/1.0/modules/content/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "slash": "http://purl.org/rss/1.0/modules/slash/",
+    "sy": "http://purl.org/rss/1.0/modules/syndication/",
+    "wfw": "http://wellformedweb.org/CommentAPI/",
+    "wp": "com-wordpress:feed-additions:1",
+    "wp10": "com-wordpress:feed-additions:1",
+    "wp11": "com-wordpress:feed-additions:1",
+    "wp12": "com-wordpress:feed-additions:1",
+    "wp13": "com-wordpress:feed-additions:1",
+    "wp2": "com-wordpress:feed-additions:1",
+    "wp3": "com-wordpress:feed-additions:1",
+    "wp4": "com-wordpress:feed-additions:1",
+    "wp5": "com-wordpress:feed-additions:1",
+    "wp6": "com-wordpress:feed-additions:1",
+    "wp7": "com-wordpress:feed-additions:1",
+    "wp8": "com-wordpress:feed-additions:1",
+    "wp9": "com-wordpress:feed-additions:1"
+  },
+  "refresh_hours": 24,
+  "slug": "terminator_search"
+}
