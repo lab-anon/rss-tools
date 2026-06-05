@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/ongoing_reading/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>GetComics OnGoing Reading feeds</description>
-    <lastBuildDate>Fri, 05 Jun 2026 20:08:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 22:16:05 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -206,26 +206,6 @@
       <wfw:commentRss>https://getcomics.org/other-comics/something-is-killing-the-children-47-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>396583</wp9:post-id>
-    </item>
-    <item>
-      <title>Fall of the House of Slaughter #1 (2026)</title>
-      <link>https://getcomics.org/other-comics/fall-of-the-house-of-slaughter-1-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:b56940f1d457aa4258d73fd1e95f5262764c2fd9bf1ca6d0839d9e0be0b8006c</guid>
-      <comments>https://getcomics.org/other-comics/fall-of-the-house-of-slaughter-1-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Wed, 06 May 2026 21:23:54 +0000</pubDate>
-      <category>Other Comics</category>
-      <category>0-Day</category>
-      <category>Boom Studios</category>
-      <category>House of Slaughter</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 128 MB&lt;/p&gt;
-&lt;p&gt;As the House of Slaughter’s ailing Old Dragon enters his final days, Cecilia Slaughter and the other Heads gather to determine his successor. Deadly ambitions begin to take shape as the House and the Order prepare for a new legacy to begin — and the conflict will no doubt be lethal in this all-new miniseries set in the world of Something is Killing the Children! Can the House of Slaughter survive a new Dragon coming into power? &lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/fall-of-the-house-of-slaughter-1-2026/"&gt;Fall of the House of Slaughter #1 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/other-comics/fall-of-the-house-of-slaughter-1-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>396148</wp9:post-id>
     </item>
   </channel>
 </rss>
