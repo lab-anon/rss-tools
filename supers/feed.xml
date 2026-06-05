@@ -4,8 +4,8 @@
     <title>Merged - Supers</title>
     <atom:link href="https://lab-anon.github.io/rss-tools/supers/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
-    <description>Merged and deduplicated GetComics Supers feeds.</description>
-    <lastBuildDate>Fri, 05 Jun 2026 09:54:48 +0000</lastBuildDate>
+    <description>GetComics Supers feeds</description>
+    <lastBuildDate>Fri, 05 Jun 2026 11:06:13 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -28,6 +28,26 @@
       <wp9:post-id>398143</wp9:post-id>
     </item>
     <item>
+      <title>Miles Morales – Spider-Man – Brooklyn’s Finest – Infinity Comic #13 (2026)</title>
+      <link>https://getcomics.org/marvel/miles-morales-spider-man-brooklyns-finest-infinity-comic-13-2026/</link>
+      <guid isPermaLink="false">rss-tools:link-sha256:3786fe9579d1ef57aac911f4a71083bfa254bdf9a4dbc46d044e2522695d4594</guid>
+      <comments>https://getcomics.org/marvel/miles-morales-spider-man-brooklyns-finest-infinity-comic-13-2026/#respond</comments>
+      <dc:creator>The Comic Guy</dc:creator>
+      <pubDate>Thu, 28 May 2026 06:09:38 +0000</pubDate>
+      <category>Marvel Comics</category>
+      <category>Infinity Comic</category>
+      <category>Miles Morales - Spider-Man</category>
+      <category>Non 0-Day</category>
+      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 5 MB&lt;/p&gt;
+&lt;p&gt;Spider-Man and spider-clone, Shift, take on Taskmaster and Finesse!&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://getcomics.org/marvel/miles-morales-spider-man-brooklyns-finest-infinity-comic-13-2026/"&gt;Miles Morales &amp;#8211; Spider-Man &amp;#8211; Brooklyn&amp;#8217;s Finest &amp;#8211; Infinity Comic #13 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
+</description>
+      <wfw:commentRss>https://getcomics.org/marvel/miles-morales-spider-man-brooklyns-finest-infinity-comic-13-2026/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <wp9:post-id>397872</wp9:post-id>
+    </item>
+    <item>
       <title>The Ultimates #24 (2026)</title>
       <link>https://getcomics.org/marvel/the-ultimates-24-2026/</link>
       <guid isPermaLink="false">rss-tools:link-sha256:52681dc6acf322b1ab2aa7ed699f6bf0b2e3adf0893a443aa449b90e0addf073</guid>
@@ -47,6 +67,26 @@
       <wp9:post-id>397585</wp9:post-id>
     </item>
     <item>
+      <title>Miles Morales – Spider-Man – Brooklyn’s Finest – Infinity Comic #15 – 17 (2026)</title>
+      <link>https://getcomics.org/marvel/miles-morales-spider-man-brooklyns-finest-infinity-comic-15-17-2026/</link>
+      <guid isPermaLink="false">rss-tools:link-sha256:d3417206c3ab5c0ad84097069c66c8bfbebb41aaaf0aba57e802eb0a3abea969</guid>
+      <comments>https://getcomics.org/marvel/miles-morales-spider-man-brooklyns-finest-infinity-comic-15-17-2026/#respond</comments>
+      <dc:creator>The Comic Guy</dc:creator>
+      <pubDate>Tue, 26 May 2026 05:36:08 +0000</pubDate>
+      <category>Marvel Comics</category>
+      <category>Infinity Comic</category>
+      <category>Miles Morales - Spider-Man</category>
+      <category>Non 0-Day</category>
+      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 17 MB&lt;/p&gt;
+&lt;p&gt;Spidey's battle with Taskmaster ends...but a new battle is about to begin!&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://getcomics.org/marvel/miles-morales-spider-man-brooklyns-finest-infinity-comic-15-17-2026/"&gt;Miles Morales &amp;#8211; Spider-Man &amp;#8211; Brooklyn&amp;#8217;s Finest &amp;#8211; Infinity Comic #15 &amp;#8211; 17 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
+</description>
+      <wfw:commentRss>https://getcomics.org/marvel/miles-morales-spider-man-brooklyns-finest-infinity-comic-15-17-2026/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <wp9:post-id>397740</wp9:post-id>
+    </item>
+    <item>
       <title>Alias – Red Band #3 (2026)</title>
       <link>https://getcomics.org/marvel/alias-red-band-3-2026/</link>
       <guid isPermaLink="false">rss-tools:link-sha256:d86fb8b505aafd5b3aa092c7f6037fdefc48cb6aeee6a9bb296a67c1f1490540</guid>
@@ -64,6 +104,26 @@
       <wfw:commentRss>https://getcomics.org/marvel/alias-red-band-3-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>397006</wp9:post-id>
+    </item>
+    <item>
+      <title>Invincible Universe – Battle Beast #9 (2026)</title>
+      <link>https://getcomics.org/other-comics/invincible-universe-battle-beast-9-2026/</link>
+      <guid isPermaLink="false">rss-tools:link-sha256:f1fd0f86eb96c15ae901b4f3d6b45b8c381d5c40481649eead40bef8951a1fa5</guid>
+      <comments>https://getcomics.org/other-comics/invincible-universe-battle-beast-9-2026/#respond</comments>
+      <dc:creator>The Comic Guy</dc:creator>
+      <pubDate>Sun, 24 May 2026 11:26:59 +0000</pubDate>
+      <category>Other Comics</category>
+      <category>0-Day</category>
+      <category>Image Comics</category>
+      <category>Invincible Universe</category>
+      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 91 MB&lt;/p&gt;
+&lt;p&gt;Battle Beast and Prince Salaka both stand on the precipice of winning their most important battles... but who is that looming in the sky above?&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/invincible-universe-battle-beast-9-2026/"&gt;Invincible Universe &amp;#8211; Battle Beast #9 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
+</description>
+      <wfw:commentRss>https://getcomics.org/other-comics/invincible-universe-battle-beast-9-2026/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <wp9:post-id>397066</wp9:post-id>
     </item>
     <item>
       <title>Ultimate Impact – Reborn #1 (2026)</title>

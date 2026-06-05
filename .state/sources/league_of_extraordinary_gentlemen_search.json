@@ -1,12 +1,12 @@
 {
   "etag": "W/\"36d8bfc6f33226e1c803359ce984bf0f\"",
   "items": [],
-  "last_changed_at": "2026-06-04T18:43:07.305130Z",
+  "last_changed_at": "2026-06-05T11:03:27.549309Z",
   "last_checked_at": "2026-06-05T11:03:27.549309Z",
   "last_error": null,
   "last_modified": "Fri, 05 Jun 2026 00:51:27 GMT",
   "last_success_at": "2026-06-05T11:03:27.549309Z",
-  "link": "https://getcomics.org/search/absolute+tpb/feed/rss2/",
+  "link": "https://getcomics.org/search/league+of+extraordinary+gentlemen/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
     "content": "http://purl.org/rss/1.0/modules/content/",
@@ -18,7 +18,6 @@
     "wp10": "com-wordpress:feed-additions:1",
     "wp11": "com-wordpress:feed-additions:1",
     "wp12": "com-wordpress:feed-additions:1",
-    "wp13": "com-wordpress:feed-additions:1",
     "wp2": "com-wordpress:feed-additions:1",
     "wp3": "com-wordpress:feed-additions:1",
     "wp4": "com-wordpress:feed-additions:1",
@@ -29,5 +28,5 @@
     "wp9": "com-wordpress:feed-additions:1"
   },
   "refresh_hours": 24,
-  "slug": "absolute_tpb_search"
+  "slug": "league_of_extraordinary_gentlemen_search"
 }

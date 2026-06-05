@@ -1,231 +1,111 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:wp9="com-wordpress:feed-additions:1" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:wp13="com-wordpress:feed-additions:1" version="2.0">
   <channel>
     <title>Merged - OnGoing</title>
     <atom:link href="https://lab-anon.github.io/rss-tools/ongoing/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
-    <description>Merged and deduplicated GetComics OnGoing feeds.</description>
-    <lastBuildDate>Fri, 05 Jun 2026 09:54:48 +0000</lastBuildDate>
+    <description>GetComics OnGoing feeds</description>
+    <lastBuildDate>Fri, 05 Jun 2026 11:06:13 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
-      <title>Universal Monsters – Phantom of the Opera #4 (2026)</title>
-      <link>https://getcomics.org/other-comics/universal-monsters-phantom-of-the-opera-4-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:39193bc6306f6e11a73668984aef92de01c2be1f87b1a86d6274ca148c0b0f92</guid>
-      <comments>https://getcomics.org/other-comics/universal-monsters-phantom-of-the-opera-4-2026/#respond</comments>
+      <title>Void Rivals #30 (2026)</title>
+      <link>https://getcomics.org/other-comics/void-rivals-30-2026/</link>
+      <guid isPermaLink="false">rss-tools:link-sha256:939f672c90933ceeb76602d10a5a894ed6e8e96acee7606566aa212f3d338fb5</guid>
+      <comments>https://getcomics.org/other-comics/void-rivals-30-2026/#respond</comments>
       <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Thu, 28 May 2026 21:22:28 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 12:53:55 +0000</pubDate>
       <category>Other Comics</category>
       <category>0-Day</category>
       <category>Image Comics</category>
-      <category>Universal Monsters</category>
+      <category>Void Rivals</category>
       <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 138 MB&lt;/p&gt;
-&lt;p&gt;Christine comes face to face with The Phantom of The Opera. But who is the man under the mask?&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/universal-monsters-phantom-of-the-opera-4-2026/"&gt;Universal Monsters &amp;#8211; Phantom of the Opera #4 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 47 MB&lt;/p&gt;
+&lt;p&gt;THE QUINTESSON WAR is at its end! Sacrifices are made! Lives are lost! Life on the Sacred Ring will be changed forever! The most cataclysmic story of the Energon Universe ends here! (Next issue we'll check in on Skuxxoid to provide a bit of a breather, you're going to need it!)&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/void-rivals-30-2026/"&gt;Void Rivals #30 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
 </description>
-      <wfw:commentRss>https://getcomics.org/other-comics/universal-monsters-phantom-of-the-opera-4-2026/feed/</wfw:commentRss>
+      <wfw:commentRss>https://getcomics.org/other-comics/void-rivals-30-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
-      <wp9:post-id>397648</wp9:post-id>
+      <wp13:post-id>397651</wp13:post-id>
     </item>
     <item>
-      <title>BRZRKR – Light Draws Breath #1 (2026)</title>
-      <link>https://getcomics.org/other-comics/brzrkr-light-draws-breath-1-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:1578e6909705bc242a9ca625c33697f40da38107267e5af58b6a9b1b657295ad</guid>
-      <comments>https://getcomics.org/other-comics/brzrkr-light-draws-breath-1-2026/#respond</comments>
+      <title>Exquisite Corpses #13 (2026)</title>
+      <link>https://getcomics.org/other-comics/exquisite-corpses-13-2026/</link>
+      <guid isPermaLink="false">rss-tools:link-sha256:4dce2a89dff3d907badd30748089da45f7131ec7625a5140f46eca5f3327e263</guid>
+      <comments>https://getcomics.org/other-comics/exquisite-corpses-13-2026/#respond</comments>
       <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Thu, 28 May 2026 02:14:53 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 12:50:05 +0000</pubDate>
       <category>Other Comics</category>
       <category>0-Day</category>
-      <category>Boom Studios</category>
-      <category>BRZRKR</category>
+      <category>Exquisite Corpses</category>
+      <category>Image Comics</category>
       <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 87 MB&lt;/p&gt;
-&lt;p&gt;It’s the Bronze Age and B. is dead. Again. Not for long, of course. But two rogue scientists have siphoned off a tiny portion of his protoplasm before he can fully reconfigure, and something else has been born anew... Something that must learn what it is, what its powers are, how to be in the world — and how to fight those who would try to control it.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/brzrkr-light-draws-breath-1-2026/"&gt;BRZRKR &amp;#8211; Light Draws Breath #1 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 69 MB&lt;/p&gt;
+&lt;p&gt;Twelve killers were dropped into Oak Valley on Halloween night to determine the fate of the country. Now, dawn breaks and winner takes all as the final battle draws to a close. Who will survive…and what will be left of them? The first season of the breakout horror phenomenon concludes with blood and glory from multiple Eisner Award winner James Tynion IV (The Nice House by the Sea) and Eisner Award nominee Michael Walsh (Universal Monsters: Frankenstein)!&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/exquisite-corpses-13-2026/"&gt;Exquisite Corpses #13 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
 </description>
-      <wfw:commentRss>https://getcomics.org/other-comics/brzrkr-light-draws-breath-1-2026/feed/</wfw:commentRss>
+      <wfw:commentRss>https://getcomics.org/other-comics/exquisite-corpses-13-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
-      <wp9:post-id>397717</wp9:post-id>
+      <wp13:post-id>397606</wp13:post-id>
     </item>
     <item>
-      <title>Alien – The Friendliest Facehugger – Infinity Comic #2 – 4 (2026)</title>
-      <link>https://getcomics.org/marvel/alien-the-friendliest-facehugger-infinity-comic-2-4-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:4786e0e95156b456b0d5e1961e595f9d9df6129d0690431b6ae96cfe09ab6831</guid>
-      <comments>https://getcomics.org/marvel/alien-the-friendliest-facehugger-infinity-comic-2-4-2026/#respond</comments>
+      <title>Cyberpunk 2077 Library Edition Vol. 2 (TPB) (2026)</title>
+      <link>https://getcomics.org/other-comics/cyberpunk-2077-library-edition-vol-2-tpb-2026/</link>
+      <guid isPermaLink="false">rss-tools:link-sha256:3cee5f9300d52e2d4e1f027af8284eb4d19a87f46b4111fcecc699b61679d96f</guid>
+      <comments>https://getcomics.org/other-comics/cyberpunk-2077-library-edition-vol-2-tpb-2026/#respond</comments>
       <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Tue, 26 May 2026 05:29:34 +0000</pubDate>
-      <category>Marvel Comics</category>
-      <category>Alien</category>
-      <category>Infinity Comic</category>
+      <pubDate>Tue, 26 May 2026 05:41:56 +0000</pubDate>
+      <category>Other Comics</category>
+      <category>Cyberpunk 2077</category>
       <category>Non 0-Day</category>
+      <category>TPB</category>
       <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 9 MB&lt;/p&gt;
-&lt;p&gt;While the Xenomorphs spread chaos and violence aboard a space station, Facehuggie is just looking for someone to latch onto! Has Facehuggie found its friend at last?&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/marvel/alien-the-friendliest-facehugger-infinity-comic-2-4-2026/"&gt;Alien &amp;#8211; The Friendliest Facehugger &amp;#8211; Infinity Comic #2 &amp;#8211; 4 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 2.9 GB&lt;/p&gt;
+&lt;p&gt;In XOXO, when love blooms in Night City it’s hard, fast, and bloody, especially when falling for a member of a rival gang. Then the action takes to the street as the daughter of a famed carjacker seeks to make a new name for herself in Kickdown. Finally, a MaxTac squad is divided when their new leader escalates to the extremes of their cyberpsycho opponents in Psycho Squad. Collects Cyberpunk 2077: XOXO #1–#4, Cyberpunk 2077: Kickdown #1–#4, and Cyberpunk 2077: Psycho Squad #1–#4, and features a cover gallery and expanded sketchbook section!&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/cyberpunk-2077-library-edition-vol-2-tpb-2026/"&gt;Cyberpunk 2077 Library Edition Vol. 2 (TPB) (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
 </description>
-      <wfw:commentRss>https://getcomics.org/marvel/alien-the-friendliest-facehugger-infinity-comic-2-4-2026/feed/</wfw:commentRss>
+      <wfw:commentRss>https://getcomics.org/other-comics/cyberpunk-2077-library-edition-vol-2-tpb-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
-      <wp9:post-id>397731</wp9:post-id>
+      <wp13:post-id>397749</wp13:post-id>
     </item>
     <item>
-      <title>W0rldtr33 #20 (2026)</title>
-      <link>https://getcomics.org/other-comics/w0rldtr33-20-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:e8f6af37958daba4d91e933b1aeba308aed6fa5f930fc1ee4ad55dbc231e05c1</guid>
-      <comments>https://getcomics.org/other-comics/w0rldtr33-20-2026/#respond</comments>
+      <title>Cyberpunk 2077 – Chrome #3 (2026)</title>
+      <link>https://getcomics.org/other-comics/cyberpunk-2077-chrome-3-2026/</link>
+      <guid isPermaLink="false">rss-tools:link-sha256:41d3d223882257ff93a68f74d604fab988948bd52fe7f7631d5e56ab1bfdfbd2</guid>
+      <comments>https://getcomics.org/other-comics/cyberpunk-2077-chrome-3-2026/#respond</comments>
       <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Sat, 23 May 2026 16:00:36 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 14:41:37 +0000</pubDate>
+      <category>Other Comics</category>
+      <category>0-Day</category>
+      <category>Cyberpunk 2077</category>
+      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 153 MB&lt;/p&gt;
+&lt;p&gt;The Scavengers have another plan for the left-over friends, but so does the mysterious killer . . . As each survivor’s part in this savage game of cat-and-mouse is decided, they’ll discover the true motives of those who roam the landfill and the everlasting horror that will remain.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/cyberpunk-2077-chrome-3-2026/"&gt;Cyberpunk 2077 &amp;#8211; Chrome #3 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
+</description>
+      <wfw:commentRss>https://getcomics.org/other-comics/cyberpunk-2077-chrome-3-2026/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <wp13:post-id>397097</wp13:post-id>
+    </item>
+    <item>
+      <title>The Department of Truth #37 (2026)</title>
+      <link>https://getcomics.org/other-comics/the-department-of-truth-37-2026/</link>
+      <guid isPermaLink="false">rss-tools:link-sha256:68fc8339911e206e114848b96990cb3cac2672250f185ebb9d1cd01e090ef0e5</guid>
+      <comments>https://getcomics.org/other-comics/the-department-of-truth-37-2026/#respond</comments>
+      <dc:creator>The Comic Guy</dc:creator>
+      <pubDate>Wed, 13 May 2026 10:35:27 +0000</pubDate>
       <category>Other Comics</category>
       <category>0-Day</category>
       <category>Image Comics</category>
-      <category>W0rldtr33</category>
+      <category>The Department of Truth</category>
       <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 96 MB&lt;/p&gt;
-&lt;p&gt;Months have passed since PH34R provoked Gibson Lane into committing a horrific killing spree that put the end of the world as we know it into motion. Now, his older sisters are ready to do whatever it takes to avenge him—and his brother Ellison must decide how far he’ll go as an accomplice to their plans.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/w0rldtr33-20-2026/"&gt;W0rldtr33 #20 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 85 MB&lt;/p&gt;
+&lt;p&gt;Charity is a true believer. She follows the gospel of her Evangelical super-church, which preaches that man once shared the Earth with dinosaurs...dinosaurs that her congregation believe might still exist. And belief can be a hungry, bloodthirsty beast. Charity has always trusted in salvation — she just never expected it to come in the form of an overweight, atheist computer nerd named Hunky.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/the-department-of-truth-37-2026/"&gt;The Department of Truth #37 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
 </description>
-      <wfw:commentRss>https://getcomics.org/other-comics/w0rldtr33-20-2026/feed/</wfw:commentRss>
+      <wfw:commentRss>https://getcomics.org/other-comics/the-department-of-truth-37-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
-      <wp9:post-id>396547</wp9:post-id>
-    </item>
-    <item>
-      <title>Predator – Bloodshed #4 (2026)</title>
-      <link>https://getcomics.org/marvel/predator-bloodshed-4-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:5d3638bc791034a4f28d623f53a4e83cc4a6729abc94b34e3ad7a30f62768c56</guid>
-      <comments>https://getcomics.org/marvel/predator-bloodshed-4-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Wed, 20 May 2026 14:24:36 +0000</pubDate>
-      <category>Marvel Comics</category>
-      <category>0-Day</category>
-      <category>Predator</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 80 MB&lt;/p&gt;
-&lt;p&gt;A tournament of the world's fiercest fighters has been decimated after a Predator's lethal hunt. As the Yautja zeroes in on the few survivors left standing, one warrior's true purpose is finally unmasked. With deadly danger from within and without, it's kill or be killed. Will the Predator collect its final trophy?&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/marvel/predator-bloodshed-4-2026/"&gt;Predator &amp;#8211; Bloodshed #4 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/marvel/predator-bloodshed-4-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>397027</wp9:post-id>
-    </item>
-    <item>
-      <title>Deathstroke – The Terminator #3 (2026)</title>
-      <link>https://getcomics.org/dc/deathstroke-the-terminator-3-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:daca00017bc67026604a08536aabb237e8810c3400d5003bfd8622501daf5dc6</guid>
-      <comments>https://getcomics.org/dc/deathstroke-the-terminator-3-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Wed, 20 May 2026 08:19:31 +0000</pubDate>
-      <category>DC Comics</category>
-      <category>0-Day</category>
-      <category>Deathstroke</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 48 MB&lt;/p&gt;
-&lt;p&gt;THE BOUNTY IS OUT ON SLADE WILSON! It's said there is no honor among thieves. But there is a code among killers. Slade Wilson wrote the code. And now he's in Deadshot's and Deathblow's crosshairs for breaking its first rule!&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/dc/deathstroke-the-terminator-3-2026/"&gt;Deathstroke &amp;#8211; The Terminator #3 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/dc/deathstroke-the-terminator-3-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>396982</wp9:post-id>
-    </item>
-    <item>
-      <title>Aliens Epic Collection – The Original Years Vol. 3 (2025)</title>
-      <link>https://getcomics.org/marvel/aliens-epic-collection-the-original-years-vol-3-2025/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:61874d2b576b998f6fd06d3bcb65de4d28a6328ea4bbe685dff88ba7f004bcad</guid>
-      <comments>https://getcomics.org/marvel/aliens-epic-collection-the-original-years-vol-3-2025/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Sun, 17 May 2026 22:50:19 +0000</pubDate>
-      <category>Marvel Comics</category>
-      <category>Aliens</category>
-      <category>Epic Collection</category>
-      <category>Non 0-Day</category>
-      <category>TPB</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2025 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 1.5 GB&lt;/p&gt;
-&lt;p&gt;An elite team of Space Marines takes the fight to the Aliens across the galaxy! Meanwhile, Professor Ernst Kleist has achieved the impossible: He has genetically engineered powerful, obedient Aliens. But the horror of nature is dwarfed by the terror of the man toying with it! And he isn’t the only one carrying out experiments on the Aliens: Colonel Doctor Paul Church, head of the space station Innominata, is determined to find out what makes them tick — and he’s using Colonial Marines as bait. But the U.S. government doesn’t like what it’s hearing, and they send an investigator empowered to get the truth — any way he can! Plus: more tales of Alien horror! Collecting ALIEN 3 #1-3, ALIENS: SPACE MARINES #1-12, ALIENS: ROGUE #1-4, ALIENS: LABYRINTH #1-4 and material from DARK HORSE COMICS (1992) #3-5 and #11-13, PREVIEWS (1993) #1-12, PREVIEWS (1994) #1 and ALIENS MAGAZINE (1992) #9-12.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/marvel/aliens-epic-collection-the-original-years-vol-3-2025/"&gt;Aliens Epic Collection &amp;#8211; The Original Years Vol. 3 (2025)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/marvel/aliens-epic-collection-the-original-years-vol-3-2025/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>396911</wp9:post-id>
-    </item>
-    <item>
-      <title>Predator Kills The Marvel Universe (TPB) (2026)</title>
-      <link>https://getcomics.org/marvel/predator-kills-the-marvel-universe-tpb-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:552d53d874863ea77c6e9f7fdea937951055adebd7bd09fad88a688209a1c550</guid>
-      <comments>https://getcomics.org/marvel/predator-kills-the-marvel-universe-tpb-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Thu, 14 May 2026 00:44:38 +0000</pubDate>
-      <category>Marvel Comics</category>
-      <category>Non 0-Day</category>
-      <category>Predator</category>
-      <category>TPB</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 413 MB&lt;/p&gt;
-&lt;p&gt;The biggest crossover yet between the iconic franchises of Marvel and Predator! A Predator King, emboldened by a new vibranium arsenal and aided by a surprising human ally, launches an all-out invasion of Earth, claiming the planet as a hunting preserve! After several battles in our solar system - which devastate both the Guardians of the Galaxy and the Fantastic Four - the Predators escalate to the next stage of their war. And the X-Men and the Avengers are at the top of their kill list! Wolverine, Spider-Man and Black Panther call on all their experience battling Predators in the past, and an unexpected ally makes an appearance…but will it be enough? Who will survive this extinction-level event as the entire Marvel Universe finds itself in the tri-laser crosshairs of the Predators?! Collecting PREDATOR KILLS THE MARVEL UNIVERSE (2025) #1-5.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/marvel/predator-kills-the-marvel-universe-tpb-2026/"&gt;Predator Kills The Marvel Universe (TPB) (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/marvel/predator-kills-the-marvel-universe-tpb-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>396809</wp9:post-id>
-    </item>
-    <item>
-      <title>Hello Darkness #21 (2026)</title>
-      <link>https://getcomics.org/other-comics/hello-darkness-21-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:dbb77d75398ae85d6fac580173fa0587d41c362df57608d8ae18c85b02136a23</guid>
-      <comments>https://getcomics.org/other-comics/hello-darkness-21-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Wed, 13 May 2026 23:40:24 +0000</pubDate>
-      <category>Other Comics</category>
-      <category>0-Day</category>
-      <category>Boom Studios</category>
-      <category>Hello Darkness</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 147 MB&lt;/p&gt;
-&lt;p&gt;Hello Darkness plummets into the blackest depths of the human heart in this special mystery/thriller-themed anthology issue! In “Leading the Witness” by Ed Brisson and Damian Couceiro, a chance encounter with a stranger sends an innocent man down a never-ending spiral of self-fulling murder. And in “A Chase of Chianti, Heavily Discounted,” New York Times–bestselling crime writer Duane Swierczynski and George Romero Foundation’s artist-in-residence Ryan Carr get gruesome when a tough-as-nails mobster’s affair with his boss’s wife winds him up in a spot even his legendary pain threshold won’t withstand. All this and more for a bountiful bouquet of blood and bullets from BOOM!’s smash-hit horror series.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/hello-darkness-21-2026/"&gt;Hello Darkness #21 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/other-comics/hello-darkness-21-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>396580</wp9:post-id>
-    </item>
-    <item>
-      <title>Something Is Killing the Children #47 (2026)</title>
-      <link>https://getcomics.org/other-comics/something-is-killing-the-children-47-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:b2061b06d5f61aeba5084753b01f275b4617aa4fe2408fc5f780aa387caea106</guid>
-      <comments>https://getcomics.org/other-comics/something-is-killing-the-children-47-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Wed, 13 May 2026 12:54:44 +0000</pubDate>
-      <category>Other Comics</category>
-      <category>0-Day</category>
-      <category>Boom Studios</category>
-      <category>Something Is Killing The Children</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 91 MB&lt;/p&gt;
-&lt;p&gt;The events of Valmont Mountain Lodge change Cecilia and Jessica Slaughter’s lives forevermore! In our newest entry to the Slaughterverse, the monster’s been slain, and Adda, Jessica, and Cecilia Slaughter must now deal with the fallout. Jessica intends to do everything in her power to protect the little girl who just lost her family. But will Cecilia share her views once she takes matters into her own hands? A life hangs in the balance — will the darkest side of the Order of St. George swallow it whole? ]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/something-is-killing-the-children-47-2026/"&gt;Something Is Killing the Children #47 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/other-comics/something-is-killing-the-children-47-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>396583</wp9:post-id>
-    </item>
-    <item>
-      <title>Fall of the House of Slaughter #1 (2026)</title>
-      <link>https://getcomics.org/other-comics/fall-of-the-house-of-slaughter-1-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:b56940f1d457aa4258d73fd1e95f5262764c2fd9bf1ca6d0839d9e0be0b8006c</guid>
-      <comments>https://getcomics.org/other-comics/fall-of-the-house-of-slaughter-1-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Wed, 06 May 2026 21:23:54 +0000</pubDate>
-      <category>Other Comics</category>
-      <category>0-Day</category>
-      <category>Boom Studios</category>
-      <category>House of Slaughter</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 128 MB&lt;/p&gt;
-&lt;p&gt;As the House of Slaughter’s ailing Old Dragon enters his final days, Cecilia Slaughter and the other Heads gather to determine his successor. Deadly ambitions begin to take shape as the House and the Order prepare for a new legacy to begin — and the conflict will no doubt be lethal in this all-new miniseries set in the world of Something is Killing the Children! Can the House of Slaughter survive a new Dragon coming into power? &lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/fall-of-the-house-of-slaughter-1-2026/"&gt;Fall of the House of Slaughter #1 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/other-comics/fall-of-the-house-of-slaughter-1-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>396148</wp9:post-id>
+      <wp13:post-id>396507</wp13:post-id>
     </item>
   </channel>
 </rss>
