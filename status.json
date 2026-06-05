@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T05:19:42.793361Z",
+  "generated_at": "2026-06-05T09:54:48.981848Z",
   "rows": [
     {
       "description": "Merged and deduplicated GetComics OnGoing feeds.",
       "item_count": 11,
       "last_error": null,
-      "last_success_at": "2026-06-05T05:19:42.793361Z",
+      "last_success_at": "2026-06-05T09:54:48.981848Z",
       "public_url": "https://lab-anon.github.io/rss-tools/ongoing/feed.xml",
       "slug": "ongoing",
       "status": "ok",
@@ -16,7 +16,7 @@
       "description": "Merged and deduplicated GetComics Supers feeds.",
       "item_count": 5,
       "last_error": null,
-      "last_success_at": "2026-06-05T05:19:42.793361Z",
+      "last_success_at": "2026-06-05T09:54:48.981848Z",
       "public_url": "https://lab-anon.github.io/rss-tools/supers/feed.xml",
       "slug": "supers",
       "status": "ok",
@@ -27,22 +27,12 @@
       "description": "Merged and deduplicated comics TPB feed.",
       "item_count": 115,
       "last_error": null,
-      "last_success_at": "2026-06-05T05:19:42.793361Z",
+      "last_success_at": "2026-06-05T09:54:48.981848Z",
       "public_url": "https://lab-anon.github.io/rss-tools/tpb/feed.xml",
       "slug": "tpb",
       "status": "ok",
       "title": "Merged - TPB",
       "type": "merger"
-    },
-    {
-      "item_count": 113,
-      "last_error": null,
-      "last_success_at": "2026-06-05T05:19:32.173071Z",
-      "link": "https://getcomics.org/tag/tpb/feed/",
-      "refresh_hours": 6,
-      "slug": "tpb_tag",
-      "status": "ok",
-      "type": "source"
     },
     {
       "item_count": 0,
@@ -221,6 +211,16 @@
       "link": "https://getcomics.org/search/tpb/feed/rss2/",
       "refresh_hours": 24,
       "slug": "tpb_search",
+      "status": "skipped",
+      "type": "source"
+    },
+    {
+      "item_count": 113,
+      "last_error": null,
+      "last_success_at": "2026-06-05T05:19:32.173071Z",
+      "link": "https://getcomics.org/tag/tpb/feed/",
+      "refresh_hours": 6,
+      "slug": "tpb_tag",
       "status": "skipped",
       "type": "source"
     },
