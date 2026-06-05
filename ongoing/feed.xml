@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/ongoing/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>Merged and deduplicated GetComics OnGoing feeds.</description>
-    <lastBuildDate>Fri, 05 Jun 2026 00:10:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 05:19:42 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -226,25 +226,6 @@
       <wfw:commentRss>https://getcomics.org/other-comics/fall-of-the-house-of-slaughter-1-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>396148</wp9:post-id>
-    </item>
-    <item>
-      <title>Alien – King Killer #2 (2026)</title>
-      <link>https://getcomics.org/marvel/alien-king-killer-2-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:2e28ec345320b68a71101dfcc90106f180a3f089183a0866d3cfd67aef55c9a1</guid>
-      <comments>https://getcomics.org/marvel/alien-king-killer-2-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Wed, 06 May 2026 05:12:51 +0000</pubDate>
-      <category>Marvel Comics</category>
-      <category>0-Day</category>
-      <category>Alien</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 73 MB&lt;/p&gt;
-&lt;p&gt;On a world already overrun by Xenomorphs, the few remaining humans survive under the protection of a trio of mysterious warlords known as the Three Kings. But there is one other human who can hold his own against the alien horde, the wanderer Idris. And now Idris is coming for the first of the Kings. What is Idris' secret connection to humanity's apparent saviors – and why does he want to burn the last bastion of humanity down to the ground?!&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/marvel/alien-king-killer-2-2026/"&gt;Alien &amp;#8211; King Killer #2 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/marvel/alien-king-killer-2-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>396016</wp9:post-id>
     </item>
   </channel>
 </rss>
