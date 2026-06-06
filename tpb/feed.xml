@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/tpb/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>GetComics TPB feed</description>
-    <lastBuildDate>Sat, 06 Jun 2026 07:47:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 10:06:13 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -2239,26 +2239,6 @@
       <wfw:commentRss>https://getcomics.org/other-comics/terrorbytes-vol-1-tpb-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>396346</wp9:post-id>
-    </item>
-    <item>
-      <title>Nightwing – A Knight in Blüdhaven Compendium Three (TPB) (2026)</title>
-      <link>https://getcomics.org/dc/nightwing-a-knight-in-bludhaven-compendium-three-tpb-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:a16551962164cc1929587ad1c0a3dbb8baaed6b807c767d5889330cfe45fc9c2</guid>
-      <comments>https://getcomics.org/dc/nightwing-a-knight-in-bludhaven-compendium-three-tpb-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Thu, 07 May 2026 10:05:25 +0000</pubDate>
-      <category>DC Comics</category>
-      <category>Nightwing</category>
-      <category>Non 0-Day</category>
-      <category>TPB</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 1.4 GB&lt;/p&gt;
-&lt;p&gt;The third volume in the acclaimed A Knight in Blüdhaven compendium series finds Dick Grayson caught in the crossfire of universe-shaking events and personal reckonings. With Gotham in upheaval and global crises threatening from all sides, including the Joker’s devastating Last Laugh, Nightwing must navigate high-stakes missions alongside Batman, Oracle, the Flash, and more. From confronting citywide corruption to surviving intergalactic warfare, these stories showcase the full scope of Nightwing’s courage, leadership, and unyielding drive to protect the people of Blüdhaven. This volume continues Dick Grayson’s defining solo journey, with pivotal moments and pulse-pounding crossovers that cement his status as one of DC’s most enduring icons. Collects Batman #600 and #605; Nightwing #60-82; The Flash Plus Nightwing #1; Birds of Prey #37; Batman: Gotham Knights #14, #16-17, and #20-21; Nightwing: The Target #1; Batman: The 10-Cent Adventure #1; Joker: Last Laugh Secret Files and Origins #1; Joker: Last Laugh #1-6; and Nightwing: Our Worlds at War #1.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/dc/nightwing-a-knight-in-bludhaven-compendium-three-tpb-2026/"&gt;Nightwing &amp;#8211; A Knight in Blüdhaven Compendium Three (TPB) (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/dc/nightwing-a-knight-in-bludhaven-compendium-three-tpb-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>396318</wp9:post-id>
     </item>
   </channel>
 </rss>
