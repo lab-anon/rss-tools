@@ -1,11 +1,11 @@
 {
-  "etag": "W/\"4c5d1111df448cac475038a7ba113b63\"",
+  "etag": "W/\"06a1c8ed53e31c46a6eebb246978e0a4\"",
   "items": [],
   "last_changed_at": "2026-06-05T11:03:27.549309Z",
-  "last_checked_at": "2026-06-07T13:57:19.472020Z",
+  "last_checked_at": "2026-06-08T14:09:44.675068Z",
   "last_error": null,
-  "last_modified": "Sun, 07 Jun 2026 04:45:05 GMT",
-  "last_success_at": "2026-06-07T13:57:19.472020Z",
+  "last_modified": "Mon, 08 Jun 2026 13:37:16 GMT",
+  "last_success_at": "2026-06-08T14:09:44.675068Z",
   "link": "https://getcomics.org/search/nemesis+forever/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
