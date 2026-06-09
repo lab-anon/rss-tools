@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/tpb/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>GetComics TPB feed</description>
-    <lastBuildDate>Tue, 09 Jun 2026 21:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 22:47:29 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -2418,26 +2418,6 @@
       <wfw:commentRss>https://getcomics.org/other-comics/artificial-tpb-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>396655</wp9:post-id>
-    </item>
-    <item>
-      <title>Greyshirt by Veitch and Moore (2026) (Fan-Made TPB)</title>
-      <link>https://getcomics.org/other-comics/greyshirt-by-veitch-and-moore-2026-fan-made-tpb/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:3b368610f06daba75b3cbf114faa242c3bf10a4603b15b92aa03d5feb4e3cabe</guid>
-      <comments>https://getcomics.org/other-comics/greyshirt-by-veitch-and-moore-2026-fan-made-tpb/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Sun, 10 May 2026 22:34:19 +0000</pubDate>
-      <category>Other Comics</category>
-      <category>Non 0-Day</category>
-      <category>Tomorrow Stories</category>
-      <category>TPB</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 207 MB&lt;/p&gt;
-&lt;p&gt;Greyshirt by Veitch and Moore (2026) (Fan-Made TPB)&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/greyshirt-by-veitch-and-moore-2026-fan-made-tpb/"&gt;Greyshirt by Veitch and Moore (2026) (Fan-Made TPB)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/other-comics/greyshirt-by-veitch-and-moore-2026-fan-made-tpb/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>396423</wp9:post-id>
     </item>
   </channel>
 </rss>
