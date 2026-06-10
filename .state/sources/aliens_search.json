@@ -1,6 +1,14 @@
 {
-  "etag": "W/\"dfd087b3f26ebaf1e5cb94395ceb4bd7\"",
+  "etag": "W/\"323e1f21ffa3ec58fb74d85edd3208ca\"",
   "items": [
+    {
+      "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Alien \u2013 King Killer #3 (2026)</title>\n\t\t<link>https://getcomics.org/marvel/alien-king-killer-3-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/marvel/alien-king-killer-3-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Wed, 10 Jun 2026 04:56:44 +0000</pubDate>\n\t\t\t\t<category>Marvel Comics</category>\n\t\t<category>0-Day</category>\n\t\t<category>Alien</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 74 MB&lt;/p&gt;\n&lt;p&gt;On the Xenomorph-infested planet SOVRYN, humanity has already fallen. The augmented human Idris is among the few survivors, but he is now a prisoner of his brother, the Green King. But even if Idris can escape, he must then confront what awaits just beyond the protective walls of the Green King's compound...&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/marvel/alien-king-killer-3-2026/\"&gt;Alien &amp;#8211; King Killer #3 (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/marvel/alien-king-killer-3-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>398653</wp9:post-id>\t</item>\n\t\t",
+      "link": "https://getcomics.org/marvel/alien-king-killer-3-2026/",
+      "normalized_link": "https://getcomics.org/marvel/alien-king-killer-3-2026",
+      "published_at": "2026-06-10T04:56:44Z",
+      "stable_id": "22a6e3b84b0c35874fdb17541fac895a4c2e415ff8615dbf149dabe41c984c87",
+      "title": "Alien \u2013 King Killer #3 (2026)"
+    },
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Alien \u2013 The Friendliest Facehugger \u2013 Infinity Comic #2 \u2013 4 (2026)</title>\n\t\t<link>https://getcomics.org/marvel/alien-the-friendliest-facehugger-infinity-comic-2-4-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/marvel/alien-the-friendliest-facehugger-infinity-comic-2-4-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Tue, 26 May 2026 05:29:34 +0000</pubDate>\n\t\t\t\t<category>Marvel Comics</category>\n\t\t<category>Alien</category>\n\t\t<category>Infinity Comic</category>\n\t\t<category>Non 0-Day</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 9 MB&lt;/p&gt;\n&lt;p&gt;While the Xenomorphs spread chaos and violence aboard a space station, Facehuggie is just looking for someone to latch onto! Has Facehuggie found its friend at last?&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/marvel/alien-the-friendliest-facehugger-infinity-comic-2-4-2026/\"&gt;Alien &amp;#8211; The Friendliest Facehugger &amp;#8211; Infinity Comic #2 &amp;#8211; 4 (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/marvel/alien-the-friendliest-facehugger-infinity-comic-2-4-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>397731</wp9:post-id>\t</item>\n\t\t",
       "link": "https://getcomics.org/marvel/alien-the-friendliest-facehugger-infinity-comic-2-4-2026/",
@@ -18,11 +26,11 @@
       "title": "Aliens Epic Collection \u2013 The Original Years Vol. 3 (2025)"
     }
   ],
-  "last_changed_at": "2026-06-05T20:05:37.814034Z",
-  "last_checked_at": "2026-06-09T22:44:13.258766Z",
+  "last_changed_at": "2026-06-10T22:52:55.355182Z",
+  "last_checked_at": "2026-06-10T22:52:55.355182Z",
   "last_error": null,
-  "last_modified": "Tue, 09 Jun 2026 15:25:52 GMT",
-  "last_success_at": "2026-06-09T22:44:13.258766Z",
+  "last_modified": "Wed, 10 Jun 2026 22:48:07 GMT",
+  "last_success_at": "2026-06-10T22:52:55.355182Z",
   "link": "https://getcomics.org/search/aliens/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",

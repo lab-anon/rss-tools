@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"dfd087b3f26ebaf1e5cb94395ceb4bd7\"",
+  "etag": "W/\"323e1f21ffa3ec58fb74d85edd3208ca\"",
   "items": [
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Universal Monsters \u2013 Phantom of the Opera #4 (2026)</title>\n\t\t<link>https://getcomics.org/other-comics/universal-monsters-phantom-of-the-opera-4-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/other-comics/universal-monsters-phantom-of-the-opera-4-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Thu, 28 May 2026 21:22:28 +0000</pubDate>\n\t\t\t\t<category>Other Comics</category>\n\t\t<category>0-Day</category>\n\t\t<category>Image Comics</category>\n\t\t<category>Universal Monsters</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 138 MB&lt;/p&gt;\n&lt;p&gt;Christine comes face to face with The Phantom of The Opera. But who is the man under the mask?&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/other-comics/universal-monsters-phantom-of-the-opera-4-2026/\"&gt;Universal Monsters &amp;#8211; Phantom of the Opera #4 (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/other-comics/universal-monsters-phantom-of-the-opera-4-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>397648</wp9:post-id>\t</item>\n\t\t",
@@ -11,10 +11,10 @@
     }
   ],
   "last_changed_at": "2026-06-05T20:05:37.814034Z",
-  "last_checked_at": "2026-06-09T22:44:13.258766Z",
+  "last_checked_at": "2026-06-10T22:52:55.355182Z",
   "last_error": null,
-  "last_modified": "Tue, 09 Jun 2026 15:25:52 GMT",
-  "last_success_at": "2026-06-09T22:44:13.258766Z",
+  "last_modified": "Wed, 10 Jun 2026 22:48:07 GMT",
+  "last_success_at": "2026-06-10T22:52:55.355182Z",
   "link": "https://getcomics.org/search/universal+monsters/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
