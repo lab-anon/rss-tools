@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"dfd087b3f26ebaf1e5cb94395ceb4bd7\"",
+  "etag": "W/\"f6fea58b3b6db39e1cfb0330b2876ac5\"",
   "items": [
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>W0rldtr33 #20 (2026)</title>\n\t\t<link>https://getcomics.org/other-comics/w0rldtr33-20-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/other-comics/w0rldtr33-20-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Sat, 23 May 2026 16:00:36 +0000</pubDate>\n\t\t\t\t<category>Other Comics</category>\n\t\t<category>0-Day</category>\n\t\t<category>Image Comics</category>\n\t\t<category>W0rldtr33</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 96 MB&lt;/p&gt;\n&lt;p&gt;Months have passed since PH34R provoked Gibson Lane into committing a horrific killing spree that put the end of the world as we know it into motion. Now, his older sisters are ready to do whatever it takes to avenge him\u2014and his brother Ellison must decide how far he\u2019ll go as an accomplice to their plans.&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/other-comics/w0rldtr33-20-2026/\"&gt;W0rldtr33 #20 (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/other-comics/w0rldtr33-20-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>396547</wp9:post-id>\t</item>\n\t\t",
@@ -11,10 +11,10 @@
     }
   ],
   "last_changed_at": "2026-06-05T11:03:27.549309Z",
-  "last_checked_at": "2026-06-09T15:57:26.513091Z",
+  "last_checked_at": "2026-06-10T17:59:01.081172Z",
   "last_error": null,
-  "last_modified": "Tue, 09 Jun 2026 15:25:52 GMT",
-  "last_success_at": "2026-06-09T15:57:26.513091Z",
+  "last_modified": "Wed, 10 Jun 2026 16:42:56 GMT",
+  "last_success_at": "2026-06-10T17:59:01.081172Z",
   "link": "https://getcomics.org/search/w0rldtr33/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
