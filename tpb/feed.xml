@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/tpb/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>GetComics TPB feed</description>
-    <lastBuildDate>Wed, 10 Jun 2026 22:56:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 00:17:42 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -2377,47 +2377,6 @@
       <wfw:commentRss>https://getcomics.org/other-comics/the-magic-order-library-edition-vol-2-tpb-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>396674</wp9:post-id>
-    </item>
-    <item>
-      <title>Wonder Woman – Amazons Attack (2007)</title>
-      <link>https://getcomics.org/dc/wonder-woman-amazons-attack-2007/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:a889def10cc16d59f981797ef31f46e863b3544034840ceedadbdc227ca63752</guid>
-      <comments>https://getcomics.org/dc/wonder-woman-amazons-attack-2007/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Mon, 11 May 2026 23:51:18 +0000</pubDate>
-      <category>DC Comics</category>
-      <category>Non 0-Day</category>
-      <category>TPB</category>
-      <category>Wonder Woman</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2007 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 28 MB&lt;/p&gt;
-&lt;p&gt;Since the events of INFINITE CRISIS, Wonder Woman's Amazon sisters have retreated to the realm of the gods. But now the Amazons are back, screaming for vengeance. What could compel the Amazons to attack the United States?&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/dc/wonder-woman-amazons-attack-2007/"&gt;Wonder Woman &amp;#8211; Amazons Attack (2007)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/dc/wonder-woman-amazons-attack-2007/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>396661</wp9:post-id>
-    </item>
-    <item>
-      <title>Artificial (TPB) (2026)</title>
-      <link>https://getcomics.org/other-comics/artificial-tpb-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:556afffd5bfa0baa24f09ef446112800fa1812d76c38fe6f063c8d81f824e7a0</guid>
-      <comments>https://getcomics.org/other-comics/artificial-tpb-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Mon, 11 May 2026 23:47:40 +0000</pubDate>
-      <category>Other Comics</category>
-      <category>Artificial</category>
-      <category>Image Comics</category>
-      <category>Non 0-Day</category>
-      <category>TPB</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 123 MB&lt;/p&gt;
-&lt;p&gt;Babygirl meets Black Mirror in ARTIFICIAL, the new spicy sci-fi romance by acclaimed creator Maria Llovet. Clara, a fashion stylist disillusioned with love, turns to a futuristic dating service offering lifelike android partners. What begins as curiosity blossoms into passion, but when her dream lover glitches into a possessive stalker, she finds herself trapped in a game of desire, control, and survival. If you’ve devoured A Court of Thorns and Roses, Fourth Wing, or From Blood and Ash but have never dipped into the world of graphic storytelling, ARTIFICIAL is the perfect first spicy step.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/artificial-tpb-2026/"&gt;Artificial (TPB) (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/other-comics/artificial-tpb-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>396655</wp9:post-id>
     </item>
   </channel>
 </rss>
