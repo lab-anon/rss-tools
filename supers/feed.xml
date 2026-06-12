@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/supers/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>GetComics Supers feeds</description>
-    <lastBuildDate>Fri, 12 Jun 2026 12:26:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 16:20:41 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -184,25 +184,6 @@
       <wfw:commentRss>https://getcomics.org/marvel/ultimate-impact-reborn-1-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>397042</wp9:post-id>
-    </item>
-    <item>
-      <title>Ultimate Endgame #4 (2026)</title>
-      <link>https://getcomics.org/marvel/ultimate-endgame-4-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:079d34f2801c307878c1bfa0aa8de38db607103d8f3145bc5e2e2229f1a7336a</guid>
-      <comments>https://getcomics.org/marvel/ultimate-endgame-4-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Wed, 13 May 2026 13:02:53 +0000</pubDate>
-      <category>Marvel Comics</category>
-      <category>0-Day</category>
-      <category>Ultimate Endgame</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 47 MB&lt;/p&gt;
-&lt;p&gt;SPIDER-MAN MEETS HIS MAKER! Time is ticking on the Ultimate Universe!!! In this penultimate issue of the most climactic super-hero event EVER(!)... heroes will fall, villains will rise and your favorite characters will be forced to make difficult sacrifices!&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/marvel/ultimate-endgame-4-2026/"&gt;Ultimate Endgame #4 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/marvel/ultimate-endgame-4-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>396494</wp9:post-id>
     </item>
   </channel>
 </rss>

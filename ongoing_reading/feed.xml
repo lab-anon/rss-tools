@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/ongoing_reading/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>GetComics OnGoing Reading feeds</description>
-    <lastBuildDate>Fri, 12 Jun 2026 12:26:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 16:20:41 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -225,26 +225,6 @@
       <wfw:commentRss>https://getcomics.org/other-comics/hello-darkness-21-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>396580</wp9:post-id>
-    </item>
-    <item>
-      <title>Something Is Killing the Children #47 (2026)</title>
-      <link>https://getcomics.org/other-comics/something-is-killing-the-children-47-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:b2061b06d5f61aeba5084753b01f275b4617aa4fe2408fc5f780aa387caea106</guid>
-      <comments>https://getcomics.org/other-comics/something-is-killing-the-children-47-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Wed, 13 May 2026 12:54:44 +0000</pubDate>
-      <category>Other Comics</category>
-      <category>0-Day</category>
-      <category>Boom Studios</category>
-      <category>Something Is Killing The Children</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 91 MB&lt;/p&gt;
-&lt;p&gt;The events of Valmont Mountain Lodge change Cecilia and Jessica Slaughter’s lives forevermore! In our newest entry to the Slaughterverse, the monster’s been slain, and Adda, Jessica, and Cecilia Slaughter must now deal with the fallout. Jessica intends to do everything in her power to protect the little girl who just lost her family. But will Cecilia share her views once she takes matters into her own hands? A life hangs in the balance — will the darkest side of the Order of St. George swallow it whole? ]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/something-is-killing-the-children-47-2026/"&gt;Something Is Killing the Children #47 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/other-comics/something-is-killing-the-children-47-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>396583</wp9:post-id>
     </item>
   </channel>
 </rss>
