@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/ongoing/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>GetComics OnGoing feeds</description>
-    <lastBuildDate>Fri, 12 Jun 2026 08:58:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 12:26:51 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -86,26 +86,6 @@
       <wfw:commentRss>https://getcomics.org/other-comics/cyberpunk-2077-chrome-3-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp13:post-id>397097</wp13:post-id>
-    </item>
-    <item>
-      <title>The Department of Truth #37 (2026)</title>
-      <link>https://getcomics.org/other-comics/the-department-of-truth-37-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:68fc8339911e206e114848b96990cb3cac2672250f185ebb9d1cd01e090ef0e5</guid>
-      <comments>https://getcomics.org/other-comics/the-department-of-truth-37-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Wed, 13 May 2026 10:35:27 +0000</pubDate>
-      <category>Other Comics</category>
-      <category>0-Day</category>
-      <category>Image Comics</category>
-      <category>The Department of Truth</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 85 MB&lt;/p&gt;
-&lt;p&gt;Charity is a true believer. She follows the gospel of her Evangelical super-church, which preaches that man once shared the Earth with dinosaurs...dinosaurs that her congregation believe might still exist. And belief can be a hungry, bloodthirsty beast. Charity has always trusted in salvation — she just never expected it to come in the form of an overweight, atheist computer nerd named Hunky.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/the-department-of-truth-37-2026/"&gt;The Department of Truth #37 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/other-comics/the-department-of-truth-37-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp13:post-id>396507</wp13:post-id>
     </item>
   </channel>
 </rss>
