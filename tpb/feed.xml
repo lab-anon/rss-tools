@@ -5,9 +5,29 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/tpb/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>GetComics TPB feed</description>
-    <lastBuildDate>Sat, 13 Jun 2026 15:02:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 17:24:58 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
+    <item>
+      <title>JLA – Ultramarine Corps (TPB) (2008)</title>
+      <link>https://getcomics.org/dc/jla-ultramarine-corps-tpb-2008/</link>
+      <guid isPermaLink="false">rss-tools:link-sha256:550f5099bff38cd0e4dd36808dde1236d3cbfa874adfabd606be1007da584c34</guid>
+      <comments>https://getcomics.org/dc/jla-ultramarine-corps-tpb-2008/#respond</comments>
+      <dc:creator>The Comic Guy</dc:creator>
+      <pubDate>Sat, 13 Jun 2026 13:02:42 +0000</pubDate>
+      <category>DC Comics</category>
+      <category>JLA</category>
+      <category>Non 0-Day</category>
+      <category>TPB</category>
+      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2008 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 190  MB&lt;/p&gt;
+&lt;p&gt;Grant Morrison returns to the JLA with this incredible volume collecting JLA ClASSIFIED #1-3, and JLA//WILDCATS! In it, the International Ultramarine Corps, a super-team from around the globe, is attacked by the hyperintelligent, evil Gorilla Grodd and his guerilla gorilla militia. Plus, the JLA meets the WildCats to take on the threat of the Lord of Time!&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://getcomics.org/dc/jla-ultramarine-corps-tpb-2008/"&gt;JLA &amp;#8211; Ultramarine Corps (TPB) (2008)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
+</description>
+      <wfw:commentRss>https://getcomics.org/dc/jla-ultramarine-corps-tpb-2008/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <wp9:post-id>398527</wp9:post-id>
+    </item>
     <item>
       <title>Web Of Spider-Man Omnibus Vol. 2 (2026)</title>
       <link>https://getcomics.org/marvel/web-of-spider-man-omnibus-vol-2-2026/</link>
@@ -459,26 +479,6 @@
       <wfw:commentRss>https://getcomics.org/marvel/fantastic-four-omnibus-vol-1-4-2018-2021/feed/</wfw:commentRss>
       <slash:comments>1</slash:comments>
       <wp9:post-id>297346</wp9:post-id>
-    </item>
-    <item>
-      <title>JLA – Ultramarine Corps (TPB) (2008)</title>
-      <link>https://getcomics.org/dc/jla-ultramarine-corps-tpb-2008/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:550f5099bff38cd0e4dd36808dde1236d3cbfa874adfabd606be1007da584c34</guid>
-      <comments>https://getcomics.org/dc/jla-ultramarine-corps-tpb-2008/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Sat, 06 Jun 2026 22:39:42 +0000</pubDate>
-      <category>DC Comics</category>
-      <category>JLA</category>
-      <category>Non 0-Day</category>
-      <category>TPB</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2008 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 161 MB&lt;/p&gt;
-&lt;p&gt;Grant Morrison returns to the JLA with this incredible volume collecting JLA ClASSIFIED #1-3, and JLA//WILDCATS! In it, the International Ultramarine Corps, a super-team from around the globe, is attacked by the hyperintelligent, evil Gorilla Grodd and his guerilla gorilla militia. Plus, the JLA meets the WildCats to take on the threat of the Lord of Time!&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/dc/jla-ultramarine-corps-tpb-2008/"&gt;JLA &amp;#8211; Ultramarine Corps (TPB) (2008)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/dc/jla-ultramarine-corps-tpb-2008/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>398527</wp9:post-id>
     </item>
     <item>
       <title>Darkwing Duck – Negaduck Vol. 2 – The Ancient Order Of Villainy (TPB) (2025)</title>
