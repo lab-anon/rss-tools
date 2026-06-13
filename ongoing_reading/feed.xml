@@ -5,9 +5,29 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/ongoing_reading/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>GetComics OnGoing Reading feeds</description>
-    <lastBuildDate>Fri, 12 Jun 2026 23:18:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 04:02:07 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
+    <item>
+      <title>The Nice House by the Sea #10 (2026)</title>
+      <link>https://getcomics.org/dc/the-nice-house-by-the-sea-10-2026/</link>
+      <guid isPermaLink="false">rss-tools:link-sha256:7ef26368ae88c002964fd521540830382c939f980b93de12b8d6680b8ebb2e9d</guid>
+      <comments>https://getcomics.org/dc/the-nice-house-by-the-sea-10-2026/#respond</comments>
+      <dc:creator>The Comic Guy</dc:creator>
+      <pubDate>Fri, 12 Jun 2026 16:46:53 +0000</pubDate>
+      <category>DC Comics</category>
+      <category>0-Day</category>
+      <category>The Nice House by the Sea</category>
+      <category>Vertigo</category>
+      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 53 MB&lt;/p&gt;
+&lt;p&gt;It's been years since Walter and Oliver said a single word to each other... and it's taken the literal end of the world to put them face-to-face again. Now the fate of the entire human race depends on these two being able to put aside the hurt they caused each other — but are either of them capable of it? And can they do so fast enough to stop the body count from rising?&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://getcomics.org/dc/the-nice-house-by-the-sea-10-2026/"&gt;The Nice House by the Sea #10 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
+</description>
+      <wfw:commentRss>https://getcomics.org/dc/the-nice-house-by-the-sea-10-2026/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <wp9:post-id>398644</wp9:post-id>
+    </item>
     <item>
       <title>Fall of the House of Slaughter #2 (2026)</title>
       <link>https://getcomics.org/other-comics/fall-of-the-house-of-slaughter-2-2026/</link>
@@ -185,46 +205,6 @@
       <wfw:commentRss>https://getcomics.org/marvel/aliens-epic-collection-the-original-years-vol-3-2025/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>396911</wp9:post-id>
-    </item>
-    <item>
-      <title>Predator Kills The Marvel Universe (TPB) (2026)</title>
-      <link>https://getcomics.org/marvel/predator-kills-the-marvel-universe-tpb-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:552d53d874863ea77c6e9f7fdea937951055adebd7bd09fad88a688209a1c550</guid>
-      <comments>https://getcomics.org/marvel/predator-kills-the-marvel-universe-tpb-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Thu, 14 May 2026 00:44:38 +0000</pubDate>
-      <category>Marvel Comics</category>
-      <category>Non 0-Day</category>
-      <category>Predator</category>
-      <category>TPB</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 413 MB&lt;/p&gt;
-&lt;p&gt;The biggest crossover yet between the iconic franchises of Marvel and Predator! A Predator King, emboldened by a new vibranium arsenal and aided by a surprising human ally, launches an all-out invasion of Earth, claiming the planet as a hunting preserve! After several battles in our solar system - which devastate both the Guardians of the Galaxy and the Fantastic Four - the Predators escalate to the next stage of their war. And the X-Men and the Avengers are at the top of their kill list! Wolverine, Spider-Man and Black Panther call on all their experience battling Predators in the past, and an unexpected ally makes an appearance…but will it be enough? Who will survive this extinction-level event as the entire Marvel Universe finds itself in the tri-laser crosshairs of the Predators?! Collecting PREDATOR KILLS THE MARVEL UNIVERSE (2025) #1-5.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/marvel/predator-kills-the-marvel-universe-tpb-2026/"&gt;Predator Kills The Marvel Universe (TPB) (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/marvel/predator-kills-the-marvel-universe-tpb-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>396809</wp9:post-id>
-    </item>
-    <item>
-      <title>Hello Darkness #21 (2026)</title>
-      <link>https://getcomics.org/other-comics/hello-darkness-21-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:dbb77d75398ae85d6fac580173fa0587d41c362df57608d8ae18c85b02136a23</guid>
-      <comments>https://getcomics.org/other-comics/hello-darkness-21-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Wed, 13 May 2026 23:40:24 +0000</pubDate>
-      <category>Other Comics</category>
-      <category>0-Day</category>
-      <category>Boom Studios</category>
-      <category>Hello Darkness</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 147 MB&lt;/p&gt;
-&lt;p&gt;Hello Darkness plummets into the blackest depths of the human heart in this special mystery/thriller-themed anthology issue! In “Leading the Witness” by Ed Brisson and Damian Couceiro, a chance encounter with a stranger sends an innocent man down a never-ending spiral of self-fulling murder. And in “A Chase of Chianti, Heavily Discounted,” New York Times–bestselling crime writer Duane Swierczynski and George Romero Foundation’s artist-in-residence Ryan Carr get gruesome when a tough-as-nails mobster’s affair with his boss’s wife winds him up in a spot even his legendary pain threshold won’t withstand. All this and more for a bountiful bouquet of blood and bullets from BOOM!’s smash-hit horror series.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/hello-darkness-21-2026/"&gt;Hello Darkness #21 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/other-comics/hello-darkness-21-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>396580</wp9:post-id>
     </item>
   </channel>
 </rss>
