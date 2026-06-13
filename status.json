@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T07:54:03.849782Z",
+  "generated_at": "2026-06-13T10:31:33.222169Z",
   "rows": [
     {
       "description": "GetComics OnGoing feeds",
       "item_count": 4,
       "last_error": null,
-      "last_success_at": "2026-06-13T07:54:03.849782Z",
+      "last_success_at": "2026-06-13T10:31:33.222169Z",
       "public_url": "https://lab-anon.github.io/rss-tools/ongoing/feed.xml",
       "slug": "ongoing",
       "status": "ok",
@@ -16,7 +16,7 @@
       "description": "GetComics OnGoing Reading feeds",
       "item_count": 10,
       "last_error": null,
-      "last_success_at": "2026-06-13T07:54:03.849782Z",
+      "last_success_at": "2026-06-13T10:31:33.222169Z",
       "public_url": "https://lab-anon.github.io/rss-tools/ongoing_reading/feed.xml",
       "slug": "ongoing_reading",
       "status": "ok",
@@ -27,7 +27,7 @@
       "description": "GetComics Open feeds",
       "item_count": 0,
       "last_error": null,
-      "last_success_at": "2026-06-13T07:54:03.849782Z",
+      "last_success_at": "2026-06-13T10:31:33.222169Z",
       "public_url": "https://lab-anon.github.io/rss-tools/open/feed.xml",
       "slug": "open",
       "status": "ok",
@@ -38,7 +38,7 @@
       "description": "GetComics Supers feeds",
       "item_count": 9,
       "last_error": null,
-      "last_success_at": "2026-06-13T07:54:03.849782Z",
+      "last_success_at": "2026-06-13T10:31:33.222169Z",
       "public_url": "https://lab-anon.github.io/rss-tools/supers/feed.xml",
       "slug": "supers",
       "status": "ok",
@@ -49,12 +49,22 @@
       "description": "GetComics TPB feed",
       "item_count": 107,
       "last_error": null,
-      "last_success_at": "2026-06-13T07:54:03.849782Z",
+      "last_success_at": "2026-06-13T10:31:33.222169Z",
       "public_url": "https://lab-anon.github.io/rss-tools/tpb/feed.xml",
       "slug": "tpb",
       "status": "ok",
       "title": "Merged - TPB",
       "type": "merger"
+    },
+    {
+      "item_count": 115,
+      "last_error": null,
+      "last_success_at": "2026-06-13T10:31:32.759718Z",
+      "link": "https://getcomics.org/tag/tpb/feed/",
+      "refresh_hours": 6,
+      "slug": "tpb_tag",
+      "status": "ok",
+      "type": "source"
     },
     {
       "item_count": 0,
@@ -343,16 +353,6 @@
       "link": "https://getcomics.org/search/tpb/feed/rss2/",
       "refresh_hours": 24,
       "slug": "tpb_search",
-      "status": "skipped",
-      "type": "source"
-    },
-    {
-      "item_count": 115,
-      "last_error": null,
-      "last_success_at": "2026-06-13T03:58:24.172066Z",
-      "link": "https://getcomics.org/tag/tpb/feed/",
-      "refresh_hours": 6,
-      "slug": "tpb_tag",
       "status": "skipped",
       "type": "source"
     },
