@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"9453488b14b025411556430d93674808\"",
+  "etag": "W/\"2140deacc703bdba43fb205a599bf55c\"",
   "items": [
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>JLA \u2013 Ultramarine Corps (TPB) (2008)</title>\n\t\t<link>https://getcomics.org/dc/jla-ultramarine-corps-tpb-2008/</link>\n\t\t\t\t\t<comments>https://getcomics.org/dc/jla-ultramarine-corps-tpb-2008/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Sat, 13 Jun 2026 13:02:42 +0000</pubDate>\n\t\t\t\t<category>DC Comics</category>\n\t\t<category>JLA</category>\n\t\t<category>Non 0-Day</category>\n\t\t<category>TPB</category>\n\t\t<guid isPermaLink=\"false\">https://getcomics.org/?p=398527</guid>\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2008 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 190  MB&lt;/p&gt;\n&lt;p&gt;Grant Morrison returns to the JLA with this incredible volume collecting JLA ClASSIFIED #1-3, and JLA//WILDCATS! In it, the International Ultramarine Corps, a super-team from around the globe, is attacked by the hyperintelligent, evil Gorilla Grodd and his guerilla gorilla militia. Plus, the JLA meets the WildCats to take on the threat of the Lord of Time!&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/dc/jla-ultramarine-corps-tpb-2008/\"&gt;JLA &amp;#8211; Ultramarine Corps (TPB) (2008)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/dc/jla-ultramarine-corps-tpb-2008/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>398527</wp9:post-id>\t</item>\n\t\t",
@@ -811,10 +811,10 @@
     }
   ],
   "last_changed_at": "2026-06-14T11:32:17.151444Z",
-  "last_checked_at": "2026-06-14T11:32:17.151444Z",
+  "last_checked_at": "2026-06-14T18:14:48.842803Z",
   "last_error": null,
-  "last_modified": "Sun, 14 Jun 2026 07:02:46 GMT",
-  "last_success_at": "2026-06-14T11:32:17.151444Z",
+  "last_modified": "Sun, 14 Jun 2026 11:34:43 GMT",
+  "last_success_at": "2026-06-14T18:14:48.842803Z",
   "link": "https://getcomics.org/tag/tpb/feed/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
