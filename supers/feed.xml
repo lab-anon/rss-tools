@@ -5,9 +5,28 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/supers/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>GetComics Supers feeds</description>
-    <lastBuildDate>Mon, 15 Jun 2026 00:12:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 06:30:07 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
+    <item>
+      <title>Alias – Red Band #4 (2026)</title>
+      <link>https://getcomics.org/marvel/alias-red-band-4-2026/</link>
+      <guid isPermaLink="false">rss-tools:link-sha256:4e1a17e2858151589f8d491380273e7d0b092202d46d6d36c84f248dd8b67f57</guid>
+      <comments>https://getcomics.org/marvel/alias-red-band-4-2026/#respond</comments>
+      <dc:creator>The Comic Guy</dc:creator>
+      <pubDate>Sun, 14 Jun 2026 06:06:11 +0000</pubDate>
+      <category>Marvel Comics</category>
+      <category>0-Day</category>
+      <category>Alias</category>
+      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 22 MB&lt;/p&gt;
+&lt;p&gt;THE BUTCHER AND THE BOSS! The twisted trail of Jessica and Typhoid Mary's murder investigation leads to a butcher shop in Hell's Kitchen, but these aren't your ordinary prime cuts. Demonic monsters are being created from the meat, and Jessica and Mary must keep the monsters at bay before the butcher descends...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://getcomics.org/marvel/alias-red-band-4-2026/"&gt;Alias &amp;#8211; Red Band #4 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
+</description>
+      <wfw:commentRss>https://getcomics.org/marvel/alias-red-band-4-2026/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <wp9:post-id>398650</wp9:post-id>
+    </item>
     <item>
       <title>Ultimate Spider-Man Omnibus Vol. 5 (2026)</title>
       <link>https://getcomics.org/marvel/ultimate-spider-man-omnibus-vol-5-2026/</link>
