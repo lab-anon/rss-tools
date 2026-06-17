@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/ongoing_reading/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>GetComics OnGoing Reading feeds</description>
-    <lastBuildDate>Tue, 16 Jun 2026 22:16:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 00:18:49 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -184,27 +184,6 @@
       <wfw:commentRss>https://getcomics.org/dc/deathstroke-the-terminator-3-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>396982</wp9:post-id>
-    </item>
-    <item>
-      <title>Aliens Epic Collection – The Original Years Vol. 3 (2025)</title>
-      <link>https://getcomics.org/marvel/aliens-epic-collection-the-original-years-vol-3-2025/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:61874d2b576b998f6fd06d3bcb65de4d28a6328ea4bbe685dff88ba7f004bcad</guid>
-      <comments>https://getcomics.org/marvel/aliens-epic-collection-the-original-years-vol-3-2025/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Sun, 17 May 2026 22:50:19 +0000</pubDate>
-      <category>Marvel Comics</category>
-      <category>Aliens</category>
-      <category>Epic Collection</category>
-      <category>Non 0-Day</category>
-      <category>TPB</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2025 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 1.5 GB&lt;/p&gt;
-&lt;p&gt;An elite team of Space Marines takes the fight to the Aliens across the galaxy! Meanwhile, Professor Ernst Kleist has achieved the impossible: He has genetically engineered powerful, obedient Aliens. But the horror of nature is dwarfed by the terror of the man toying with it! And he isn’t the only one carrying out experiments on the Aliens: Colonel Doctor Paul Church, head of the space station Innominata, is determined to find out what makes them tick — and he’s using Colonial Marines as bait. But the U.S. government doesn’t like what it’s hearing, and they send an investigator empowered to get the truth — any way he can! Plus: more tales of Alien horror! Collecting ALIEN 3 #1-3, ALIENS: SPACE MARINES #1-12, ALIENS: ROGUE #1-4, ALIENS: LABYRINTH #1-4 and material from DARK HORSE COMICS (1992) #3-5 and #11-13, PREVIEWS (1993) #1-12, PREVIEWS (1994) #1 and ALIENS MAGAZINE (1992) #9-12.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/marvel/aliens-epic-collection-the-original-years-vol-3-2025/"&gt;Aliens Epic Collection &amp;#8211; The Original Years Vol. 3 (2025)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/marvel/aliens-epic-collection-the-original-years-vol-3-2025/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>396911</wp9:post-id>
     </item>
   </channel>
 </rss>
