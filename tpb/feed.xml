@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/tpb/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>GetComics TPB feed</description>
-    <lastBuildDate>Wed, 17 Jun 2026 00:18:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 06:14:33 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -2153,25 +2153,6 @@
       <wfw:commentRss>https://getcomics.org/other-comics/victorian-secret-girls-of-steampunk-collection-vol-1-2-tpb-2013-2017/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>396952</wp9:post-id>
-    </item>
-    <item>
-      <title>Rochelle Teen Cockroach #1 (TPB) (2017)</title>
-      <link>https://getcomics.org/other-comics/rochelle-teen-cockroach-1-tpb-2017/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:0c430b39eea0ee4f1b073ffafdd5bf1b08c9e3056fbe9f35a880b288cb662fae</guid>
-      <comments>https://getcomics.org/other-comics/rochelle-teen-cockroach-1-tpb-2017/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Mon, 18 May 2026 06:13:50 +0000</pubDate>
-      <category>Other Comics</category>
-      <category>Antartic Press</category>
-      <category>Non 0-Day</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2017 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 97 MB&lt;/p&gt;
-&lt;p&gt;Get ready for a Mind Crash as Rochelle journeys into cyberspace to battle Terrorbyte and overcomes incredible odds to rescue the President from international villain Major Mess!&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/rochelle-teen-cockroach-1-tpb-2017/"&gt;Rochelle Teen Cockroach #1 (TPB) (2017)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/other-comics/rochelle-teen-cockroach-1-tpb-2017/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>396928</wp9:post-id>
     </item>
   </channel>
 </rss>
