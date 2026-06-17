@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/tpb/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>GetComics TPB feed</description>
-    <lastBuildDate>Wed, 17 Jun 2026 06:14:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 11:53:26 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -2113,46 +2113,6 @@
       <wfw:commentRss>https://getcomics.org/other-comics/gold-digger-throne-of-shadows-tpb-2013/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>397205</wp9:post-id>
-    </item>
-    <item>
-      <title>Gold Digger Platinum Vol. 1 – 7 (TPB) (2010-2014)</title>
-      <link>https://getcomics.org/other-comics/gold-digger-platinum-vol-1-7-tpb-2010-2014/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:896c61aa96fb24f37f9780ff017e0010075906982d9304727970cef09db57c18</guid>
-      <comments>https://getcomics.org/other-comics/gold-digger-platinum-vol-1-7-tpb-2010-2014/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Mon, 18 May 2026 06:44:36 +0000</pubDate>
-      <category>Other Comics</category>
-      <category>Antartic Press</category>
-      <category>Gold Digger</category>
-      <category>Non 0-Day</category>
-      <category>TPB</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2010-2014 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 4.7 GB&lt;/p&gt;
-&lt;p&gt;Series of trade paperbacks collecting Gold Digger.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/gold-digger-platinum-vol-1-7-tpb-2010-2014/"&gt;Gold Digger Platinum Vol. 1 &amp;#8211; 7 (TPB) (2010-2014)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/other-comics/gold-digger-platinum-vol-1-7-tpb-2010-2014/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>396963</wp9:post-id>
-    </item>
-    <item>
-      <title>Victorian Secret – Girls of Steampunk Collection Vol. 1 – 2 (TPB) (2013-2017)</title>
-      <link>https://getcomics.org/other-comics/victorian-secret-girls-of-steampunk-collection-vol-1-2-tpb-2013-2017/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:3c1c8f7c83be44a1b3ef2ad98911a5f594ff0ff688ec316003684c6bad54603a</guid>
-      <comments>https://getcomics.org/other-comics/victorian-secret-girls-of-steampunk-collection-vol-1-2-tpb-2013-2017/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Mon, 18 May 2026 06:31:50 +0000</pubDate>
-      <category>Other Comics</category>
-      <category>Antartic Press</category>
-      <category>Non 0-Day</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2013-2017 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 201 MB&lt;/p&gt;
-&lt;p&gt;Presenting for your delight and edification, a positive bounty of bold belles in brass and leather, satin and silk. When adventure calls, these daring damsels are ready to answer, clad in their most flirtatious/fictional finery and strapping on their goggles and steam-powered accessories. They'll stoke the boilers of your heart!&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/victorian-secret-girls-of-steampunk-collection-vol-1-2-tpb-2013-2017/"&gt;Victorian Secret &amp;#8211; Girls of Steampunk Collection Vol. 1 &amp;#8211; 2 (TPB) (2013-2017)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/other-comics/victorian-secret-girls-of-steampunk-collection-vol-1-2-tpb-2013-2017/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>396952</wp9:post-id>
     </item>
   </channel>
 </rss>
