@@ -5,9 +5,29 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/tpb/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>GetComics TPB feed</description>
-    <lastBuildDate>Thu, 18 Jun 2026 22:11:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 01:46:25 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
+    <item>
+      <title>Dark Crisis Omnibus (2026)</title>
+      <link>https://getcomics.org/dc/dark-crisis-omnibus-2026/</link>
+      <guid isPermaLink="false">rss-tools:link-sha256:65b3f53afa6001e273148080701d4de8d35e8912a95f0b378e02b3c71667987c</guid>
+      <comments>https://getcomics.org/dc/dark-crisis-omnibus-2026/#respond</comments>
+      <dc:creator>The Comic Guy</dc:creator>
+      <pubDate>Thu, 18 Jun 2026 22:34:32 +0000</pubDate>
+      <category>DC Comics</category>
+      <category>Dark Crisis</category>
+      <category>Non 0-Day</category>
+      <category>TPB</category>
+      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 4 GB&lt;/p&gt;
+&lt;p&gt;When the Justice League falls to the Great Darkness, the next generation must rise to confront a threat that spans reality itself. Legacy heroes—including Nightwing, Jon Kent, Wonder Girl, and the Flash Family—step forward as the Multiverse fractures, the villains unite, and Pariah’s Dark Army pushes Earth to the brink. This sweeping omnibus chronicles the entire Dark Crisis event and all its critical tie-ins—where nightmares take shape, timelines unravel, and hope is reborn in the most unlikely places. The DC Universe enters a new era, forged in loss and bound by legacy. Collects Justice League #75, Dark Crisis #0 FCBD Special Edition, Dark Crisis #1–7, The Flash #783–786, Justice League: Road to Dark Crisis #1, I Am Batman #15, Dark Crisis: Young Justice #1–6, Dark Crisis: Worlds Without a Justice League – Superman, Green Lantern, Wonder Woman, Green Arrow, Batman, Dark Crisis: The Deadly Green #1, Dark Crisis: War Zone #1, Dark Crisis: The Dark Army #1, and Dark Crisis: Big Bang #1.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://getcomics.org/dc/dark-crisis-omnibus-2026/"&gt;Dark Crisis Omnibus (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
+</description>
+      <wfw:commentRss>https://getcomics.org/dc/dark-crisis-omnibus-2026/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <wp9:post-id>399418</wp9:post-id>
+    </item>
     <item>
       <title>Infinite Crisis Omnibus (faux) Vol. 1 (2012)</title>
       <link>https://getcomics.org/dc/infinite-crisis-omnibus-faux-vol-1-2012/</link>
