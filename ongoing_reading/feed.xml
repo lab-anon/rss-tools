@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/ongoing_reading/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>GetComics OnGoing Reading feeds</description>
-    <lastBuildDate>Fri, 19 Jun 2026 12:07:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 16:09:57 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -205,25 +205,6 @@
       <wfw:commentRss>https://getcomics.org/other-comics/w0rldtr33-20-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>396547</wp9:post-id>
-    </item>
-    <item>
-      <title>Predator – Bloodshed #4 (2026)</title>
-      <link>https://getcomics.org/marvel/predator-bloodshed-4-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:5d3638bc791034a4f28d623f53a4e83cc4a6729abc94b34e3ad7a30f62768c56</guid>
-      <comments>https://getcomics.org/marvel/predator-bloodshed-4-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Wed, 20 May 2026 14:24:36 +0000</pubDate>
-      <category>Marvel Comics</category>
-      <category>0-Day</category>
-      <category>Predator</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 80 MB&lt;/p&gt;
-&lt;p&gt;A tournament of the world's fiercest fighters has been decimated after a Predator's lethal hunt. As the Yautja zeroes in on the few survivors left standing, one warrior's true purpose is finally unmasked. With deadly danger from within and without, it's kill or be killed. Will the Predator collect its final trophy?&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/marvel/predator-bloodshed-4-2026/"&gt;Predator &amp;#8211; Bloodshed #4 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/marvel/predator-bloodshed-4-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>397027</wp9:post-id>
     </item>
   </channel>
 </rss>

@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/supers/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>GetComics Supers feeds</description>
-    <lastBuildDate>Fri, 19 Jun 2026 12:07:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 16:09:57 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -244,25 +244,6 @@
       <wfw:commentRss>https://getcomics.org/other-comics/invincible-universe-battle-beast-9-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>397066</wp9:post-id>
-    </item>
-    <item>
-      <title>Ultimate Impact – Reborn #1 (2026)</title>
-      <link>https://getcomics.org/marvel/ultimate-impact-reborn-1-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:8e1e3a82545442c398439c2f19e8ad62a9529f135422dee61e51a5517161eda9</guid>
-      <comments>https://getcomics.org/marvel/ultimate-impact-reborn-1-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Wed, 20 May 2026 14:28:31 +0000</pubDate>
-      <category>Marvel Comics</category>
-      <category>0-Day</category>
-      <category>Ultimate Impact</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 49 MB&lt;/p&gt;
-&lt;p&gt;THE ULTIMATE UNIVERSE'S LEGACY LIVES ON! MILES MORALES returned from the Ultimate Universe with a plan: safeguard the ORIGIN BOXES — catalysts for the creation of new super heroes — before they fall into the wrong hands! But the secret is out as Miles' battle over the boxes engulfs the entire Marvel U! This May, Chris Condon (ULTIMATE WOLVERINE) and Stefano Caselli (ULTIMATE BLACK PANTHER) team up to create stunning and unforgettable new characters on both sides of a conflict that will shape the future of the 616!&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/marvel/ultimate-impact-reborn-1-2026/"&gt;Ultimate Impact &amp;#8211; Reborn #1 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/marvel/ultimate-impact-reborn-1-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>397042</wp9:post-id>
     </item>
   </channel>
 </rss>
