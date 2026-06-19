@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/ongoing_reading/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>GetComics OnGoing Reading feeds</description>
-    <lastBuildDate>Fri, 19 Jun 2026 07:09:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 12:07:46 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -224,25 +224,6 @@
       <wfw:commentRss>https://getcomics.org/marvel/predator-bloodshed-4-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>397027</wp9:post-id>
-    </item>
-    <item>
-      <title>Deathstroke – The Terminator #3 (2026)</title>
-      <link>https://getcomics.org/dc/deathstroke-the-terminator-3-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:daca00017bc67026604a08536aabb237e8810c3400d5003bfd8622501daf5dc6</guid>
-      <comments>https://getcomics.org/dc/deathstroke-the-terminator-3-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Wed, 20 May 2026 08:19:31 +0000</pubDate>
-      <category>DC Comics</category>
-      <category>0-Day</category>
-      <category>Deathstroke</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 48 MB&lt;/p&gt;
-&lt;p&gt;THE BOUNTY IS OUT ON SLADE WILSON! It's said there is no honor among thieves. But there is a code among killers. Slade Wilson wrote the code. And now he's in Deadshot's and Deathblow's crosshairs for breaking its first rule!&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/dc/deathstroke-the-terminator-3-2026/"&gt;Deathstroke &amp;#8211; The Terminator #3 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/dc/deathstroke-the-terminator-3-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>396982</wp9:post-id>
     </item>
   </channel>
 </rss>
