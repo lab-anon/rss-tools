@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/ongoing/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>GetComics OnGoing feeds</description>
-    <lastBuildDate>Sun, 21 Jun 2026 13:08:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 15:53:49 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -67,25 +67,6 @@
       <wfw:commentRss>https://getcomics.org/other-comics/cyberpunk-2077-library-edition-vol-2-tpb-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp13:post-id>397749</wp13:post-id>
-    </item>
-    <item>
-      <title>Cyberpunk 2077 – Chrome #3 (2026)</title>
-      <link>https://getcomics.org/other-comics/cyberpunk-2077-chrome-3-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:41d3d223882257ff93a68f74d604fab988948bd52fe7f7631d5e56ab1bfdfbd2</guid>
-      <comments>https://getcomics.org/other-comics/cyberpunk-2077-chrome-3-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Fri, 22 May 2026 14:41:37 +0000</pubDate>
-      <category>Other Comics</category>
-      <category>0-Day</category>
-      <category>Cyberpunk 2077</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 153 MB&lt;/p&gt;
-&lt;p&gt;The Scavengers have another plan for the left-over friends, but so does the mysterious killer . . . As each survivor’s part in this savage game of cat-and-mouse is decided, they’ll discover the true motives of those who roam the landfill and the everlasting horror that will remain.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/cyberpunk-2077-chrome-3-2026/"&gt;Cyberpunk 2077 &amp;#8211; Chrome #3 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/other-comics/cyberpunk-2077-chrome-3-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp13:post-id>397097</wp13:post-id>
     </item>
   </channel>
 </rss>
