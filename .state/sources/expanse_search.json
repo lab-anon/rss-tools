@@ -1,11 +1,11 @@
 {
-  "etag": "W/\"0a023426cad13adfd0b5fdc13ed3fe4c\"",
+  "etag": "W/\"cbb51b11546b2b6dac7ea17eefa0458f\"",
   "items": [],
   "last_changed_at": "2026-06-04T18:43:07.305130Z",
-  "last_checked_at": "2026-06-21T17:40:53.409454Z",
+  "last_checked_at": "2026-06-22T19:30:55.259973Z",
   "last_error": null,
-  "last_modified": "Sun, 21 Jun 2026 11:32:27 GMT",
-  "last_success_at": "2026-06-21T17:40:53.409454Z",
+  "last_modified": "Sun, 21 Jun 2026 22:03:12 GMT",
+  "last_success_at": "2026-06-22T19:30:55.259973Z",
   "link": "https://getcomics.org/search/expanse/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
