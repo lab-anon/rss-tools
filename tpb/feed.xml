@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/tpb/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>GetComics TPB feed</description>
-    <lastBuildDate>Tue, 23 Jun 2026 05:03:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 09:43:09 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -1842,26 +1842,6 @@
       <wfw:commentRss>https://getcomics.org/dc/teen-titans-the-bronze-age-omnibus-vol-1-2026-edition/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>397510</wp9:post-id>
-    </item>
-    <item>
-      <title>Aquaman by Peter David Omnibus Vol. 1 (2025)</title>
-      <link>https://getcomics.org/dc/aquaman-by-peter-david-omnibus-vol-1-2025/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:b13e00338c55c079733f32e0c2a7ade08d23b3f5f76ddd992742807d98bf2b80</guid>
-      <comments>https://getcomics.org/dc/aquaman-by-peter-david-omnibus-vol-1-2025/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Sun, 24 May 2026 07:55:22 +0000</pubDate>
-      <category>DC Comics</category>
-      <category>Aquaman</category>
-      <category>Non 0-Day</category>
-      <category>TPB</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2025 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 2.1 GB&lt;/p&gt;
-&lt;p&gt;Re-discover the story behind the protector of the deep, The Aquaman. As the King of Atlantis, Arthur Curry must rule a kingdom, while also being it’s greatest protector. As new threats invade from the shadows, how will this legendary hero also become the king his people need? Collects Aquaman (1994-) #0-49, Aquaman Annual #1-4, Aquaman: Time &amp;#038; Tide #1-4, Tempest #1-4, and more.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/dc/aquaman-by-peter-david-omnibus-vol-1-2025/"&gt;Aquaman by Peter David Omnibus Vol. 1 (2025)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/dc/aquaman-by-peter-david-omnibus-vol-1-2025/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>397489</wp9:post-id>
     </item>
   </channel>
 </rss>
