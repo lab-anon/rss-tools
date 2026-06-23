@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/supers/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>GetComics Supers feeds</description>
-    <lastBuildDate>Tue, 23 Jun 2026 09:43:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 12:37:10 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -224,26 +224,6 @@
       <wfw:commentRss>https://getcomics.org/marvel/alias-red-band-3-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>397006</wp9:post-id>
-    </item>
-    <item>
-      <title>Invincible Universe – Battle Beast #9 (2026)</title>
-      <link>https://getcomics.org/other-comics/invincible-universe-battle-beast-9-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:f1fd0f86eb96c15ae901b4f3d6b45b8c381d5c40481649eead40bef8951a1fa5</guid>
-      <comments>https://getcomics.org/other-comics/invincible-universe-battle-beast-9-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Sun, 24 May 2026 11:26:59 +0000</pubDate>
-      <category>Other Comics</category>
-      <category>0-Day</category>
-      <category>Image Comics</category>
-      <category>Invincible Universe</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 91 MB&lt;/p&gt;
-&lt;p&gt;Battle Beast and Prince Salaka both stand on the precipice of winning their most important battles... but who is that looming in the sky above?&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/invincible-universe-battle-beast-9-2026/"&gt;Invincible Universe &amp;#8211; Battle Beast #9 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/other-comics/invincible-universe-battle-beast-9-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>397066</wp9:post-id>
     </item>
   </channel>
 </rss>
