@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/tpb/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>GetComics TPB feed</description>
-    <lastBuildDate>Tue, 23 Jun 2026 23:59:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 04:18:57 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -1822,26 +1822,6 @@
       <wfw:commentRss>https://getcomics.org/dc/batman-officer-down-tpb-2001/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>397513</wp9:post-id>
-    </item>
-    <item>
-      <title>Teen Titans – The Bronze Age Omnibus Vol. 1 (2026 edition)</title>
-      <link>https://getcomics.org/dc/teen-titans-the-bronze-age-omnibus-vol-1-2026-edition/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:ce23c2f59059e230c77fd7c5969a36b8500f85126032ee63cba239e6865115a1</guid>
-      <comments>https://getcomics.org/dc/teen-titans-the-bronze-age-omnibus-vol-1-2026-edition/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Mon, 25 May 2026 01:24:22 +0000</pubDate>
-      <category>DC Comics</category>
-      <category>Non 0-Day</category>
-      <category>Teen Titans</category>
-      <category>TPB</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 1.2 GB&lt;/p&gt;
-&lt;p&gt;When TEEN TITANS first hit newsstands, the book featured a group of carefree heroes-in-training with hip lingo and wacky adventures. But within a few years, both the characters and the subject matter would mature considerably as the team said good-bye to the swinging ’60s and entered the Bronze Age of comic books! As college-aged young adults, the Bronze Age Titans confronted bigger, more dangerous villains all across the world (and even in outer space!), as well as the real-world issues of war, protest and gang violence back on the home front. TEEN TITANS: THE BRONZE AGE OMNIBUS collects stories from TEEN TITANS #25-53, THE BRAVE AND THE BOLD #94, #102 and #149, and BATMAN FAMILY #6, #8-9, from such talented writers and artists as Nick Cardy, Bob Haney, Bob Rozakis, George Tuska and more.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/dc/teen-titans-the-bronze-age-omnibus-vol-1-2026-edition/"&gt;Teen Titans &amp;#8211; The Bronze Age Omnibus Vol. 1 (2026 edition)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/dc/teen-titans-the-bronze-age-omnibus-vol-1-2026-edition/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>397510</wp9:post-id>
     </item>
   </channel>
 </rss>
