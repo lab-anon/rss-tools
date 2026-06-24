@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/tpb/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>GetComics TPB feed</description>
-    <lastBuildDate>Wed, 24 Jun 2026 04:18:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 08:23:12 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -1802,26 +1802,6 @@
       <wfw:commentRss>https://getcomics.org/other-comics/cyberpunk-2077-library-edition-vol-2-tpb-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>397749</wp9:post-id>
-    </item>
-    <item>
-      <title>Batman – Officer Down (TPB) (2001)</title>
-      <link>https://getcomics.org/dc/batman-officer-down-tpb-2001/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:ad5ff58c5bde0d8e8abe831795f21134502cef866184350057d0edd9a7683dc5</guid>
-      <comments>https://getcomics.org/dc/batman-officer-down-tpb-2001/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Mon, 25 May 2026 07:33:52 +0000</pubDate>
-      <category>DC Comics</category>
-      <category>Batman</category>
-      <category>Non 0-Day</category>
-      <category>TPB</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2001 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 192 MB&lt;/p&gt;
-&lt;p&gt;Batman must solve a mystery of an extremly personal nature: Who shot Commissioner James Gordon three times in the back? As one of his dearest friends lies close to death, the Dark Knight begins his investigation with the only eyewitness, Catwoman. As Batman delves deeper into the mystery, he quickly learns that this is more than a simple whodunit. Enlisting the aide of Robin, Batgirl, Nightwing, Azarel, and Oracle, Batman discovers the true and shocking identity of the assailant and now must live up to his oath to bring him to justice.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/dc/batman-officer-down-tpb-2001/"&gt;Batman &amp;#8211; Officer Down (TPB) (2001)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/dc/batman-officer-down-tpb-2001/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>397513</wp9:post-id>
     </item>
   </channel>
 </rss>
