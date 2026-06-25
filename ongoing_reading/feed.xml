@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/ongoing_reading/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>GetComics OnGoing Reading feeds</description>
-    <lastBuildDate>Thu, 25 Jun 2026 03:45:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 07:45:59 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -185,26 +185,6 @@
       <wfw:commentRss>https://getcomics.org/other-comics/brzrkr-light-draws-breath-1-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>397717</wp9:post-id>
-    </item>
-    <item>
-      <title>Alien – The Friendliest Facehugger – Infinity Comic #2 – 4 (2026)</title>
-      <link>https://getcomics.org/marvel/alien-the-friendliest-facehugger-infinity-comic-2-4-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:4786e0e95156b456b0d5e1961e595f9d9df6129d0690431b6ae96cfe09ab6831</guid>
-      <comments>https://getcomics.org/marvel/alien-the-friendliest-facehugger-infinity-comic-2-4-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Tue, 26 May 2026 05:29:34 +0000</pubDate>
-      <category>Marvel Comics</category>
-      <category>Alien</category>
-      <category>Infinity Comic</category>
-      <category>Non 0-Day</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 9 MB&lt;/p&gt;
-&lt;p&gt;While the Xenomorphs spread chaos and violence aboard a space station, Facehuggie is just looking for someone to latch onto! Has Facehuggie found its friend at last?&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/marvel/alien-the-friendliest-facehugger-infinity-comic-2-4-2026/"&gt;Alien &amp;#8211; The Friendliest Facehugger &amp;#8211; Infinity Comic #2 &amp;#8211; 4 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/marvel/alien-the-friendliest-facehugger-infinity-comic-2-4-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>397731</wp9:post-id>
     </item>
   </channel>
 </rss>

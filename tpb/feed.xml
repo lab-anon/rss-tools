@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/tpb/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>GetComics TPB feed</description>
-    <lastBuildDate>Thu, 25 Jun 2026 03:45:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 07:45:59 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -1780,48 +1780,6 @@
       <wfw:commentRss>https://getcomics.org/other-comics/stranger-things-and-dungeons-dragons-library-edition-tpb-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>397774</wp9:post-id>
-    </item>
-    <item>
-      <title>X-O Manowar – Unconquered Book 2 (TPB) (2024)</title>
-      <link>https://getcomics.org/other-comics/x-o-manowar-unconquered-book-2-tpb-2024/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:d6d12b3679bcedf8a7c0dedac13398cf84c7db8d980c47a30882abea35ae736f</guid>
-      <comments>https://getcomics.org/other-comics/x-o-manowar-unconquered-book-2-tpb-2024/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Tue, 26 May 2026 05:55:41 +0000</pubDate>
-      <category>Other Comics</category>
-      <category>Alien Books</category>
-      <category>Non 0-Day</category>
-      <category>TPB</category>
-      <category>Valiant</category>
-      <category>X-O Manowar</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2024 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 127 MB&lt;/p&gt;
-&lt;p&gt;COLLECTING X-O UNCONQUERED SINGLE ISSUES #4-6, the stunning conclusion to the X-O Unconquered arc bound together in prestige format!&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/x-o-manowar-unconquered-book-2-tpb-2024/"&gt;X-O Manowar &amp;#8211; Unconquered Book 2 (TPB) (2024)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/other-comics/x-o-manowar-unconquered-book-2-tpb-2024/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>394461</wp9:post-id>
-    </item>
-    <item>
-      <title>Cyberpunk 2077 Library Edition Vol. 2 (TPB) (2026)</title>
-      <link>https://getcomics.org/other-comics/cyberpunk-2077-library-edition-vol-2-tpb-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:3cee5f9300d52e2d4e1f027af8284eb4d19a87f46b4111fcecc699b61679d96f</guid>
-      <comments>https://getcomics.org/other-comics/cyberpunk-2077-library-edition-vol-2-tpb-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Tue, 26 May 2026 05:41:56 +0000</pubDate>
-      <category>Other Comics</category>
-      <category>Cyberpunk 2077</category>
-      <category>Non 0-Day</category>
-      <category>TPB</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 2.9 GB&lt;/p&gt;
-&lt;p&gt;In XOXO, when love blooms in Night City it’s hard, fast, and bloody, especially when falling for a member of a rival gang. Then the action takes to the street as the daughter of a famed carjacker seeks to make a new name for herself in Kickdown. Finally, a MaxTac squad is divided when their new leader escalates to the extremes of their cyberpsycho opponents in Psycho Squad. Collects Cyberpunk 2077: XOXO #1–#4, Cyberpunk 2077: Kickdown #1–#4, and Cyberpunk 2077: Psycho Squad #1–#4, and features a cover gallery and expanded sketchbook section!&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/cyberpunk-2077-library-edition-vol-2-tpb-2026/"&gt;Cyberpunk 2077 Library Edition Vol. 2 (TPB) (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/other-comics/cyberpunk-2077-library-edition-vol-2-tpb-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>397749</wp9:post-id>
     </item>
   </channel>
 </rss>
