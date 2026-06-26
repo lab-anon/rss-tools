@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/supers/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>GetComics Supers feeds</description>
-    <lastBuildDate>Fri, 26 Jun 2026 03:54:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 07:55:53 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -244,25 +244,6 @@
       <wfw:commentRss>https://getcomics.org/marvel/miles-morales-spider-man-brooklyns-finest-infinity-comic-13-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>397872</wp9:post-id>
-    </item>
-    <item>
-      <title>The Ultimates #24 (2026)</title>
-      <link>https://getcomics.org/marvel/the-ultimates-24-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:52681dc6acf322b1ab2aa7ed699f6bf0b2e3adf0893a443aa449b90e0addf073</guid>
-      <comments>https://getcomics.org/marvel/the-ultimates-24-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Wed, 27 May 2026 05:23:46 +0000</pubDate>
-      <category>Marvel Comics</category>
-      <category>0-Day</category>
-      <category>The Ultimates</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 59 MB&lt;/p&gt;
-&lt;p&gt;YEAR TWO OF THE ULTIMATE UNIVERSE NEARS ITS END IN THE FINAL ISSUE OF ULTIMATES! She-Hulk and her remaining teammates confront the villainous Hulk in a brutal, all-or-nothing battle on Gamma Island!&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/marvel/the-ultimates-24-2026/"&gt;The Ultimates #24 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/marvel/the-ultimates-24-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>397585</wp9:post-id>
     </item>
   </channel>
 </rss>
