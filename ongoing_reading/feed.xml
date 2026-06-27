@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/ongoing_reading/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>GetComics OnGoing Reading feeds</description>
-    <lastBuildDate>Sat, 27 Jun 2026 00:10:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 04:55:00 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -165,26 +165,6 @@
       <wfw:commentRss>https://getcomics.org/other-comics/universal-monsters-phantom-of-the-opera-4-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>397648</wp9:post-id>
-    </item>
-    <item>
-      <title>BRZRKR – Light Draws Breath #1 (2026)</title>
-      <link>https://getcomics.org/other-comics/brzrkr-light-draws-breath-1-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:1578e6909705bc242a9ca625c33697f40da38107267e5af58b6a9b1b657295ad</guid>
-      <comments>https://getcomics.org/other-comics/brzrkr-light-draws-breath-1-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Thu, 28 May 2026 02:14:53 +0000</pubDate>
-      <category>Other Comics</category>
-      <category>0-Day</category>
-      <category>Boom Studios</category>
-      <category>BRZRKR</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 87 MB&lt;/p&gt;
-&lt;p&gt;It’s the Bronze Age and B. is dead. Again. Not for long, of course. But two rogue scientists have siphoned off a tiny portion of his protoplasm before he can fully reconfigure, and something else has been born anew... Something that must learn what it is, what its powers are, how to be in the world — and how to fight those who would try to control it.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/brzrkr-light-draws-breath-1-2026/"&gt;BRZRKR &amp;#8211; Light Draws Breath #1 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/other-comics/brzrkr-light-draws-breath-1-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>397717</wp9:post-id>
     </item>
   </channel>
 </rss>
