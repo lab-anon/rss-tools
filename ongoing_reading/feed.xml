@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/ongoing_reading/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>GetComics OnGoing Reading feeds</description>
-    <lastBuildDate>Sat, 27 Jun 2026 20:12:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 22:04:33 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -145,26 +145,6 @@
       <wfw:commentRss>https://getcomics.org/marvel/alien-king-killer-3-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>398653</wp9:post-id>
-    </item>
-    <item>
-      <title>Universal Monsters – Phantom of the Opera #4 (2026)</title>
-      <link>https://getcomics.org/other-comics/universal-monsters-phantom-of-the-opera-4-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:39193bc6306f6e11a73668984aef92de01c2be1f87b1a86d6274ca148c0b0f92</guid>
-      <comments>https://getcomics.org/other-comics/universal-monsters-phantom-of-the-opera-4-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Thu, 28 May 2026 21:22:28 +0000</pubDate>
-      <category>Other Comics</category>
-      <category>0-Day</category>
-      <category>Image Comics</category>
-      <category>Universal Monsters</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 138 MB&lt;/p&gt;
-&lt;p&gt;Christine comes face to face with The Phantom of The Opera. But who is the man under the mask?&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/universal-monsters-phantom-of-the-opera-4-2026/"&gt;Universal Monsters &amp;#8211; Phantom of the Opera #4 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/other-comics/universal-monsters-phantom-of-the-opera-4-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>397648</wp9:post-id>
     </item>
   </channel>
 </rss>
