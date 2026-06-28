@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"8dc449a21f357a9504f70398ffb00294\"",
+  "etag": "W/\"752696aa54fb4860f0b5e393a7dc8ced\"",
   "items": [
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>The Nice House by the Sea #10 (2026)</title>\n\t\t<link>https://getcomics.org/dc/the-nice-house-by-the-sea-10-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/dc/the-nice-house-by-the-sea-10-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Fri, 12 Jun 2026 16:46:53 +0000</pubDate>\n\t\t\t\t<category>DC Comics</category>\n\t\t<category>0-Day</category>\n\t\t<category>The Nice House by the Sea</category>\n\t\t<category>Vertigo</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 53 MB&lt;/p&gt;\n&lt;p&gt;It's been years since Walter and Oliver said a single word to each other... and it's taken the literal end of the world to put them face-to-face again. Now the fate of the entire human race depends on these two being able to put aside the hurt they caused each other \u2014 but are either of them capable of it? And can they do so fast enough to stop the body count from rising?&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/dc/the-nice-house-by-the-sea-10-2026/\"&gt;The Nice House by the Sea #10 (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/dc/the-nice-house-by-the-sea-10-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>398644</wp9:post-id>\t</item>\n\t\t",
@@ -11,10 +11,10 @@
     }
   ],
   "last_changed_at": "2026-06-14T04:17:00.268337Z",
-  "last_checked_at": "2026-06-26T22:15:38.922501Z",
+  "last_checked_at": "2026-06-28T00:04:24.799885Z",
   "last_error": null,
-  "last_modified": "Fri, 26 Jun 2026 21:15:49 GMT",
-  "last_success_at": "2026-06-26T22:15:38.922501Z",
+  "last_modified": "Sat, 27 Jun 2026 14:49:54 GMT",
+  "last_success_at": "2026-06-28T00:04:24.799885Z",
   "link": "https://getcomics.org/search/nice+house+sea/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",

@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"8dc449a21f357a9504f70398ffb00294\"",
+  "etag": "W/\"752696aa54fb4860f0b5e393a7dc8ced\"",
   "items": [
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Ultimate Universe \u2013 Finale #1 (2026)</title>\n\t\t<link>https://getcomics.org/marvel/ultimate-universe-finale-1-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/marvel/ultimate-universe-finale-1-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Wed, 24 Jun 2026 05:24:41 +0000</pubDate>\n\t\t\t\t<category>Marvel Comics</category>\n\t\t<category>0-Day</category>\n\t\t<category>Ultimate Universe</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 46 MB&lt;/p&gt;\n&lt;p&gt;THE ULTIMATE GOODBYE... Following the events of ULTIMATE ENDGAME #5, the creative teams of all the Ultimate books come together one last time to say farewell...&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/marvel/ultimate-universe-finale-1-2026/\"&gt;Ultimate Universe &amp;#8211; Finale #1 (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/marvel/ultimate-universe-finale-1-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>399594</wp9:post-id>\t</item>\n\t\t",
@@ -43,10 +43,10 @@
     }
   ],
   "last_changed_at": "2026-06-26T22:15:38.922501Z",
-  "last_checked_at": "2026-06-26T22:15:38.922501Z",
+  "last_checked_at": "2026-06-28T00:04:24.799885Z",
   "last_error": null,
-  "last_modified": "Fri, 26 Jun 2026 21:15:49 GMT",
-  "last_success_at": "2026-06-26T22:15:38.922501Z",
+  "last_modified": "Sat, 27 Jun 2026 14:49:54 GMT",
+  "last_success_at": "2026-06-28T00:04:24.799885Z",
   "link": "https://getcomics.org/search/ultimate/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
