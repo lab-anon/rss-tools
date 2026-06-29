@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"6c55834985d910bbe017e2f282494cee\"",
+  "etag": "W/\"dc9f6e368af8ebef9483f5166731ad4e\"",
   "items": [
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Elektra \u2013 The Scorpio Key Vol. 1 (TPB) (2002)</title>\n\t\t<link>https://getcomics.org/marvel/elektra-the-scorpio-key-vol-1-tpb-2002/</link>\n\t\t\t\t\t<comments>https://getcomics.org/marvel/elektra-the-scorpio-key-vol-1-tpb-2002/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Mon, 29 Jun 2026 04:10:07 +0000</pubDate>\n\t\t\t\t<category>Marvel Comics</category>\n\t\t<category>Elektra</category>\n\t\t<category>Non 0-Day</category>\n\t\t<category>TPB</category>\n\t\t<guid isPermaLink=\"false\">https://getcomics.org/?p=400148</guid>\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2002 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 213 MB&lt;/p&gt;\n&lt;p&gt;After being brought back from death, ninja assassin Elektra is hired by SHIELD to go to Iraq and retrieve a mysterious box that is currently in the possession of Saddam Abed Dassam, the nation's leader and Hydra's pawn.&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/marvel/elektra-the-scorpio-key-vol-1-tpb-2002/\"&gt;Elektra &amp;#8211; The Scorpio Key Vol. 1 (TPB) (2002)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/marvel/elektra-the-scorpio-key-vol-1-tpb-2002/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>400148</wp9:post-id>\t</item>\n\t\t",
@@ -843,10 +843,10 @@
     }
   ],
   "last_changed_at": "2026-06-29T04:07:04.061453Z",
-  "last_checked_at": "2026-06-29T04:07:04.061453Z",
+  "last_checked_at": "2026-06-29T14:05:40.372278Z",
   "last_error": null,
-  "last_modified": "Mon, 29 Jun 2026 04:10:07 GMT",
-  "last_success_at": "2026-06-29T04:07:04.061453Z",
+  "last_modified": "Mon, 29 Jun 2026 13:46:29 GMT",
+  "last_success_at": "2026-06-29T14:05:40.372278Z",
   "link": "https://getcomics.org/tag/tpb/feed/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
