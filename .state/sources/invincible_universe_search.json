@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"dc9f6e368af8ebef9483f5166731ad4e\"",
+  "etag": "W/\"f03d26c10b40e1548bc27ef6ab58138e\"",
   "items": [
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Invincible Universe \u2013 Battle Beast #10 (2026)</title>\n\t\t<link>https://getcomics.org/other-comics/invincible-universe-battle-beast-10-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/other-comics/invincible-universe-battle-beast-10-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Wed, 17 Jun 2026 11:16:14 +0000</pubDate>\n\t\t\t\t<category>Other Comics</category>\n\t\t<category>0-Day</category>\n\t\t<category>Image Comics</category>\n\t\t<category>Invincible Universe</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 76 MB&lt;/p&gt;\n&lt;p&gt;BATTLE BEAST vs. CONQUEST! At long last\u2014it's the fight everyone has always wanted!&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/other-comics/invincible-universe-battle-beast-10-2026/\"&gt;Invincible Universe &amp;#8211; Battle Beast #10 (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/other-comics/invincible-universe-battle-beast-10-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>399144</wp9:post-id>\t</item>\n\t\t",
@@ -11,10 +11,10 @@
     }
   ],
   "last_changed_at": "2026-06-23T12:34:27.043982Z",
-  "last_checked_at": "2026-06-29T22:08:59.487890Z",
+  "last_checked_at": "2026-06-30T22:16:11.632495Z",
   "last_error": null,
-  "last_modified": "Mon, 29 Jun 2026 13:46:29 GMT",
-  "last_success_at": "2026-06-29T22:08:59.487890Z",
+  "last_modified": "Tue, 30 Jun 2026 14:32:50 GMT",
+  "last_success_at": "2026-06-30T22:16:11.632495Z",
   "link": "https://getcomics.org/search/invincible+universe/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
