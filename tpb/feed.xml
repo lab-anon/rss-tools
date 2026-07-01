@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/tpb/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>GetComics TPB feed</description>
-    <lastBuildDate>Wed, 01 Jul 2026 00:07:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 05:26:04 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -2052,27 +2052,6 @@
       <wfw:commentRss>https://getcomics.org/dc/dc-finest-the-flash-the-fastest-man-dead-tpb-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>398077</wp9:post-id>
-    </item>
-    <item>
-      <title>Dark Nights – Death Metal Omnibus (2024)</title>
-      <link>https://getcomics.org/dc/dark-nights-death-metal-omnibus-2024/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:dbeddd4de6a6abe7421f8beb41a668115ec62e96b03df0e72adb2d83f4f794b7</guid>
-      <comments>https://getcomics.org/dc/dark-nights-death-metal-omnibus-2024/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Mon, 01 Jun 2026 02:13:58 +0000</pubDate>
-      <category>DC Comics</category>
-      <category>Dark Nights</category>
-      <category>Dark Nights - Death Metal</category>
-      <category>Non 0-Day</category>
-      <category>TPB</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2024 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 4.0 GB&lt;/p&gt;
-&lt;p&gt;When the Earth is enveloped by the Dark Multiverse, the Justice League is at the mercy of the Batman Who Laughs. Humanity struggles to survive in a hellish landscape twisted beyond recognition, while Batman, Wonder Woman, and Superman have all been separated and fight to survive. Unleash the beast and let the head banging begin! The Death Metal Omnibus is packed full of the Death Metal stories you love! Collecting Dark Nights: Death Metal #1-7, Dark Nights: Death Metal Guidebook #1, Dark Nights: Death Metal Infinite Hour Exxxtreme! #1, Dark Nights: Death Metal Legends of the Dark Knights #1, Dark Nights: Death Metal Multiverse's End #1, Dark Nights: Death Metal Rise of the New God #1, Dark Nights: Death Metal Robin King #1, Dark Nights: Death Metal The Last 52: War of the Multiverses #1, Dark Nights: Death Metal The Multiverse Who Laughs #1, Dark Nights: Death Metal The Secret Origin #1, Dark Nights: Death Metal Trinity Crisis #1, and Justice League #53-57!&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/dc/dark-nights-death-metal-omnibus-2024/"&gt;Dark Nights &amp;#8211; Death Metal Omnibus (2024)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/dc/dark-nights-death-metal-omnibus-2024/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>398059</wp9:post-id>
     </item>
   </channel>
 </rss>

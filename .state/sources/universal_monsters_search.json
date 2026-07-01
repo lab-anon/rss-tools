@@ -1,11 +1,20 @@
 {
-  "etag": "W/\"4214536ee97564b7b81e33307c5eaf49\"",
-  "items": [],
-  "last_changed_at": "2026-06-28T00:04:24.799885Z",
-  "last_checked_at": "2026-06-30T05:05:15.470115Z",
+  "etag": "W/\"a332bb133abe2adc0ca524885e76058a\"",
+  "items": [
+    {
+      "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Universal Monsters \u2013 Blood of the Wolf Man #1 (2026)</title>\n\t\t<link>https://getcomics.org/other-comics/universal-monsters-blood-of-the-wolf-man-1-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/other-comics/universal-monsters-blood-of-the-wolf-man-1-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Tue, 30 Jun 2026 14:21:50 +0000</pubDate>\n\t\t\t\t<category>Other Comics</category>\n\t\t<category>0-Day</category>\n\t\t<category>Image Comics</category>\n\t\t<category>Universal Monsters</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 231 MB&lt;/p&gt;\n&lt;p&gt;Adam Jaeger thought he could become someone new at college... but not like this. One moment he was partying, the next he's recovering from a massacre that left almost no survivors. The worst part? He might be responsible... As the monster within tries to claw loose, Adam will do anything he can to stop from becoming... THE WOLF MAN.&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/other-comics/universal-monsters-blood-of-the-wolf-man-1-2026/\"&gt;Universal Monsters &amp;#8211; Blood of the Wolf Man #1 (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/other-comics/universal-monsters-blood-of-the-wolf-man-1-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>399660</wp9:post-id>\t</item>\n\t\t",
+      "link": "https://getcomics.org/other-comics/universal-monsters-blood-of-the-wolf-man-1-2026/",
+      "normalized_link": "https://getcomics.org/other-comics/universal-monsters-blood-of-the-wolf-man-1-2026",
+      "published_at": "2026-06-30T14:21:50Z",
+      "stable_id": "c57350587ed41fd66d937e66012bd17ad642fbe3243292a272d17c5595a317d7",
+      "title": "Universal Monsters \u2013 Blood of the Wolf Man #1 (2026)"
+    }
+  ],
+  "last_changed_at": "2026-07-01T05:22:48.622415Z",
+  "last_checked_at": "2026-07-01T05:22:48.622415Z",
   "last_error": null,
-  "last_modified": "Tue, 30 Jun 2026 03:42:15 GMT",
-  "last_success_at": "2026-06-30T05:05:15.470115Z",
+  "last_modified": "Wed, 01 Jul 2026 04:52:52 GMT",
+  "last_success_at": "2026-07-01T05:22:48.622415Z",
   "link": "https://getcomics.org/search/universal+monsters/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
