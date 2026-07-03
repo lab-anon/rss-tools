@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/tpb/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>GetComics TPB feed</description>
-    <lastBuildDate>Thu, 02 Jul 2026 22:08:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 00:10:16 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -2141,26 +2141,6 @@
       <wfw:commentRss>https://getcomics.org/other-comics/from-the-world-of-minor-threats-library-edition-vol-1-tpb-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>398369</wp9:post-id>
-    </item>
-    <item>
-      <title>DC Super Hero Girls – High School Reunion (2026)</title>
-      <link>https://getcomics.org/dc/dc-super-hero-girls-high-school-reunion-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:8a0e0a443fcea45bc2fe79a0fdeff12550d8c9578c4081dfdca02376c1f68ae2</guid>
-      <comments>https://getcomics.org/dc/dc-super-hero-girls-high-school-reunion-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Tue, 02 Jun 2026 23:42:58 +0000</pubDate>
-      <category>DC Comics</category>
-      <category>DC Super Hero Girls</category>
-      <category>Non 0-Day</category>
-      <category>TPB</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 443 MB&lt;/p&gt;
-&lt;p&gt;It’s the 10th anniversary of DC Super Hero Girls: Finals Crisis, and modern-day, grown-up Wonder Woman, Supergirl, Batgirl, Harley, Ivy, and Beast Boy have received invitations to the most exclusive party in town—their high school reunion. Distracted by all their grown-up responsibilities, the group hasn’t been able to get together for a while, and they are more excited than ever to see their friends again! But this “reunion” isn’t what it seems…No one else is present when they arrive for the party! Who could have summoned everyone to Super Hero High? What is really going on? To find the answers to their questions and the way out of this trap, the heroes will have to take a walk down memory lane. But will this deep dive into their past bring the heroes back to their B.F.F. ways or reopen old wounds?&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/dc/dc-super-hero-girls-high-school-reunion-2026/"&gt;DC Super Hero Girls &amp;#8211; High School Reunion (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/dc/dc-super-hero-girls-high-school-reunion-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>398282</wp9:post-id>
     </item>
   </channel>
 </rss>
