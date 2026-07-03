@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/tpb/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>GetComics TPB feed</description>
-    <lastBuildDate>Fri, 03 Jul 2026 08:10:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 11:37:03 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -28,6 +28,25 @@
       <wfw:commentRss>https://getcomics.org/other-comics/jim-starlins-dreadstar-omnibus-vol-1-2025/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>383504</wp9:post-id>
+    </item>
+    <item>
+      <title>Purgatory Funeral Cakes Vol. 1 (TPB) (2025)</title>
+      <link>https://getcomics.org/other-comics/purgatory-funeral-cakes-vol-1-tpb-2025/</link>
+      <guid isPermaLink="false">rss-tools:link-sha256:56ac04025abd49478dd421b9fac96cee20ab61671c12236fe83bbb595355ae5d</guid>
+      <comments>https://getcomics.org/other-comics/purgatory-funeral-cakes-vol-1-tpb-2025/#respond</comments>
+      <dc:creator>The Comic Guy</dc:creator>
+      <pubDate>Fri, 03 Jul 2026 03:05:46 +0000</pubDate>
+      <category>Other Comics</category>
+      <category>Non 0-Day</category>
+      <category>Purgatory Funeral Cakes</category>
+      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2025 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 193 MB&lt;/p&gt;
+&lt;p&gt;Baker Margot and her ghostly assistant Miro make specialty cakes for the dearly departed. Each cake is made custom—tailored to the lost individual. Still-living loved ones share their memories of the deceased which serve as inspiration for the flavors and style, creating a truly one-of-a-kind cake. First, a mystery novelist spends her time volunteering at a hospital to read to patients and meets a blind young woman who grew up in the hospital. The two bond over mystery novels, inspiring the Mystery Novel Crepe cake, a cake made with crepe layers like the pages of a book. Then, the daughter of a vampire reminisces over her daytime life and the hours that separated her from her night-bound mother, and the moments they shared in an evening primrose field inspiring the Evening Primrose Cupcake. The love and care put into each cake will surely bring comfort to both living and dead in this heartwarming story of love and loss.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/purgatory-funeral-cakes-vol-1-tpb-2025/"&gt;Purgatory Funeral Cakes Vol. 1 (TPB) (2025)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
+</description>
+      <wfw:commentRss>https://getcomics.org/other-comics/purgatory-funeral-cakes-vol-1-tpb-2025/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <wp9:post-id>400555</wp9:post-id>
     </item>
     <item>
       <title>X-Men Epic Collection Vol. 14 – Mutant Massacre (2026)</title>
