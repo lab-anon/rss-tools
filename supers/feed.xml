@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/supers/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>GetComics Supers feeds</description>
-    <lastBuildDate>Fri, 03 Jul 2026 04:42:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 08:10:29 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -227,25 +227,6 @@
       <wfw:commentRss>https://getcomics.org/marvel/ultimate-spider-man-omnibus-vol-4-2024/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>360068</wp9:post-id>
-    </item>
-    <item>
-      <title>It’s Jeff – Brand New Week #1 (2026)</title>
-      <link>https://getcomics.org/marvel/its-jeff-brand-new-week-1-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:22af4ecc600613b10a46e5bd6b52539c7b5e7f987521dcf2fa0d8f2bb10a68f5</guid>
-      <comments>https://getcomics.org/marvel/its-jeff-brand-new-week-1-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Wed, 03 Jun 2026 05:16:46 +0000</pubDate>
-      <category>Marvel Comics</category>
-      <category>0-Day</category>
-      <category>It's Jeff</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 74 MB&lt;/p&gt;
-&lt;p&gt;Since he made his debut, Jeff the Land Shark has enjoyed the company of the Marvel Universe's greatest heroes — but all he wants is to be left alone after he runs into a clingy septapus named Ken! When they find themselves stuck together in a tricky predicament, will Jeff put aside his grievances in time to help them both escape? Plus, revisit some of Jeff's earliest encounters with Deadpool and Elsa Bloodstone! Collecting material from JEFF WEEK (2025), DEADPOOL (2019), and MARVEL COMICS (2019) #1000&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/marvel/its-jeff-brand-new-week-1-2026/"&gt;It&amp;#8217;s Jeff &amp;#8211; Brand New Week #1 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/marvel/its-jeff-brand-new-week-1-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>398143</wp9:post-id>
     </item>
   </channel>
 </rss>
