@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/tpb/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>GetComics TPB feed</description>
-    <lastBuildDate>Sat, 04 Jul 2026 04:38:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 07:47:44 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -2201,26 +2201,6 @@
       <wfw:commentRss>https://getcomics.org/other-comics/the-juniper-lodge-tpb-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>398384</wp9:post-id>
-    </item>
-    <item>
-      <title>From the World of Minor Threats Library Edition Vol. 1 (TPB) (2026)</title>
-      <link>https://getcomics.org/other-comics/from-the-world-of-minor-threats-library-edition-vol-1-tpb-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:bdcaa9777c21b47b90846c2d97b35ab5da311e744d515d8ec87694adac9bb315</guid>
-      <comments>https://getcomics.org/other-comics/from-the-world-of-minor-threats-library-edition-vol-1-tpb-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Thu, 04 Jun 2026 07:42:44 +0000</pubDate>
-      <category>Other Comics</category>
-      <category>Minor Threats</category>
-      <category>Non 0-Day</category>
-      <category>TPB</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 1.3 GB&lt;/p&gt;
-&lt;p&gt;A support group of capes—The Alternates—struggle to reclaim their purpose after returning from a mind-bending pocket dimension. Haunted by trauma and tempted by newfound powers, they’ll face a reality that no longer seems to have a place for them. Then, in Barfly, the Lower Lair’s infamous humanoid mutant fly confronts the truth when he discovers what happens to a henchman when he no longer has anyone left to hench for? This deluxe library edition hardcover features the complete The Alternates miniseries and the full Barfly saga, along with a sketchbook section and pinups from some of comics’ leading artists.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/from-the-world-of-minor-threats-library-edition-vol-1-tpb-2026/"&gt;From the World of Minor Threats Library Edition Vol. 1 (TPB) (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/other-comics/from-the-world-of-minor-threats-library-edition-vol-1-tpb-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>398369</wp9:post-id>
     </item>
   </channel>
 </rss>
