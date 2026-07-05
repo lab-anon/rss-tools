@@ -1,11 +1,11 @@
 {
-  "etag": "W/\"c1749d5673b4ee62ab9ca1c6a02d2551\"",
+  "etag": "W/\"d24e691f250df9ea711f4fbd9e172ca8\"",
   "items": [],
   "last_changed_at": "2026-06-26T18:53:35.090521Z",
-  "last_checked_at": "2026-07-04T04:36:15.191567Z",
+  "last_checked_at": "2026-07-05T07:28:07.052902Z",
   "last_error": null,
-  "last_modified": "Sat, 04 Jul 2026 03:29:20 GMT",
-  "last_success_at": "2026-07-04T04:36:15.191567Z",
+  "last_modified": "Sun, 05 Jul 2026 06:47:03 GMT",
+  "last_success_at": "2026-07-05T07:28:07.052902Z",
   "link": "https://getcomics.org/search/exquisite+corpses/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
