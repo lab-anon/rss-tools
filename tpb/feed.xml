@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/tpb/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>GetComics TPB feeds</description>
-    <lastBuildDate>Mon, 06 Jul 2026 21:44:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 23:09:52 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -2034,48 +2034,6 @@
       <wfw:commentRss>https://getcomics.org/marvel/ultimate-spider-man-omnibus-vol-4-2024/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>360068</wp9:post-id>
-    </item>
-    <item>
-      <title>Fantastic Four Omnibus Vol. 1 – 5 (2018-2025)</title>
-      <link>https://getcomics.org/marvel/fantastic-four-omnibus-vol-1-4-2018-2021/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:72639b2ea4f0f63ab514c3c80e35acbac26a4fed0493d1448b9210845e9ea2e0</guid>
-      <comments>https://getcomics.org/marvel/fantastic-four-omnibus-vol-1-4-2018-2021/#comments</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Sat, 06 Jun 2026 23:07:56 +0000</pubDate>
-      <category>Marvel Comics</category>
-      <category>Fantastic Four</category>
-      <category>Non 0-Day</category>
-      <category>TPB</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2018-2025 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 9.1 GB&lt;/p&gt;
-&lt;p&gt;They were visionaries. Explorers. Imaginauts. They were Stan Lee and Jack Kirby. And like the Fantastic Four, they continually strove to overcome the impossible and achieve the extraordinary. Now, the first three years of their landmark run are collected in one oversized volume. This keepsake edition also includes all original letters pages and pinups, critical commentaries, a historical overview, and other DVD-style extras.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/marvel/fantastic-four-omnibus-vol-1-4-2018-2021/"&gt;Fantastic Four Omnibus Vol. 1 &amp;#8211; 5 (2018-2025)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/marvel/fantastic-four-omnibus-vol-1-4-2018-2021/feed/</wfw:commentRss>
-      <slash:comments>1</slash:comments>
-      <wp9:post-id>297346</wp9:post-id>
-    </item>
-    <item>
-      <title>Darkwing Duck – Negaduck Vol. 2 – The Ancient Order Of Villainy (TPB) (2025)</title>
-      <link>https://getcomics.org/other-comics/darkwing-duck-negaduck-vol-2-the-ancient-order-of-villainy-tpb-2025/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:5cd3a69fb104280809c100660eee6f1c70450ca361a3c81b5e1810eca3415f67</guid>
-      <comments>https://getcomics.org/other-comics/darkwing-duck-negaduck-vol-2-the-ancient-order-of-villainy-tpb-2025/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Sat, 06 Jun 2026 22:28:13 +0000</pubDate>
-      <category>Other Comics</category>
-      <category>Darkwing Duck</category>
-      <category>Dynamite Entertainment</category>
-      <category>Negaduck</category>
-      <category>Non 0-Day</category>
-      <category>TPB</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2025 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 273 MB&lt;/p&gt;
-&lt;p&gt;Darkwing Duck's most notorious nemesis is no one-trick antagonist. The dastardly Negaduck can lie, cheat, cut the tags off of mattresses, and (most especially) steal better than any other outlaw under the sun. So great are his skills at thievery, in fact, that a super-secret society of burgling bad guys not only wants him to join their group - they think that he should be its new head honcho! However, in order to prove that he's got the chops to be the leader of all villains, Negaduck will have to pull off an impossible heist - a feat that will require the help of his fellow menaces. Will the legendary (in his own mind) Negaduck emerge triumphant? Or will he be cut out of his own conspiracy by his double-crossing criminal colleagues? All will be revealed in Negaduck Vol. 2: The Ancient Order of Villainy, collecting issues #5-8&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/darkwing-duck-negaduck-vol-2-the-ancient-order-of-villainy-tpb-2025/"&gt;Darkwing Duck &amp;#8211; Negaduck Vol. 2 &amp;#8211; The Ancient Order Of Villainy (TPB) (2025)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/other-comics/darkwing-duck-negaduck-vol-2-the-ancient-order-of-villainy-tpb-2025/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>364659</wp9:post-id>
     </item>
   </channel>
 </rss>
