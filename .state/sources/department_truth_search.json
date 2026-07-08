@@ -1,11 +1,11 @@
 {
-  "etag": "W/\"719ba7914e6dcabb28abfa85eb5b43b4\"",
+  "etag": "W/\"f3e3aabb4e496d660143d422e22d3a1a\"",
   "items": [],
   "last_changed_at": "2026-06-12T19:06:36.001726Z",
-  "last_checked_at": "2026-07-07T11:08:44.415452Z",
+  "last_checked_at": "2026-07-08T14:13:19.138566Z",
   "last_error": null,
-  "last_modified": "Mon, 06 Jul 2026 04:23:42 GMT",
-  "last_success_at": "2026-07-07T11:08:44.415452Z",
+  "last_modified": "Wed, 08 Jul 2026 13:44:05 GMT",
+  "last_success_at": "2026-07-08T14:13:19.138566Z",
   "link": "https://getcomics.org/search/department+truth/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
