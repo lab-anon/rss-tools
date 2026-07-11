@@ -5,9 +5,30 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/tpb/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>GetComics TPB feeds</description>
-    <lastBuildDate>Fri, 10 Jul 2026 22:05:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 00:02:32 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
+    <item>
+      <title>Elektra – The Hand (TPB) (2005)</title>
+      <link>https://getcomics.org/marvel/elektra-the-hand-tpb-2005/</link>
+      <guid isPermaLink="false">rss-tools:link-sha256:3508df81e9a5c57d8a63e75b471c38a5d9d561595ffb4742a74793d0e7036f07</guid>
+      <comments>https://getcomics.org/marvel/elektra-the-hand-tpb-2005/#respond</comments>
+      <dc:creator>The Comic Guy</dc:creator>
+      <pubDate>Fri, 10 Jul 2026 21:30:07 +0000</pubDate>
+      <category>Marvel Comics</category>
+      <category>Elektra</category>
+      <category>Elektra - The Hand</category>
+      <category>Non 0-Day</category>
+      <category>TPB</category>
+      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2005 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 162 MB&lt;/p&gt;
+&lt;p&gt;The Hand - few names have ever instilled such terror in the very soul of the Marvel Universe! Elektra witnesses a mystic ceremony that leads her to the never-before-revealed origin of the Hand, the world's most deadly assassins! In feudal Japan, a single murder fuels one young samurai's struggle for dominance - a struggle that will lead to the inception of this immortal ninja clan. And when a foreign merchant sends his beautiful daughter to learn the ways of the warrior, a cycle is set in motion that will change the Marvel Universe...forever! Collecting Elektra: The Hand 1-5. &lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://getcomics.org/marvel/elektra-the-hand-tpb-2005/"&gt;Elektra &amp;#8211; The Hand (TPB) (2005)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
+</description>
+      <wfw:commentRss>https://getcomics.org/marvel/elektra-the-hand-tpb-2005/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <wp9:post-id>401085</wp9:post-id>
+    </item>
     <item>
       <title>Batman and the Monster Men (TPB) (2026)</title>
       <link>https://getcomics.org/dc/batman-and-the-monster-men-tpb-2026/</link>

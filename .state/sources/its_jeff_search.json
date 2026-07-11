@@ -1,11 +1,11 @@
 {
-  "etag": "W/\"5a61db4f7f09044926b2138b2259f5cb\"",
+  "etag": "W/\"6686363eda75ba1a9a506633c2bd8c3a\"",
   "items": [],
   "last_changed_at": "2026-07-03T11:33:49.265575Z",
-  "last_checked_at": "2026-07-09T22:23:32.636680Z",
+  "last_checked_at": "2026-07-10T23:59:17.281521Z",
   "last_error": null,
-  "last_modified": "Thu, 09 Jul 2026 21:20:07 GMT",
-  "last_success_at": "2026-07-09T22:23:32.636680Z",
+  "last_modified": "Fri, 10 Jul 2026 21:31:19 GMT",
+  "last_success_at": "2026-07-10T23:59:17.281521Z",
   "link": "https://getcomics.org/search/it%27s+jeff/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
