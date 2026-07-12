@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"20a7ee1cfbf12945dd4fda8e9970c1da\"",
+  "etag": "W/\"3126cf8d387f9e07b81049ad42952d27\"",
   "items": [
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Batman \u2013 Dark Legends (TPB) (1996)</title>\n\t\t<link>https://getcomics.org/dc/batman-dark-legends/</link>\n\t\t\t\t\t<comments>https://getcomics.org/dc/batman-dark-legends/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Sun, 12 Jul 2026 00:25:11 +0000</pubDate>\n\t\t\t\t<category>DC Comics</category>\n\t\t<category>Batman</category>\n\t\t<category>Batman - Dark Legends</category>\n\t\t<category>Non 0-Day</category>\n\t\t<category>TPB</category>\n\t\t<guid isPermaLink=\"false\">https://getcomics.org/?p=31582</guid>\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year :&lt;/strong&gt;1996 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 240 MB&lt;/p&gt;\n&lt;p&gt;3 of Batman's moodiest thrillers, from the early days of his crimefighting career, are collected in this new volume. Included are \"Masks\" a tale of vengeance in which Batman nealy loses his grip on reality; \"Images\" chronicling the Dark Knight's first encounter with the Joker; and \"Tao\". &lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/dc/batman-dark-legends/\"&gt;Batman &amp;#8211; Dark Legends (TPB) (1996)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/dc/batman-dark-legends/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>31582</wp9:post-id>\t</item>\n\t\t",
@@ -819,10 +819,10 @@
     }
   ],
   "last_changed_at": "2026-07-12T06:34:15.709146Z",
-  "last_checked_at": "2026-07-12T06:34:15.709146Z",
+  "last_checked_at": "2026-07-12T13:23:09.328308Z",
   "last_error": null,
-  "last_modified": "Sun, 12 Jul 2026 00:27:00 GMT",
-  "last_success_at": "2026-07-12T06:34:15.709146Z",
+  "last_modified": "Sun, 12 Jul 2026 11:11:45 GMT",
+  "last_success_at": "2026-07-12T13:23:09.328308Z",
   "link": "https://getcomics.org/tag/tpb/feed/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
