@@ -1,11 +1,20 @@
 {
-  "etag": "W/\"ea91d98b2503e5b8d37bdda3bbebe685\"",
-  "items": [],
-  "last_changed_at": "2026-06-05T11:03:27.549309Z",
-  "last_checked_at": "2026-07-14T20:13:16.168611Z",
+  "etag": "W/\"dc04be703b4918f94b63144c7227af6b\"",
+  "items": [
+    {
+      "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp11=\"com-wordpress:feed-additions:1\">\n\t\t<title>Assorted Crisis Events #9 (2026)</title>\n\t\t<link>https://getcomics.org/other-comics/assorted-crisis-events-9-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/other-comics/assorted-crisis-events-9-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Wed, 15 Jul 2026 13:03:25 +0000</pubDate>\n\t\t\t\t<category>Other Comics</category>\n\t\t<category>0-Day</category>\n\t\t<category>Assorted Crisis Events</category>\n\t\t<category>Image Comics</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 56 MB&lt;/p&gt;\n&lt;p&gt;Are you poor, desperate, huddled, massive? Do you live in a dark age, a depression, one of the many historical periods of slim pickings and no options? Welcome to the TEMPS, the first cross-temporal employment app! The past and future are filled with low skill, low wage gigs! Gigs such as: Cobbler's assistant in plague-era Europe! Salvager in the ruins of New York, 2832! Soldier in Krang's Cross-Time Army! Temp is shattering the temporal ceiling!&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/other-comics/assorted-crisis-events-9-2026/\"&gt;Assorted Crisis Events #9 (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/other-comics/assorted-crisis-events-9-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp11:post-id>401258</wp11:post-id>\t</item>\n\t\t",
+      "link": "https://getcomics.org/other-comics/assorted-crisis-events-9-2026/",
+      "normalized_link": "https://getcomics.org/other-comics/assorted-crisis-events-9-2026",
+      "published_at": "2026-07-15T13:03:25Z",
+      "stable_id": "71887b212d14b905a3fc004309497317fb0c22c8a76824c52b4f354620b045a1",
+      "title": "Assorted Crisis Events #9 (2026)"
+    }
+  ],
+  "last_changed_at": "2026-07-15T22:02:21.790707Z",
+  "last_checked_at": "2026-07-15T22:02:21.790707Z",
   "last_error": null,
-  "last_modified": "Tue, 14 Jul 2026 13:59:55 GMT",
-  "last_success_at": "2026-07-14T20:13:16.168611Z",
+  "last_modified": "Wed, 15 Jul 2026 20:39:15 GMT",
+  "last_success_at": "2026-07-15T22:02:21.790707Z",
   "link": "https://getcomics.org/search/assorted/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
@@ -16,6 +25,7 @@
     "wfw": "http://wellformedweb.org/CommentAPI/",
     "wp": "com-wordpress:feed-additions:1",
     "wp10": "com-wordpress:feed-additions:1",
+    "wp11": "com-wordpress:feed-additions:1",
     "wp2": "com-wordpress:feed-additions:1",
     "wp3": "com-wordpress:feed-additions:1",
     "wp4": "com-wordpress:feed-additions:1",
