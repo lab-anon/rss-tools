@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"9e8046e63ddbcee5a40c3bc362b83c0a\"",
+  "etag": "W/\"6f549e21c327cf0f6413ef17ae5fea22\"",
   "items": [
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Something Is Killing the Children #48 (2026)</title>\n\t\t<link>https://getcomics.org/other-comics/something-is-killing-the-children-48-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/other-comics/something-is-killing-the-children-48-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Thu, 18 Jun 2026 02:18:26 +0000</pubDate>\n\t\t\t\t<category>Other Comics</category>\n\t\t<category>0-Day</category>\n\t\t<category>Boom Studios</category>\n\t\t<category>Something Is Killing The Children</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 36 MB&lt;/p&gt;\n&lt;p&gt;The hunt at the Lodge continues as the Slaughterverse intensifies! Is Jessica\u2019s past experience at the Lodge the key to their survival? To fully eliminate the threat, Erica and Jessica will have to face a treacherous pack of monsters in the woods. Will they be able to save the other visitors and leave unscathed? &lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/other-comics/something-is-killing-the-children-48-2026/\"&gt;Something Is Killing the Children #48 (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/other-comics/something-is-killing-the-children-48-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>399231</wp9:post-id>\t</item>\n\t\t",
@@ -11,10 +11,10 @@
     }
   ],
   "last_changed_at": "2026-06-18T12:55:22.984902Z",
-  "last_checked_at": "2026-07-14T08:08:25.314652Z",
+  "last_checked_at": "2026-07-15T08:14:06.376015Z",
   "last_error": null,
-  "last_modified": "Tue, 14 Jul 2026 06:43:44 GMT",
-  "last_success_at": "2026-07-14T08:08:25.314652Z",
+  "last_modified": "Wed, 15 Jul 2026 05:24:30 GMT",
+  "last_success_at": "2026-07-15T08:14:06.376015Z",
   "link": "https://getcomics.org/search/something+killing/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
