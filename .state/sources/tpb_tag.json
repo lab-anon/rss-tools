@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"b8c5e388a870a7fac2bc14c977001e77\"",
+  "etag": "W/\"294f9f407134d22f5be43b191e61252d\"",
   "items": [
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Batman \u2013 Detective Comics by Ram V Omnibus (2026) (Fan-Made)</title>\n\t\t<link>https://getcomics.org/dc/batman-detective-comics-by-ram-v-omnibus-2026-fan-made/</link>\n\t\t\t\t\t<comments>https://getcomics.org/dc/batman-detective-comics-by-ram-v-omnibus-2026-fan-made/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Tue, 14 Jul 2026 13:59:55 +0000</pubDate>\n\t\t\t\t<category>DC Comics</category>\n\t\t<category>Detective Comics</category>\n\t\t<category>Non 0-Day</category>\n\t\t<category>TPB</category>\n\t\t<guid isPermaLink=\"false\">https://getcomics.org/?p=401401</guid>\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 3.9 GB&lt;/p&gt;\n&lt;p&gt;For years, Batman has instilled fear into criminals by posing as a demonic creature of the night. But as the Dark Knight begins to question his own mortality\u2014and as seemingly real demons start appearing in Gotham\u2014he must also ask himself if there has in fact been an actual dark entity living in him all along. This all-in-one volume collects the entire Gotham Nocturne storyline with the interconnecting backup tales from Detective Comics #1062-1089 and Detective Comics 2022 Annual #1, plus bonus stories from Batman Secret Files #1, DC\u2019s Crimes of Passion #1, and Strange Love Adventures #1.&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/dc/batman-detective-comics-by-ram-v-omnibus-2026-fan-made/\"&gt;Batman &amp;#8211; Detective Comics by Ram V Omnibus (2026) (Fan-Made)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/dc/batman-detective-comics-by-ram-v-omnibus-2026-fan-made/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>401401</wp9:post-id>\t</item>\n\t\t",
@@ -867,10 +867,10 @@
     }
   ],
   "last_changed_at": "2026-07-15T02:35:26.431777Z",
-  "last_checked_at": "2026-07-15T02:35:26.431777Z",
+  "last_checked_at": "2026-07-15T10:51:38.170572Z",
   "last_error": null,
-  "last_modified": "Wed, 15 Jul 2026 02:29:02 GMT",
-  "last_success_at": "2026-07-15T02:35:26.431777Z",
+  "last_modified": "Wed, 15 Jul 2026 10:44:03 GMT",
+  "last_success_at": "2026-07-15T10:51:38.170572Z",
   "link": "https://getcomics.org/tag/tpb/feed/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
