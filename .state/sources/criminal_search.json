@@ -1,11 +1,11 @@
 {
-  "etag": "W/\"cea233f5e9e7d2dfa208e215e1a78605\"",
+  "etag": "W/\"fecd884c2625629e478160c299771c68\"",
   "items": [],
   "last_changed_at": "2026-06-04T18:43:07.305130Z",
-  "last_checked_at": "2026-07-16T09:15:47.212368Z",
+  "last_checked_at": "2026-07-17T09:59:02.405961Z",
   "last_error": null,
-  "last_modified": "Thu, 16 Jul 2026 06:13:55 GMT",
-  "last_success_at": "2026-07-16T09:15:47.212368Z",
+  "last_modified": "Fri, 17 Jul 2026 09:31:28 GMT",
+  "last_success_at": "2026-07-17T09:59:02.405961Z",
   "link": "https://getcomics.org/search/criminal/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
