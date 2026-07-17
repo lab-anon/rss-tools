@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"301db365369a52b943455c4ad42283d1\"",
+  "etag": "W/\"493eb8da8bd3ee6093213a22cc159107\"",
   "items": [
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Cyberpunk 2077 \u2013 Chrome #4 (2026)</title>\n\t\t<link>https://getcomics.org/other-comics/cyberpunk-2077-chrome-4-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/other-comics/cyberpunk-2077-chrome-4-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Wed, 15 Jul 2026 20:27:44 +0000</pubDate>\n\t\t\t\t<category>Other Comics</category>\n\t\t<category>0-Day</category>\n\t\t<category>Cyberpunk 2077</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 222 MB&lt;/p&gt;\n&lt;p&gt;It's blood for blood! The Scavengers and the killer go head-to-head in a bloodbath of fury, but the Scavs want her alive! And for the friends\u2019 lone survivor, escape is more than just making it out alive. In this landfill where only pain is salvaged, will she make it out whole?&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/other-comics/cyberpunk-2077-chrome-4-2026/\"&gt;Cyberpunk 2077 &amp;#8211; Chrome #4 (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/other-comics/cyberpunk-2077-chrome-4-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>401313</wp9:post-id>\t</item>\n\t\t",
@@ -11,10 +11,10 @@
     }
   ],
   "last_changed_at": "2026-07-15T22:02:21.790707Z",
-  "last_checked_at": "2026-07-16T22:57:46.925493Z",
+  "last_checked_at": "2026-07-17T22:58:48.312251Z",
   "last_error": null,
-  "last_modified": "Thu, 16 Jul 2026 22:57:55 GMT",
-  "last_success_at": "2026-07-16T22:57:46.925493Z",
+  "last_modified": "Fri, 17 Jul 2026 21:24:21 GMT",
+  "last_success_at": "2026-07-17T22:58:48.312251Z",
   "link": "https://getcomics.org/search/cyberpunk+2077/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
