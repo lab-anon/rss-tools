@@ -1,0 +1,20 @@
+{
+  "etag": "W/\"445fbc0f4faf6c20f88f1ac84db01e92\"",
+  "items": [],
+  "last_changed_at": "2026-07-20T15:36:19.326448Z",
+  "last_checked_at": "2026-07-20T15:36:19.326448Z",
+  "last_error": null,
+  "last_modified": "Fri, 17 Jul 2026 16:05:55 GMT",
+  "last_success_at": "2026-07-20T15:36:19.326448Z",
+  "link": "https://tomosmanga.com/search/vagabond/feed/rss2/",
+  "namespaces": {
+    "atom": "http://www.w3.org/2005/Atom",
+    "content": "http://purl.org/rss/1.0/modules/content/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "slash": "http://purl.org/rss/1.0/modules/slash/",
+    "sy": "http://purl.org/rss/1.0/modules/syndication/",
+    "wfw": "http://wellformedweb.org/CommentAPI/"
+  },
+  "refresh_hours": 24,
+  "slug": "vagabond_search"
+}

@@ -1,0 +1,28 @@
+{
+  "etag": "W/\"797006f01c3bd0e56763a99456563adc\"",
+  "items": [],
+  "last_changed_at": "2026-07-20T15:36:19.326448Z",
+  "last_checked_at": "2026-07-20T15:36:19.326448Z",
+  "last_error": null,
+  "last_modified": "Mon, 20 Jul 2026 14:35:19 GMT",
+  "last_success_at": "2026-07-20T15:36:19.326448Z",
+  "link": "https://getcomics.org/search/blacksad/feed/rss2/",
+  "namespaces": {
+    "atom": "http://www.w3.org/2005/Atom",
+    "content": "http://purl.org/rss/1.0/modules/content/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "slash": "http://purl.org/rss/1.0/modules/slash/",
+    "sy": "http://purl.org/rss/1.0/modules/syndication/",
+    "wfw": "http://wellformedweb.org/CommentAPI/",
+    "wp": "com-wordpress:feed-additions:1",
+    "wp2": "com-wordpress:feed-additions:1",
+    "wp3": "com-wordpress:feed-additions:1",
+    "wp4": "com-wordpress:feed-additions:1",
+    "wp5": "com-wordpress:feed-additions:1",
+    "wp6": "com-wordpress:feed-additions:1",
+    "wp7": "com-wordpress:feed-additions:1",
+    "wp8": "com-wordpress:feed-additions:1"
+  },
+  "refresh_hours": 24,
+  "slug": "blacksad_search"
+}

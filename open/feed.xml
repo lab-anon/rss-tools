@@ -1,12 +1,32 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:wp9="com-wordpress:feed-additions:1" version="2.0">
   <channel>
     <title>Merged - Open</title>
     <atom:link href="https://lab-anon.github.io/rss-tools/open/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
-    <description>GetComics Open feeds</description>
-    <lastBuildDate>Mon, 20 Jul 2026 13:11:01 +0000</lastBuildDate>
+    <description>Open feeds</description>
+    <lastBuildDate>Mon, 20 Jul 2026 15:39:24 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
+    <item>
+      <title>Teenage Mutant Ninja Turtles – The Last Ronin – Training Day #1 (2026)</title>
+      <link>https://getcomics.org/other-comics/teenage-mutant-ninja-turtles-the-last-ronin-training-day-1-2026/</link>
+      <guid isPermaLink="false">rss-tools:link-sha256:e8abffff193aabd6b7abda8eb7a57d316ff5394ac7c7a9f2f31ceb34dac36705</guid>
+      <comments>https://getcomics.org/other-comics/teenage-mutant-ninja-turtles-the-last-ronin-training-day-1-2026/#respond</comments>
+      <dc:creator>The Comic Guy</dc:creator>
+      <pubDate>Wed, 15 Jul 2026 10:44:03 +0000</pubDate>
+      <category>Other Comics</category>
+      <category>0-Day</category>
+      <category>IDW</category>
+      <category>Teenage Mutant Ninja Turtles</category>
+      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 139 MB&lt;/p&gt;
+&lt;p&gt;The training mission you didn't see! Michelangelo only has a short time to get young Casey Marie Jones prepared for battle against Oroku Hiroto. How can the Last Ronin distill a lifetime's worth of training and knowledge into one day? Read the epic tale of action and legacy too big to fit into the pages of the original book, written and drawn by the original Last Ronin team!&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/teenage-mutant-ninja-turtles-the-last-ronin-training-day-1-2026/"&gt;Teenage Mutant Ninja Turtles &amp;#8211; The Last Ronin &amp;#8211; Training Day #1 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
+</description>
+      <wfw:commentRss>https://getcomics.org/other-comics/teenage-mutant-ninja-turtles-the-last-ronin-training-day-1-2026/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <wp9:post-id>401353</wp9:post-id>
+    </item>
   </channel>
 </rss>
