@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-07-20T15:51:37.795136Z",
+  "generated_at": "2026-07-20T16:34:47.358059Z",
   "rows": [
     {
-      "description": "GetComics OnGoing feeds",
-      "item_count": 8,
+      "description": "Ongoing feeds",
+      "item_count": 7,
       "last_error": null,
-      "last_success_at": "2026-07-20T15:51:37.795136Z",
+      "last_success_at": "2026-07-20T16:34:47.358059Z",
       "public_url": "https://lab-anon.github.io/rss-tools/ongoing/feed.xml",
       "slug": "ongoing",
       "status": "ok",
-      "title": "Merged - OnGoing",
+      "title": "Merged - Ongoing",
       "type": "merger"
     },
     {
-      "description": "GetComics OnGoing Reading feeds",
-      "item_count": 8,
+      "description": "Ongoing Reading feeds",
+      "item_count": 9,
       "last_error": null,
-      "last_success_at": "2026-07-20T15:51:37.795136Z",
+      "last_success_at": "2026-07-20T16:34:47.358059Z",
       "public_url": "https://lab-anon.github.io/rss-tools/ongoing_reading/feed.xml",
       "slug": "ongoing_reading",
       "status": "ok",
-      "title": "Merged - OnGoing Reading",
+      "title": "Merged - Ongoing Reading",
       "type": "merger"
     },
     {
-      "description": "Open feeds",
-      "item_count": 1,
+      "description": "Open Reading feeds",
+      "item_count": 0,
       "last_error": null,
-      "last_success_at": "2026-07-20T15:51:37.795136Z",
+      "last_success_at": "2026-07-20T16:34:47.358059Z",
       "public_url": "https://lab-anon.github.io/rss-tools/open/feed.xml",
       "slug": "open",
       "status": "ok",
@@ -35,10 +35,21 @@
       "type": "merger"
     },
     {
-      "description": "GetComics Supers feeds",
-      "item_count": 8,
+      "description": "Open feeds",
+      "item_count": 1,
       "last_error": null,
-      "last_success_at": "2026-07-20T15:51:37.795136Z",
+      "last_success_at": "2026-07-20T16:34:47.358059Z",
+      "public_url": "https://lab-anon.github.io/rss-tools/open_reading/feed.xml",
+      "slug": "open_reading",
+      "status": "ok",
+      "title": "Merged - Open Reading",
+      "type": "merger"
+    },
+    {
+      "description": "Supers feeds",
+      "item_count": 4,
+      "last_error": null,
+      "last_success_at": "2026-07-20T16:34:47.358059Z",
       "public_url": "https://lab-anon.github.io/rss-tools/supers/feed.xml",
       "slug": "supers",
       "status": "ok",
@@ -46,15 +57,46 @@
       "type": "merger"
     },
     {
-      "description": "GetComics TPB feeds",
-      "item_count": 133,
+      "description": "Supers Reading feeds",
+      "item_count": 4,
       "last_error": null,
-      "last_success_at": "2026-07-20T15:51:37.795136Z",
+      "last_success_at": "2026-07-20T16:34:47.358059Z",
+      "public_url": "https://lab-anon.github.io/rss-tools/supers_reading/feed.xml",
+      "slug": "supers_reading",
+      "status": "ok",
+      "title": "Merged - Supers Reading",
+      "type": "merger"
+    },
+    {
+      "description": "TPB feeds",
+      "item_count": 134,
+      "last_error": null,
+      "last_success_at": "2026-07-20T16:34:47.358059Z",
       "public_url": "https://lab-anon.github.io/rss-tools/tpb/feed.xml",
       "slug": "tpb",
       "status": "ok",
       "title": "Merged - TPB",
       "type": "merger"
+    },
+    {
+      "item_count": 0,
+      "last_error": null,
+      "last_success_at": "2026-07-20T16:34:25.064191Z",
+      "link": "https://tomosmanga.com/search/ghost+shell/feed/rss2/",
+      "refresh_hours": 24,
+      "slug": "ghost_shell_search",
+      "status": "ok",
+      "type": "source"
+    },
+    {
+      "item_count": 132,
+      "last_error": null,
+      "last_success_at": "2026-07-20T16:34:25.064191Z",
+      "link": "https://getcomics.org/tag/tpb/feed/",
+      "refresh_hours": 6,
+      "slug": "tpb_tag",
+      "status": "ok",
+      "type": "source"
     },
     {
       "item_count": 2,
@@ -503,16 +545,6 @@
       "link": "https://getcomics.org/search/tpb/feed/rss2/",
       "refresh_hours": 24,
       "slug": "tpb_search",
-      "status": "skipped",
-      "type": "source"
-    },
-    {
-      "item_count": 131,
-      "last_error": null,
-      "last_success_at": "2026-07-20T10:13:13.166454Z",
-      "link": "https://getcomics.org/tag/tpb/feed/",
-      "refresh_hours": 6,
-      "slug": "tpb_tag",
       "status": "skipped",
       "type": "source"
     },

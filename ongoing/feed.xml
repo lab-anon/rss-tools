@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:wp13="com-wordpress:feed-additions:1" version="2.0">
   <channel>
-    <title>Merged - OnGoing</title>
+    <title>Merged - Ongoing</title>
     <atom:link href="https://lab-anon.github.io/rss-tools/ongoing/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
-    <description>GetComics OnGoing feeds</description>
-    <lastBuildDate>Mon, 20 Jul 2026 15:51:37 +0000</lastBuildDate>
+    <description>Ongoing feeds</description>
+    <lastBuildDate>Mon, 20 Jul 2026 16:34:47 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -28,25 +28,6 @@
       <wfw:commentRss>https://getcomics.org/other-comics/the-department-of-truth-the-complete-conspiracy-vol-2-tpb-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp13:post-id>401582</wp13:post-id>
-    </item>
-    <item>
-      <title>Cyberpunk 2077 – Chrome #4 (2026)</title>
-      <link>https://getcomics.org/other-comics/cyberpunk-2077-chrome-4-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:6af83c911b57c1311e552868ba830e02144d0fe28ed5adebfc6e1487a7b1cff3</guid>
-      <comments>https://getcomics.org/other-comics/cyberpunk-2077-chrome-4-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Wed, 15 Jul 2026 20:27:44 +0000</pubDate>
-      <category>Other Comics</category>
-      <category>0-Day</category>
-      <category>Cyberpunk 2077</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 222 MB&lt;/p&gt;
-&lt;p&gt;It's blood for blood! The Scavengers and the killer go head-to-head in a bloodbath of fury, but the Scavs want her alive! And for the friends’ lone survivor, escape is more than just making it out alive. In this landfill where only pain is salvaged, will she make it out whole?&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/cyberpunk-2077-chrome-4-2026/"&gt;Cyberpunk 2077 &amp;#8211; Chrome #4 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/other-comics/cyberpunk-2077-chrome-4-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp13:post-id>401313</wp13:post-id>
     </item>
     <item>
       <title>The Department of Truth #38 (2026)</title>

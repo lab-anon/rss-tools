@@ -4,10 +4,31 @@
     <title>Merged - TPB</title>
     <atom:link href="https://lab-anon.github.io/rss-tools/tpb/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
-    <description>GetComics TPB feeds</description>
-    <lastBuildDate>Mon, 20 Jul 2026 15:51:37 +0000</lastBuildDate>
+    <description>TPB feeds</description>
+    <lastBuildDate>Mon, 20 Jul 2026 16:34:47 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
+    <item>
+      <title>The Lone Ranger &amp; Tonto Vol. 1 (TPB) (2010)</title>
+      <link>https://getcomics.org/other-comics/the-lone-ranger-tonto-vol-1-tpb-2010/</link>
+      <guid isPermaLink="false">rss-tools:link-sha256:3fa91b0038d5045d4eff67b4f047b9dc0260c2eac4b07bb3ec9f38a57a60aacc</guid>
+      <comments>https://getcomics.org/other-comics/the-lone-ranger-tonto-vol-1-tpb-2010/#respond</comments>
+      <dc:creator>The Comic Guy</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 14:33:07 +0000</pubDate>
+      <category>Other Comics</category>
+      <category>Dynamite Entertainment</category>
+      <category>Non 0-Day</category>
+      <category>The Lone Ranger</category>
+      <category>TPB</category>
+      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2010 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 421 MB&lt;/p&gt;
+&lt;p&gt;Collecting The Lone Ranger &amp;#038; Tonto one-shot adventures written by Brett Matthews and Jon Abrams with art by Mario Guevara, Vatche Mavlian, and others.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/the-lone-ranger-tonto-vol-1-tpb-2010/"&gt;The Lone Ranger &amp;#038; Tonto Vol. 1 (TPB) (2010)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
+</description>
+      <wfw:commentRss>https://getcomics.org/other-comics/the-lone-ranger-tonto-vol-1-tpb-2010/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <wp9:post-id>176597</wp9:post-id>
+    </item>
     <item>
       <title>Wolverine – First Class – The Complete Collection (2026) (Fan-Made TPB)</title>
       <link>https://getcomics.org/marvel/wolverine-first-class-the-complete-collection-2026-fan-made-tpb/</link>
