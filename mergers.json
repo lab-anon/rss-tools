@@ -1,24 +1,27 @@
 [
   {
     "slug": "ongoing",
-    "title": "Merged - OnGoing",
-    "description": "GetComics OnGoing feeds",
+    "title": "Merged - Ongoing",
+    "description": "Ongoing feeds",
     "feeds": [
       "assorted_search",
       "christopher_chaos_search",
-      "cyberpunk_2077_search",
       "department_truth_search",
       "exquisite_corpses_search",
+      "fool_night_search",
       "knights_vs_samurai_search",
+      "one_piece_search",
+      "sakamoto_search",
       "skinbreaker_search",
+      "twilight_zone_search",
       "void_rivals_search"
     ],
     "retention_days": 30
   },
   {
     "slug": "ongoing_reading",
-    "title": "Merged - OnGoing Reading",
-    "description": "GetComics OnGoing Reading feeds",
+    "title": "Merged - Ongoing Reading",
+    "description": "Ongoing Reading feeds",
     "feeds": [
       "aliens_search",
       "beneath_the_trees_search",
@@ -26,12 +29,19 @@
       "brzrkr_search",
       "criminal_search",
       "critical_role_search",
+      "cyberpunk_2077_search",
       "expanse_search",
+      "gantz_search",
+      "ghost_shell_search",
       "hello_darkness_search",
       "house_slaughter_search",
+      "jujutsu_search",
       "nice_house_sea_search",
+      "one_punch_man_search",
       "predator_search",
       "reckless_search",
+      "robocop_search",
+      "saga_vol_tpb_search",
       "something_killing_search",
       "terminator_search",
       "universal_monsters_search",
@@ -43,9 +53,27 @@
   {
     "slug": "open",
     "title": "Merged - Open",
-    "description": "GetComics Open feeds",
+    "description": "Open feeds",
     "feeds": [
+      "blue_giant_search",
+      "frieren_search",
+      "seiya_search"
+    ],
+    "retention_days": 30
+  },
+  {
+    "slug": "open_reading",
+    "title": "Merged - Open Reading",
+    "description": "Open Reading feeds",
+    "feeds": [
+      "berserk_search",
+      "blacksad_search",
+      "drugs_and_wires",
+      "kaiju_search",
+      "last_ronin_search",
       "league_of_extraordinary_gentlemen_search",
+      "tanabe_search",
+      "vagabond_search",
       "white_knight_search"
     ],
     "retention_days": 30
@@ -53,14 +81,22 @@
   {
     "slug": "supers",
     "title": "Merged - Supers",
-    "description": "GetComics Supers feeds",
+    "description": "Supers feeds",
     "feeds": [
       "absolute_tpb_search",
       "invincible_universe_search",
-      "its_jeff_search",
       "miles_morales_spider_man_search",
       "nemesis_forever_search",
-      "red_band_search",
+      "red_band_search"
+    ],
+    "retention_days": 30
+  },
+  {
+    "slug": "supers_reading",
+    "title": "Merged - Supers Reading",
+    "description": "Supers Reading feeds",
+    "feeds": [
+      "its_jeff_search",
       "ultimate_search",
       "white_knight_search"
     ],
@@ -69,7 +105,7 @@
   {
     "slug": "tpb",
     "title": "Merged - TPB",
-    "description": "GetComics TPB feeds",
+    "description": "TPB feeds",
     "feeds": [
       "tpb_search",
       "tpb_tag"
