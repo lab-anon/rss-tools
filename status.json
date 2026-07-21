@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T15:48:03.565096Z",
+  "generated_at": "2026-07-21T17:21:54.526334Z",
   "rows": [
     {
       "description": "Ongoing feeds",
       "item_count": 7,
       "last_error": null,
-      "last_success_at": "2026-07-21T15:48:03.565096Z",
+      "last_success_at": "2026-07-21T17:21:54.526334Z",
       "public_url": "https://lab-anon.github.io/rss-tools/ongoing/feed.xml",
       "slug": "ongoing",
       "status": "ok",
@@ -16,7 +16,7 @@
       "description": "Ongoing Reading feeds",
       "item_count": 9,
       "last_error": null,
-      "last_success_at": "2026-07-21T15:48:03.565096Z",
+      "last_success_at": "2026-07-21T17:21:54.526334Z",
       "public_url": "https://lab-anon.github.io/rss-tools/ongoing_reading/feed.xml",
       "slug": "ongoing_reading",
       "status": "ok",
@@ -27,7 +27,7 @@
       "description": "Open Reading feeds",
       "item_count": 0,
       "last_error": null,
-      "last_success_at": "2026-07-21T15:48:03.565096Z",
+      "last_success_at": "2026-07-21T17:21:54.526334Z",
       "public_url": "https://lab-anon.github.io/rss-tools/open/feed.xml",
       "slug": "open",
       "status": "ok",
@@ -38,7 +38,7 @@
       "description": "Open feeds",
       "item_count": 1,
       "last_error": null,
-      "last_success_at": "2026-07-21T15:48:03.565096Z",
+      "last_success_at": "2026-07-21T17:21:54.526334Z",
       "public_url": "https://lab-anon.github.io/rss-tools/open_reading/feed.xml",
       "slug": "open_reading",
       "status": "ok",
@@ -49,7 +49,7 @@
       "description": "Supers feeds",
       "item_count": 4,
       "last_error": null,
-      "last_success_at": "2026-07-21T15:48:03.565096Z",
+      "last_success_at": "2026-07-21T17:21:54.526334Z",
       "public_url": "https://lab-anon.github.io/rss-tools/supers/feed.xml",
       "slug": "supers",
       "status": "ok",
@@ -60,7 +60,7 @@
       "description": "Supers Reading feeds",
       "item_count": 4,
       "last_error": null,
-      "last_success_at": "2026-07-21T15:48:03.565096Z",
+      "last_success_at": "2026-07-21T17:21:54.526334Z",
       "public_url": "https://lab-anon.github.io/rss-tools/supers_reading/feed.xml",
       "slug": "supers_reading",
       "status": "ok",
@@ -71,7 +71,7 @@
       "description": "TPB feeds",
       "item_count": 141,
       "last_error": null,
-      "last_success_at": "2026-07-21T15:48:03.565096Z",
+      "last_success_at": "2026-07-21T17:21:54.526334Z",
       "public_url": "https://lab-anon.github.io/rss-tools/tpb/feed.xml",
       "slug": "tpb",
       "status": "ok",
@@ -81,180 +81,10 @@
     {
       "item_count": 0,
       "last_error": null,
-      "last_success_at": "2026-07-21T15:45:05.901350Z",
-      "link": "https://tomosmanga.com/search/berserk/feed/rss2/",
+      "last_success_at": "2026-07-21T17:21:43.678727Z",
+      "link": "https://tomosmanga.com/search/ghost+shell/feed/rss2/",
       "refresh_hours": 24,
-      "slug": "berserk_search",
-      "status": "ok",
-      "type": "source"
-    },
-    {
-      "item_count": 0,
-      "last_error": null,
-      "last_success_at": "2026-07-21T15:45:05.901350Z",
-      "link": "https://getcomics.org/search/blacksad/feed/rss2/",
-      "refresh_hours": 24,
-      "slug": "blacksad_search",
-      "status": "ok",
-      "type": "source"
-    },
-    {
-      "item_count": 0,
-      "last_error": null,
-      "last_success_at": "2026-07-21T15:45:05.901350Z",
-      "link": "https://tomosmanga.com/search/blue+giant/feed/rss2/",
-      "refresh_hours": 24,
-      "slug": "blue_giant_search",
-      "status": "ok",
-      "type": "source"
-    },
-    {
-      "item_count": 0,
-      "last_error": null,
-      "last_success_at": "2026-07-21T15:45:05.901350Z",
-      "link": "https://www.drugsandwires.fail/feed/",
-      "refresh_hours": 24,
-      "slug": "drugs_and_wires",
-      "status": "ok",
-      "type": "source"
-    },
-    {
-      "item_count": 0,
-      "last_error": null,
-      "last_success_at": "2026-07-21T15:45:05.901350Z",
-      "link": "https://tomosmanga.com/search/fool+night/feed/rss2/",
-      "refresh_hours": 24,
-      "slug": "fool_night_search",
-      "status": "ok",
-      "type": "source"
-    },
-    {
-      "item_count": 0,
-      "last_error": null,
-      "last_success_at": "2026-07-21T15:45:05.901350Z",
-      "link": "https://tomosmanga.com/search/frieren/feed/rss2/",
-      "refresh_hours": 24,
-      "slug": "frieren_search",
-      "status": "ok",
-      "type": "source"
-    },
-    {
-      "item_count": 0,
-      "last_error": null,
-      "last_success_at": "2026-07-21T15:45:05.901350Z",
-      "link": "https://tomosmanga.com/search/gantz/feed/rss2/",
-      "refresh_hours": 24,
-      "slug": "gantz_search",
-      "status": "ok",
-      "type": "source"
-    },
-    {
-      "item_count": 0,
-      "last_error": null,
-      "last_success_at": "2026-07-21T15:45:05.901350Z",
-      "link": "https://tomosmanga.com/search/jujutsu/feed/rss2/",
-      "refresh_hours": 24,
-      "slug": "jujutsu_search",
-      "status": "ok",
-      "type": "source"
-    },
-    {
-      "item_count": 0,
-      "last_error": null,
-      "last_success_at": "2026-07-21T15:45:05.901350Z",
-      "link": "https://tomosmanga.com/search/kaiju/feed/rss2/",
-      "refresh_hours": 24,
-      "slug": "kaiju_search",
-      "status": "ok",
-      "type": "source"
-    },
-    {
-      "item_count": 1,
-      "last_error": null,
-      "last_success_at": "2026-07-21T15:45:05.901350Z",
-      "link": "https://getcomics.org/search/last+ronin/feed/rss2/",
-      "refresh_hours": 24,
-      "slug": "last_ronin_search",
-      "status": "ok",
-      "type": "source"
-    },
-    {
-      "item_count": 0,
-      "last_error": null,
-      "last_success_at": "2026-07-21T15:45:05.901350Z",
-      "link": "https://tomosmanga.com/search/one+piece/feed/rss2/",
-      "refresh_hours": 24,
-      "slug": "one_piece_search",
-      "status": "ok",
-      "type": "source"
-    },
-    {
-      "item_count": 0,
-      "last_error": null,
-      "last_success_at": "2026-07-21T15:45:05.901350Z",
-      "link": "https://tomosmanga.com/search/one+punch+man/feed/rss2/",
-      "refresh_hours": 24,
-      "slug": "one_punch_man_search",
-      "status": "ok",
-      "type": "source"
-    },
-    {
-      "item_count": 0,
-      "last_error": null,
-      "last_success_at": "2026-07-21T15:45:05.901350Z",
-      "link": "https://getcomics.org/search/saga+vol+tpb/feed/rss2/",
-      "refresh_hours": 24,
-      "slug": "saga_vol_tpb_search",
-      "status": "ok",
-      "type": "source"
-    },
-    {
-      "item_count": 0,
-      "last_error": null,
-      "last_success_at": "2026-07-21T15:45:05.901350Z",
-      "link": "https://tomosmanga.com/search/sakamoto/feed/rss2/",
-      "refresh_hours": 24,
-      "slug": "sakamoto_search",
-      "status": "ok",
-      "type": "source"
-    },
-    {
-      "item_count": 0,
-      "last_error": null,
-      "last_success_at": "2026-07-21T15:45:05.901350Z",
-      "link": "https://tomosmanga.com/search/seiya/feed/rss2/",
-      "refresh_hours": 24,
-      "slug": "seiya_search",
-      "status": "ok",
-      "type": "source"
-    },
-    {
-      "item_count": 0,
-      "last_error": null,
-      "last_success_at": "2026-07-21T15:45:05.901350Z",
-      "link": "https://tomosmanga.com/search/tanabe/feed/rss2/",
-      "refresh_hours": 24,
-      "slug": "tanabe_search",
-      "status": "ok",
-      "type": "source"
-    },
-    {
-      "item_count": 2,
-      "last_error": null,
-      "last_success_at": "2026-07-21T15:45:05.901350Z",
-      "link": "https://getcomics.org/search/twilight+zone/feed/rss2/",
-      "refresh_hours": 24,
-      "slug": "twilight_zone_search",
-      "status": "ok",
-      "type": "source"
-    },
-    {
-      "item_count": 0,
-      "last_error": null,
-      "last_success_at": "2026-07-21T15:45:05.901350Z",
-      "link": "https://tomosmanga.com/search/vagabond/feed/rss2/",
-      "refresh_hours": 24,
-      "slug": "vagabond_search",
+      "slug": "ghost_shell_search",
       "status": "ok",
       "type": "source"
     },
@@ -301,10 +131,40 @@
     {
       "item_count": 0,
       "last_error": null,
+      "last_success_at": "2026-07-21T15:45:05.901350Z",
+      "link": "https://tomosmanga.com/search/berserk/feed/rss2/",
+      "refresh_hours": 24,
+      "slug": "berserk_search",
+      "status": "skipped",
+      "type": "source"
+    },
+    {
+      "item_count": 0,
+      "last_error": null,
+      "last_success_at": "2026-07-21T15:45:05.901350Z",
+      "link": "https://getcomics.org/search/blacksad/feed/rss2/",
+      "refresh_hours": 24,
+      "slug": "blacksad_search",
+      "status": "skipped",
+      "type": "source"
+    },
+    {
+      "item_count": 0,
+      "last_error": null,
       "last_success_at": "2026-07-21T03:30:22.909428Z",
       "link": "https://getcomics.org/search/blade+runner/feed/rss2/",
       "refresh_hours": 24,
       "slug": "blade_runner_search",
+      "status": "skipped",
+      "type": "source"
+    },
+    {
+      "item_count": 0,
+      "last_error": null,
+      "last_success_at": "2026-07-21T15:45:05.901350Z",
+      "link": "https://tomosmanga.com/search/blue+giant/feed/rss2/",
+      "refresh_hours": 24,
+      "slug": "blue_giant_search",
       "status": "skipped",
       "type": "source"
     },
@@ -371,6 +231,16 @@
     {
       "item_count": 0,
       "last_error": null,
+      "last_success_at": "2026-07-21T15:45:05.901350Z",
+      "link": "https://www.drugsandwires.fail/feed/",
+      "refresh_hours": 24,
+      "slug": "drugs_and_wires",
+      "status": "skipped",
+      "type": "source"
+    },
+    {
+      "item_count": 0,
+      "last_error": null,
       "last_success_at": "2026-07-21T13:54:04.891281Z",
       "link": "https://getcomics.org/search/expanse/feed/rss2/",
       "refresh_hours": 24,
@@ -391,10 +261,30 @@
     {
       "item_count": 0,
       "last_error": null,
-      "last_success_at": "2026-07-20T16:34:25.064191Z",
-      "link": "https://tomosmanga.com/search/ghost+shell/feed/rss2/",
+      "last_success_at": "2026-07-21T15:45:05.901350Z",
+      "link": "https://tomosmanga.com/search/fool+night/feed/rss2/",
       "refresh_hours": 24,
-      "slug": "ghost_shell_search",
+      "slug": "fool_night_search",
+      "status": "skipped",
+      "type": "source"
+    },
+    {
+      "item_count": 0,
+      "last_error": null,
+      "last_success_at": "2026-07-21T15:45:05.901350Z",
+      "link": "https://tomosmanga.com/search/frieren/feed/rss2/",
+      "refresh_hours": 24,
+      "slug": "frieren_search",
+      "status": "skipped",
+      "type": "source"
+    },
+    {
+      "item_count": 0,
+      "last_error": null,
+      "last_success_at": "2026-07-21T15:45:05.901350Z",
+      "link": "https://tomosmanga.com/search/gantz/feed/rss2/",
+      "refresh_hours": 24,
+      "slug": "gantz_search",
       "status": "skipped",
       "type": "source"
     },
@@ -441,10 +331,40 @@
     {
       "item_count": 0,
       "last_error": null,
+      "last_success_at": "2026-07-21T15:45:05.901350Z",
+      "link": "https://tomosmanga.com/search/jujutsu/feed/rss2/",
+      "refresh_hours": 24,
+      "slug": "jujutsu_search",
+      "status": "skipped",
+      "type": "source"
+    },
+    {
+      "item_count": 0,
+      "last_error": null,
+      "last_success_at": "2026-07-21T15:45:05.901350Z",
+      "link": "https://tomosmanga.com/search/kaiju/feed/rss2/",
+      "refresh_hours": 24,
+      "slug": "kaiju_search",
+      "status": "skipped",
+      "type": "source"
+    },
+    {
+      "item_count": 0,
+      "last_error": null,
       "last_success_at": "2026-07-21T03:30:22.909428Z",
       "link": "https://getcomics.org/search/knights+vs+samurai/feed/rss2/",
       "refresh_hours": 24,
       "slug": "knights_vs_samurai_search",
+      "status": "skipped",
+      "type": "source"
+    },
+    {
+      "item_count": 1,
+      "last_error": null,
+      "last_success_at": "2026-07-21T15:45:05.901350Z",
+      "link": "https://getcomics.org/search/last+ronin/feed/rss2/",
+      "refresh_hours": 24,
+      "slug": "last_ronin_search",
       "status": "skipped",
       "type": "source"
     },
@@ -491,6 +411,26 @@
     {
       "item_count": 0,
       "last_error": null,
+      "last_success_at": "2026-07-21T15:45:05.901350Z",
+      "link": "https://tomosmanga.com/search/one+piece/feed/rss2/",
+      "refresh_hours": 24,
+      "slug": "one_piece_search",
+      "status": "skipped",
+      "type": "source"
+    },
+    {
+      "item_count": 0,
+      "last_error": null,
+      "last_success_at": "2026-07-21T15:45:05.901350Z",
+      "link": "https://tomosmanga.com/search/one+punch+man/feed/rss2/",
+      "refresh_hours": 24,
+      "slug": "one_punch_man_search",
+      "status": "skipped",
+      "type": "source"
+    },
+    {
+      "item_count": 0,
+      "last_error": null,
       "last_success_at": "2026-07-21T13:54:04.891281Z",
       "link": "https://getcomics.org/search/predator/feed/rss2/",
       "refresh_hours": 24,
@@ -521,6 +461,36 @@
     {
       "item_count": 0,
       "last_error": null,
+      "last_success_at": "2026-07-21T15:45:05.901350Z",
+      "link": "https://getcomics.org/search/saga+vol+tpb/feed/rss2/",
+      "refresh_hours": 24,
+      "slug": "saga_vol_tpb_search",
+      "status": "skipped",
+      "type": "source"
+    },
+    {
+      "item_count": 0,
+      "last_error": null,
+      "last_success_at": "2026-07-21T15:45:05.901350Z",
+      "link": "https://tomosmanga.com/search/sakamoto/feed/rss2/",
+      "refresh_hours": 24,
+      "slug": "sakamoto_search",
+      "status": "skipped",
+      "type": "source"
+    },
+    {
+      "item_count": 0,
+      "last_error": null,
+      "last_success_at": "2026-07-21T15:45:05.901350Z",
+      "link": "https://tomosmanga.com/search/seiya/feed/rss2/",
+      "refresh_hours": 24,
+      "slug": "seiya_search",
+      "status": "skipped",
+      "type": "source"
+    },
+    {
+      "item_count": 0,
+      "last_error": null,
       "last_success_at": "2026-07-21T03:30:22.909428Z",
       "link": "https://getcomics.org/search/skinbreaker/feed/rss2/",
       "refresh_hours": 24,
@@ -535,6 +505,16 @@
       "link": "https://getcomics.org/search/something+killing/feed/rss2/",
       "refresh_hours": 24,
       "slug": "something_killing_search",
+      "status": "skipped",
+      "type": "source"
+    },
+    {
+      "item_count": 0,
+      "last_error": null,
+      "last_success_at": "2026-07-21T15:45:05.901350Z",
+      "link": "https://tomosmanga.com/search/tanabe/feed/rss2/",
+      "refresh_hours": 24,
+      "slug": "tanabe_search",
       "status": "skipped",
       "type": "source"
     },
@@ -569,6 +549,16 @@
       "type": "source"
     },
     {
+      "item_count": 2,
+      "last_error": null,
+      "last_success_at": "2026-07-21T15:45:05.901350Z",
+      "link": "https://getcomics.org/search/twilight+zone/feed/rss2/",
+      "refresh_hours": 24,
+      "slug": "twilight_zone_search",
+      "status": "skipped",
+      "type": "source"
+    },
+    {
       "item_count": 4,
       "last_error": null,
       "last_success_at": "2026-07-21T13:54:04.891281Z",
@@ -585,6 +575,16 @@
       "link": "https://getcomics.org/search/universal+monsters/feed/rss2/",
       "refresh_hours": 24,
       "slug": "universal_monsters_search",
+      "status": "skipped",
+      "type": "source"
+    },
+    {
+      "item_count": 0,
+      "last_error": null,
+      "last_success_at": "2026-07-21T15:45:05.901350Z",
+      "link": "https://tomosmanga.com/search/vagabond/feed/rss2/",
+      "refresh_hours": 24,
+      "slug": "vagabond_search",
       "status": "skipped",
       "type": "source"
     },
