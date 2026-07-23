@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"5e9a6369a4264c609cdb4da7b880389c\"",
+  "etag": "W/\"66fe42af7653784920833392e4f44e61\"",
   "items": [
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Universal Monsters \u2013 Blood of the Wolf Man #1 (2026)</title>\n\t\t<link>https://getcomics.org/other-comics/universal-monsters-blood-of-the-wolf-man-1-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/other-comics/universal-monsters-blood-of-the-wolf-man-1-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Tue, 30 Jun 2026 14:21:50 +0000</pubDate>\n\t\t\t\t<category>Other Comics</category>\n\t\t<category>0-Day</category>\n\t\t<category>Image Comics</category>\n\t\t<category>Universal Monsters</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 231 MB&lt;/p&gt;\n&lt;p&gt;Adam Jaeger thought he could become someone new at college... but not like this. One moment he was partying, the next he's recovering from a massacre that left almost no survivors. The worst part? He might be responsible... As the monster within tries to claw loose, Adam will do anything he can to stop from becoming... THE WOLF MAN.&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/other-comics/universal-monsters-blood-of-the-wolf-man-1-2026/\"&gt;Universal Monsters &amp;#8211; Blood of the Wolf Man #1 (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/other-comics/universal-monsters-blood-of-the-wolf-man-1-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>399660</wp9:post-id>\t</item>\n\t\t",
@@ -11,10 +11,10 @@
     }
   ],
   "last_changed_at": "2026-07-01T05:22:48.622415Z",
-  "last_checked_at": "2026-07-22T15:04:50.128876Z",
+  "last_checked_at": "2026-07-23T16:27:43.933429Z",
   "last_error": null,
-  "last_modified": "Wed, 22 Jul 2026 14:23:19 GMT",
-  "last_success_at": "2026-07-22T15:04:50.128876Z",
+  "last_modified": "Thu, 23 Jul 2026 13:03:14 GMT",
+  "last_success_at": "2026-07-23T16:27:43.933429Z",
   "link": "https://getcomics.org/search/universal+monsters/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
