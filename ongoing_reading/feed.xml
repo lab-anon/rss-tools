@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/ongoing_reading/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>Ongoing Reading feeds</description>
-    <lastBuildDate>Fri, 24 Jul 2026 00:02:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 04:15:42 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -185,26 +185,6 @@
       <wfw:commentRss>https://getcomics.org/other-comics/universal-monsters-blood-of-the-wolf-man-1-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>399660</wp9:post-id>
-    </item>
-    <item>
-      <title>Deathstroke – The Terminator #4 (2026)</title>
-      <link>https://getcomics.org/dc/deathstroke-the-terminator-4-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:6b3aca8c0cdbb876e855c1d8e71fefc79520e1e9146a13e4467b747c14faf4fa</guid>
-      <comments>https://getcomics.org/dc/deathstroke-the-terminator-4-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Wed, 24 Jun 2026 02:25:27 +0000</pubDate>
-      <category>DC Comics</category>
-      <category>0-Day</category>
-      <category>Deathstroke</category>
-      <category>Deathstroke - The Terminator</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 43 MB&lt;/p&gt;
-&lt;p&gt;THE FAMILY THAT KILLS TOGETHER STAYS TOGETHER! Slade's got a job to do, and he can't afford any distractions. Enter: Ravager, his deadly daughter. But is she here to save Deathstroke or kill him? It's Take Your Kid to Work Day in this very special, kill-crazy family reunion issue.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/dc/deathstroke-the-terminator-4-2026/"&gt;Deathstroke &amp;#8211; The Terminator #4 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/dc/deathstroke-the-terminator-4-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>399066</wp9:post-id>
     </item>
   </channel>
 </rss>
