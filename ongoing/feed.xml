@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/ongoing/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>Ongoing feeds</description>
-    <lastBuildDate>Fri, 24 Jul 2026 07:35:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 10:20:02 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -148,26 +148,6 @@
       <wfw:commentRss>https://getcomics.org/other-comics/the-twilight-zone-9-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp13:post-id>400801</wp13:post-id>
-    </item>
-    <item>
-      <title>The Twilight Zone #8 (2026)</title>
-      <link>https://getcomics.org/other-comics/the-twilight-zone-8-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:de18d8596e18a7e2eacad15716b77a2665d90e1196a5f07d07f1cc3fbfbadbc7</guid>
-      <comments>https://getcomics.org/other-comics/the-twilight-zone-8-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Wed, 24 Jun 2026 08:35:21 +0000</pubDate>
-      <category>Other Comics</category>
-      <category>0-Day</category>
-      <category>IDW</category>
-      <category>The Twilight Zone</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 55 MB&lt;/p&gt;
-&lt;p&gt;Russell Colton, an elderly failed actor known only for his stifled performance in a cult-classic monster film, is transported back to 1959. Meeting his younger self on the set of the creature feature, Colton attempts to convince him to quit the movie and save his future career. But the past may prove to be a one-way trip.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/the-twilight-zone-8-2026/"&gt;The Twilight Zone #8 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/other-comics/the-twilight-zone-8-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp13:post-id>399738</wp13:post-id>
     </item>
   </channel>
 </rss>
