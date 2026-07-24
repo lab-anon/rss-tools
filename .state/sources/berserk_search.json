@@ -1,11 +1,11 @@
 {
-  "etag": null,
+  "etag": "W/\"2068884a14cb2d5febe4c5a0f79fffb1\"",
   "items": [],
   "last_changed_at": "2026-07-20T15:36:19.326448Z",
-  "last_checked_at": "2026-07-23T18:13:36.688406Z",
+  "last_checked_at": "2026-07-24T13:56:31.552313Z",
   "last_error": null,
-  "last_modified": null,
-  "last_success_at": "2026-07-23T18:13:36.688406Z",
+  "last_modified": "Thu, 23 Jul 2026 19:41:11 GMT",
+  "last_success_at": "2026-07-24T13:56:31.552313Z",
   "link": "https://tomosmanga.com/search/berserk/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
@@ -15,6 +15,6 @@
     "sy": "http://purl.org/rss/1.0/modules/syndication/",
     "wfw": "http://wellformedweb.org/CommentAPI/"
   },
-  "refresh_hours": 24,
+  "refresh_hours": 48,
   "slug": "berserk_search"
 }
