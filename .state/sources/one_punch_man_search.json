@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"b86a5c127d6f3cd12fd66fa2e388c8c8\"",
+  "etag": null,
   "items": [
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\">\n\t\t<title>One Punch Man Tomos [01-37]</title>\n\t\t<link>https://tomosmanga.com/descargar-manga-one-punch-man/</link>\n\t\t\t\t\t<comments>https://tomosmanga.com/descargar-manga-one-punch-man/#comments</comments>\n\t\t\n\t\t<dc:creator>TomosManga</dc:creator>\n\t\t<pubDate>Thu, 23 Jul 2026 18:55:45 +0000</pubDate>\n\t\t\t\t<category>En Publicaci\u00f3n</category>\n\t\t<category>Manga</category>\n\t\t<category>Seinen</category>\n\t\t<guid isPermaLink=\"false\">https://tomosmanga.com/?p=479</guid>\n\n\t\t\t\t\t<description>&lt;p&gt;SINOPSIS La historia tiene lugar en una metr\u00f3polis ficticia conocida como Ciudad Z, en Jap\u00f3n. El mundo se ve invadido por extra\u00f1os monstruos que aparecen ... &lt;/p&gt;\n&lt;p class=\"read-more-container\"&gt;&lt;a title=\"One Punch Man Tomos [01-37]\" class=\"read-more button\" href=\"https://tomosmanga.com/descargar-manga-one-punch-man/#more-479\" aria-label=\"Leer m\u00e1s sobre One Punch Man Tomos [01-37]\"&gt;Leer m\u00e1s&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;La entrada &lt;a href=\"https://tomosmanga.com/descargar-manga-one-punch-man/\"&gt;One Punch Man Tomos [01-37]&lt;/a&gt; se public\u00f3 primero en &lt;a href=\"https://tomosmanga.com\"&gt;Tomos Manga&lt;/a&gt;.&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://tomosmanga.com/descargar-manga-one-punch-man/feed/</wfw:commentRss>\n\t\t\t<slash:comments>102</slash:comments>\n\t\t\n\t\t\n\t\t\t</item>\n\t",
@@ -11,10 +11,10 @@
     }
   ],
   "last_changed_at": "2026-07-24T22:05:32.804456Z",
-  "last_checked_at": "2026-07-24T22:05:32.804456Z",
+  "last_checked_at": "2026-07-25T23:01:39.804460Z",
   "last_error": null,
-  "last_modified": "Fri, 24 Jul 2026 17:51:23 GMT",
-  "last_success_at": "2026-07-24T22:05:32.804456Z",
+  "last_modified": null,
+  "last_success_at": "2026-07-25T23:01:39.804460Z",
   "link": "https://tomosmanga.com/search/one+punch+man/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
