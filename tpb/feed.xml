@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/tpb/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>TPB feeds</description>
-    <lastBuildDate>Sat, 25 Jul 2026 00:05:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 04:11:53 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -3290,26 +3290,6 @@
       <wfw:commentRss>https://getcomics.org/other-comics/capes-vol-1-punching-the-clock-tpb-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>399900</wp9:post-id>
-    </item>
-    <item>
-      <title>The Last Starfighter Movie Adaptation (TPB) (2026)</title>
-      <link>https://getcomics.org/other-comics/the-last-starfighter-movie-adaptation-tpb-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:d6cd6c49b791712b28da9d7af073fae03f35f24cbf288fabdb1bc1b92edec214</guid>
-      <comments>https://getcomics.org/other-comics/the-last-starfighter-movie-adaptation-tpb-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Thu, 25 Jun 2026 02:01:53 +0000</pubDate>
-      <category>Other Comics</category>
-      <category>0-Day</category>
-      <category>Mad Cave</category>
-      <category>TPB</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 172 MB&lt;/p&gt;
-&lt;p&gt;In 1984, The Last Starfighter thrilled movie-goers all over, and for comic book readers hungry for more science fiction, it was a relevation. Now the three-part comic adaptation of the beloved film gets new life in an exclusive collection! With covers by Jackson Guice, story by Bill Mantlo, and art by Bret Blevins, The Last Starfighter Movie Adaptation is a hidden gem ripe for rediscovery.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/the-last-starfighter-movie-adaptation-tpb-2026/"&gt;The Last Starfighter Movie Adaptation (TPB) (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/other-comics/the-last-starfighter-movie-adaptation-tpb-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>399886</wp9:post-id>
     </item>
   </channel>
 </rss>
