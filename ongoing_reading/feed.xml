@@ -5,9 +5,29 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/ongoing_reading/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>Ongoing Reading feeds</description>
-    <lastBuildDate>Sat, 25 Jul 2026 15:04:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 17:03:09 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
+    <item>
+      <title>Terminal #1 (2026)</title>
+      <link>https://getcomics.org/other-comics/terminal-1-2026/</link>
+      <guid isPermaLink="false">rss-tools:link-sha256:c2abec41d70ddc9d0db5028fb2394f924b61429cda5e17c7e1b9e86fd6590258</guid>
+      <comments>https://getcomics.org/other-comics/terminal-1-2026/#respond</comments>
+      <dc:creator>The Comic Guy</dc:creator>
+      <pubDate>Sat, 25 Jul 2026 10:49:12 +0000</pubDate>
+      <category>Other Comics</category>
+      <category>0-Day</category>
+      <category>Image Comics</category>
+      <category>Terminal</category>
+      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 110 MB&lt;/p&gt;
+&lt;p&gt;There is a secret war being waged across the world by two violent forces with superhuman abilities who blur the lines between good and evil. When Marilyn Howe's search for her missing sister Alessandra puts her in the center of this conflict, she'll learn that the power to save the world comes from unlocking your genetic code and giving up everything you thought you knew about yourself... if you survive the experience. Perfect for fans of INVINCIBLE and X-MEN, nothing can prepare you for the most violent and unpredictable superhero series of the year!&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/terminal-1-2026/"&gt;Terminal #1 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
+</description>
+      <wfw:commentRss>https://getcomics.org/other-comics/terminal-1-2026/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <wp9:post-id>401804</wp9:post-id>
+    </item>
     <item>
       <title>Terminal #2 (Ultra Rare Advanced Edition Blind Bag) (2026)</title>
       <link>https://getcomics.org/other-comics/terminal-2-ultra-rare-advanced-edition-blind-bag-2026/</link>
