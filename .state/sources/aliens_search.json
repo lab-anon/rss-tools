@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"664d7746838009ff674afbcab37ba963\"",
+  "etag": "W/\"c34182845ece1ea8e6070e90633f7d0d\"",
   "items": [
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Alien \u2013 King Killer #4 (2026)</title>\n\t\t<link>https://getcomics.org/marvel/alien-king-killer-4-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/marvel/alien-king-killer-4-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Wed, 15 Jul 2026 05:21:07 +0000</pubDate>\n\t\t\t\t<category>Marvel Comics</category>\n\t\t<category>0-Day</category>\n\t\t<category>Alien</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 61 MB&lt;/p&gt;\n&lt;p&gt;On a planet infested with alien Xenomorphs, the bioengineered warrior Idris knows in his bones that his siblings are all monsters who deserve to die. But if he completes his quest to depose the Three Kings, there will be nothing to stop the alien horde from slaughtering the last of humanity. And if a Xenomorph and a human civil war weren't enough, from the shadows emerges a new threat...&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/marvel/alien-king-killer-4-2026/\"&gt;Alien &amp;#8211; King Killer #4 (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/marvel/alien-king-killer-4-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>401225</wp9:post-id>\t</item>\n\t\t",
@@ -27,10 +27,10 @@
     }
   ],
   "last_changed_at": "2026-07-15T08:14:06.376015Z",
-  "last_checked_at": "2026-07-25T17:00:03.063758Z",
+  "last_checked_at": "2026-07-26T17:02:52.208480Z",
   "last_error": null,
-  "last_modified": "Sat, 25 Jul 2026 13:08:12 GMT",
-  "last_success_at": "2026-07-25T17:00:03.063758Z",
+  "last_modified": "Sun, 26 Jul 2026 00:14:47 GMT",
+  "last_success_at": "2026-07-26T17:02:52.208480Z",
   "link": "https://getcomics.org/search/aliens/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
