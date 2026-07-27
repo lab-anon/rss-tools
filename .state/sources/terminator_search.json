@@ -1,6 +1,14 @@
 {
-  "etag": "W/\"c34182845ece1ea8e6070e90633f7d0d\"",
+  "etag": "W/\"adba3f70a979e89bac85d82fe1a76102\"",
   "items": [
+    {
+      "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Terminal #7 (Ultra Rare Advanced Edition Blind Bag) (2026)</title>\n\t\t<link>https://getcomics.org/other-comics/terminal-7-ultra-rare-advanced-edition-blind-bag-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/other-comics/terminal-7-ultra-rare-advanced-edition-blind-bag-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Sun, 26 Jul 2026 23:00:40 +0000</pubDate>\n\t\t\t\t<category>Other Comics</category>\n\t\t<category>0-Day</category>\n\t\t<category>Image Comics</category>\n\t\t<category>Terminal</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 119 MB&lt;/p&gt;\n&lt;p&gt;Terminal #7 (Ultra Rare Advanced Edition Blind Bag) (2026)&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/other-comics/terminal-7-ultra-rare-advanced-edition-blind-bag-2026/\"&gt;Terminal #7 (Ultra Rare Advanced Edition Blind Bag) (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/other-comics/terminal-7-ultra-rare-advanced-edition-blind-bag-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>402234</wp9:post-id>\t</item>\n\t\t",
+      "link": "https://getcomics.org/other-comics/terminal-7-ultra-rare-advanced-edition-blind-bag-2026/",
+      "normalized_link": "https://getcomics.org/other-comics/terminal-7-ultra-rare-advanced-edition-blind-bag-2026",
+      "published_at": "2026-07-26T23:00:40Z",
+      "stable_id": "51613902096bc38f2bc0df9ac20fbecf933012b690ded836254c4f98e3eb1cf4",
+      "title": "Terminal #7 (Ultra Rare Advanced Edition Blind Bag) (2026)"
+    },
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Terminal #1 (2026)</title>\n\t\t<link>https://getcomics.org/other-comics/terminal-1-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/other-comics/terminal-1-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Sat, 25 Jul 2026 10:49:12 +0000</pubDate>\n\t\t\t\t<category>Other Comics</category>\n\t\t<category>0-Day</category>\n\t\t<category>Image Comics</category>\n\t\t<category>Terminal</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 110 MB&lt;/p&gt;\n&lt;p&gt;There is a secret war being waged across the world by two violent forces with superhuman abilities who blur the lines between good and evil. When Marilyn Howe's search for her missing sister Alessandra puts her in the center of this conflict, she'll learn that the power to save the world comes from unlocking your genetic code and giving up everything you thought you knew about yourself... if you survive the experience. Perfect for fans of INVINCIBLE and X-MEN, nothing can prepare you for the most violent and unpredictable superhero series of the year!&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/other-comics/terminal-1-2026/\"&gt;Terminal #1 (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/other-comics/terminal-1-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>401804</wp9:post-id>\t</item>\n\t\t",
       "link": "https://getcomics.org/other-comics/terminal-1-2026/",
@@ -34,11 +42,11 @@
       "title": "Deathstroke \u2013 The Terminator #5 (2026)"
     }
   ],
-  "last_changed_at": "2026-07-25T17:00:03.063758Z",
-  "last_checked_at": "2026-07-26T17:02:52.208480Z",
+  "last_changed_at": "2026-07-27T17:43:15.166766Z",
+  "last_checked_at": "2026-07-27T17:43:15.166766Z",
   "last_error": null,
-  "last_modified": "Sun, 26 Jul 2026 00:14:47 GMT",
-  "last_success_at": "2026-07-26T17:02:52.208480Z",
+  "last_modified": "Sun, 26 Jul 2026 23:19:37 GMT",
+  "last_success_at": "2026-07-27T17:43:15.166766Z",
   "link": "https://getcomics.org/search/terminator/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T15:42:55.809064Z",
+  "generated_at": "2026-07-27T17:46:19.580847Z",
   "rows": [
     {
       "description": "Ongoing feeds",
       "item_count": 8,
       "last_error": null,
-      "last_success_at": "2026-07-27T15:42:55.809064Z",
+      "last_success_at": "2026-07-27T17:46:19.580847Z",
       "public_url": "https://lab-anon.github.io/rss-tools/ongoing/feed.xml",
       "slug": "ongoing",
       "status": "ok",
@@ -14,9 +14,9 @@
     },
     {
       "description": "Ongoing Reading feeds",
-      "item_count": 13,
+      "item_count": 15,
       "last_error": null,
-      "last_success_at": "2026-07-27T15:42:55.809064Z",
+      "last_success_at": "2026-07-27T17:46:19.580847Z",
       "public_url": "https://lab-anon.github.io/rss-tools/ongoing_reading/feed.xml",
       "slug": "ongoing_reading",
       "status": "ok",
@@ -27,7 +27,7 @@
       "description": "Open feeds",
       "item_count": 0,
       "last_error": null,
-      "last_success_at": "2026-07-27T15:42:55.809064Z",
+      "last_success_at": "2026-07-27T17:46:19.580847Z",
       "public_url": "https://lab-anon.github.io/rss-tools/open/feed.xml",
       "slug": "open",
       "status": "ok",
@@ -38,7 +38,7 @@
       "description": "Open Reading feeds",
       "item_count": 1,
       "last_error": null,
-      "last_success_at": "2026-07-27T15:42:55.809064Z",
+      "last_success_at": "2026-07-27T17:46:19.580847Z",
       "public_url": "https://lab-anon.github.io/rss-tools/open_reading/feed.xml",
       "slug": "open_reading",
       "status": "ok",
@@ -49,7 +49,7 @@
       "description": "Supers feeds",
       "item_count": 4,
       "last_error": null,
-      "last_success_at": "2026-07-27T15:42:55.809064Z",
+      "last_success_at": "2026-07-27T17:46:19.580847Z",
       "public_url": "https://lab-anon.github.io/rss-tools/supers/feed.xml",
       "slug": "supers",
       "status": "ok",
@@ -60,7 +60,7 @@
       "description": "Supers Reading feeds",
       "item_count": 3,
       "last_error": null,
-      "last_success_at": "2026-07-27T15:42:55.809064Z",
+      "last_success_at": "2026-07-27T17:46:19.580847Z",
       "public_url": "https://lab-anon.github.io/rss-tools/supers_reading/feed.xml",
       "slug": "supers_reading",
       "status": "ok",
@@ -71,7 +71,7 @@
       "description": "TPB feeds",
       "item_count": 131,
       "last_error": null,
-      "last_success_at": "2026-07-27T15:42:55.809064Z",
+      "last_success_at": "2026-07-27T17:46:19.580847Z",
       "public_url": "https://lab-anon.github.io/rss-tools/tpb/feed.xml",
       "slug": "tpb",
       "status": "ok",
@@ -79,22 +79,182 @@
       "type": "merger"
     },
     {
-      "item_count": 0,
+      "item_count": 3,
       "last_error": null,
-      "last_success_at": "2026-07-27T15:42:35.000512Z",
-      "link": "https://getcomics.org/search/robocop/feed/rss2/",
+      "last_success_at": "2026-07-27T17:43:15.166766Z",
+      "link": "https://getcomics.org/search/aliens/feed/rss2/",
       "refresh_hours": 24,
-      "slug": "robocop_search",
+      "slug": "aliens_search",
       "status": "ok",
       "type": "source"
     },
     {
-      "item_count": 132,
+      "item_count": 0,
       "last_error": null,
-      "last_success_at": "2026-07-27T15:42:35.000512Z",
-      "link": "https://getcomics.org/tag/tpb/feed/",
-      "refresh_hours": 6,
-      "slug": "tpb_tag",
+      "last_success_at": "2026-07-27T17:43:15.166766Z",
+      "link": "https://getcomics.org/search/brzrkr/feed/rss2/",
+      "refresh_hours": 24,
+      "slug": "brzrkr_search",
+      "status": "ok",
+      "type": "source"
+    },
+    {
+      "item_count": 0,
+      "last_error": null,
+      "last_success_at": "2026-07-27T17:43:15.166766Z",
+      "link": "https://getcomics.org/search/criminal/feed/rss2/",
+      "refresh_hours": 24,
+      "slug": "criminal_search",
+      "status": "ok",
+      "type": "source"
+    },
+    {
+      "item_count": 0,
+      "last_error": null,
+      "last_success_at": "2026-07-27T17:43:15.166766Z",
+      "link": "https://getcomics.org/search/critical+role/feed/rss2/",
+      "refresh_hours": 24,
+      "slug": "critical_role_search",
+      "status": "ok",
+      "type": "source"
+    },
+    {
+      "item_count": 0,
+      "last_error": null,
+      "last_success_at": "2026-07-27T17:43:15.166766Z",
+      "link": "https://getcomics.org/search/expanse/feed/rss2/",
+      "refresh_hours": 24,
+      "slug": "expanse_search",
+      "status": "ok",
+      "type": "source"
+    },
+    {
+      "item_count": 1,
+      "last_error": null,
+      "last_success_at": "2026-07-27T17:43:15.166766Z",
+      "link": "https://getcomics.org/search/hello+darkness/feed/rss2/",
+      "refresh_hours": 24,
+      "slug": "hello_darkness_search",
+      "status": "ok",
+      "type": "source"
+    },
+    {
+      "item_count": 1,
+      "last_error": null,
+      "last_success_at": "2026-07-27T17:43:15.166766Z",
+      "link": "https://getcomics.org/search/house+slaughter/feed/rss2/",
+      "refresh_hours": 24,
+      "slug": "house_slaughter_search",
+      "status": "ok",
+      "type": "source"
+    },
+    {
+      "item_count": 0,
+      "last_error": null,
+      "last_success_at": "2026-07-27T17:43:15.166766Z",
+      "link": "https://getcomics.org/search/it%27s+jeff/feed/rss2/",
+      "refresh_hours": 24,
+      "slug": "its_jeff_search",
+      "status": "ok",
+      "type": "source"
+    },
+    {
+      "item_count": 0,
+      "last_error": null,
+      "last_success_at": "2026-07-27T17:43:15.166766Z",
+      "link": "https://getcomics.org/search/nice+house+sea/feed/rss2/",
+      "refresh_hours": 24,
+      "slug": "nice_house_sea_search",
+      "status": "ok",
+      "type": "source"
+    },
+    {
+      "item_count": 0,
+      "last_error": null,
+      "last_success_at": "2026-07-27T17:43:15.166766Z",
+      "link": "https://getcomics.org/search/predator/feed/rss2/",
+      "refresh_hours": 24,
+      "slug": "predator_search",
+      "status": "ok",
+      "type": "source"
+    },
+    {
+      "item_count": 0,
+      "last_error": null,
+      "last_success_at": "2026-07-27T17:43:15.166766Z",
+      "link": "https://getcomics.org/search/reckless/feed/rss2/",
+      "refresh_hours": 24,
+      "slug": "reckless_search",
+      "status": "ok",
+      "type": "source"
+    },
+    {
+      "item_count": 0,
+      "last_error": null,
+      "last_success_at": "2026-07-27T17:43:15.166766Z",
+      "link": "https://getcomics.org/search/red+band/feed/rss2/",
+      "refresh_hours": 24,
+      "slug": "red_band_search",
+      "status": "ok",
+      "type": "source"
+    },
+    {
+      "item_count": 1,
+      "last_error": null,
+      "last_success_at": "2026-07-27T17:43:15.166766Z",
+      "link": "https://getcomics.org/search/something+killing/feed/rss2/",
+      "refresh_hours": 24,
+      "slug": "something_killing_search",
+      "status": "ok",
+      "type": "source"
+    },
+    {
+      "item_count": 5,
+      "last_error": null,
+      "last_success_at": "2026-07-27T17:43:15.166766Z",
+      "link": "https://getcomics.org/search/terminator/feed/rss2/",
+      "refresh_hours": 24,
+      "slug": "terminator_search",
+      "status": "ok",
+      "type": "source"
+    },
+    {
+      "item_count": 110,
+      "last_error": null,
+      "last_success_at": "2026-07-27T17:43:15.166766Z",
+      "link": "https://getcomics.org/search/tpb/feed/rss2/",
+      "refresh_hours": 24,
+      "slug": "tpb_search",
+      "status": "ok",
+      "type": "source"
+    },
+    {
+      "item_count": 3,
+      "last_error": null,
+      "last_success_at": "2026-07-27T17:43:15.166766Z",
+      "link": "https://getcomics.org/search/ultimate/feed/rss2/",
+      "refresh_hours": 24,
+      "slug": "ultimate_search",
+      "status": "ok",
+      "type": "source"
+    },
+    {
+      "item_count": 1,
+      "last_error": null,
+      "last_success_at": "2026-07-27T17:43:15.166766Z",
+      "link": "https://getcomics.org/search/universal+monsters/feed/rss2/",
+      "refresh_hours": 24,
+      "slug": "universal_monsters_search",
+      "status": "ok",
+      "type": "source"
+    },
+    {
+      "item_count": 0,
+      "last_error": null,
+      "last_success_at": "2026-07-27T17:43:15.166766Z",
+      "link": "https://getcomics.org/search/wynd/feed/rss2/",
+      "refresh_hours": 24,
+      "slug": "wynd_search",
       "status": "ok",
       "type": "source"
     },
@@ -105,16 +265,6 @@
       "link": "https://getcomics.org/search/absolute+tpb/feed/rss2/",
       "refresh_hours": 24,
       "slug": "absolute_tpb_search",
-      "status": "skipped",
-      "type": "source"
-    },
-    {
-      "item_count": 3,
-      "last_error": null,
-      "last_success_at": "2026-07-26T17:02:52.208480Z",
-      "link": "https://getcomics.org/search/aliens/feed/rss2/",
-      "refresh_hours": 24,
-      "slug": "aliens_search",
       "status": "skipped",
       "type": "source"
     },
@@ -181,40 +331,10 @@
     {
       "item_count": 0,
       "last_error": null,
-      "last_success_at": "2026-07-26T17:02:52.208480Z",
-      "link": "https://getcomics.org/search/brzrkr/feed/rss2/",
-      "refresh_hours": 24,
-      "slug": "brzrkr_search",
-      "status": "skipped",
-      "type": "source"
-    },
-    {
-      "item_count": 0,
-      "last_error": null,
       "last_success_at": "2026-07-27T12:24:52.082590Z",
       "link": "https://getcomics.org/search/christopher+chaos/feed/rss2/",
       "refresh_hours": 24,
       "slug": "christopher_chaos_search",
-      "status": "skipped",
-      "type": "source"
-    },
-    {
-      "item_count": 0,
-      "last_error": null,
-      "last_success_at": "2026-07-26T17:02:52.208480Z",
-      "link": "https://getcomics.org/search/criminal/feed/rss2/",
-      "refresh_hours": 24,
-      "slug": "criminal_search",
-      "status": "skipped",
-      "type": "source"
-    },
-    {
-      "item_count": 0,
-      "last_error": null,
-      "last_success_at": "2026-07-26T17:02:52.208480Z",
-      "link": "https://getcomics.org/search/critical+role/feed/rss2/",
-      "refresh_hours": 24,
-      "slug": "critical_role_search",
       "status": "skipped",
       "type": "source"
     },
@@ -245,16 +365,6 @@
       "link": "https://www.drugsandwires.fail/feed/",
       "refresh_hours": 48,
       "slug": "drugs_and_wires",
-      "status": "skipped",
-      "type": "source"
-    },
-    {
-      "item_count": 0,
-      "last_error": null,
-      "last_success_at": "2026-07-26T17:02:52.208480Z",
-      "link": "https://getcomics.org/search/expanse/feed/rss2/",
-      "refresh_hours": 24,
-      "slug": "expanse_search",
       "status": "skipped",
       "type": "source"
     },
@@ -309,42 +419,12 @@
       "type": "source"
     },
     {
-      "item_count": 0,
-      "last_error": null,
-      "last_success_at": "2026-07-26T17:02:52.208480Z",
-      "link": "https://getcomics.org/search/hello+darkness/feed/rss2/",
-      "refresh_hours": 24,
-      "slug": "hello_darkness_search",
-      "status": "skipped",
-      "type": "source"
-    },
-    {
-      "item_count": 1,
-      "last_error": null,
-      "last_success_at": "2026-07-26T17:02:52.208480Z",
-      "link": "https://getcomics.org/search/house+slaughter/feed/rss2/",
-      "refresh_hours": 24,
-      "slug": "house_slaughter_search",
-      "status": "skipped",
-      "type": "source"
-    },
-    {
       "item_count": 1,
       "last_error": null,
       "last_success_at": "2026-07-27T12:24:52.082590Z",
       "link": "https://getcomics.org/search/invincible+universe/feed/rss2/",
       "refresh_hours": 24,
       "slug": "invincible_universe_search",
-      "status": "skipped",
-      "type": "source"
-    },
-    {
-      "item_count": 0,
-      "last_error": null,
-      "last_success_at": "2026-07-26T17:02:52.208480Z",
-      "link": "https://getcomics.org/search/it%27s+jeff/feed/rss2/",
-      "refresh_hours": 24,
-      "slug": "its_jeff_search",
       "status": "skipped",
       "type": "source"
     },
@@ -421,16 +501,6 @@
     {
       "item_count": 0,
       "last_error": null,
-      "last_success_at": "2026-07-26T17:02:52.208480Z",
-      "link": "https://getcomics.org/search/nice+house+sea/feed/rss2/",
-      "refresh_hours": 24,
-      "slug": "nice_house_sea_search",
-      "status": "skipped",
-      "type": "source"
-    },
-    {
-      "item_count": 0,
-      "last_error": null,
       "last_success_at": "2026-07-27T00:00:52.365071Z",
       "link": "https://tomosmanga.com/search/one+piece/feed/rss2/",
       "refresh_hours": 24,
@@ -451,30 +521,10 @@
     {
       "item_count": 0,
       "last_error": null,
-      "last_success_at": "2026-07-26T17:02:52.208480Z",
-      "link": "https://getcomics.org/search/predator/feed/rss2/",
+      "last_success_at": "2026-07-27T15:42:35.000512Z",
+      "link": "https://getcomics.org/search/robocop/feed/rss2/",
       "refresh_hours": 24,
-      "slug": "predator_search",
-      "status": "skipped",
-      "type": "source"
-    },
-    {
-      "item_count": 0,
-      "last_error": null,
-      "last_success_at": "2026-07-26T17:02:52.208480Z",
-      "link": "https://getcomics.org/search/reckless/feed/rss2/",
-      "refresh_hours": 24,
-      "slug": "reckless_search",
-      "status": "skipped",
-      "type": "source"
-    },
-    {
-      "item_count": 0,
-      "last_error": null,
-      "last_success_at": "2026-07-26T17:02:52.208480Z",
-      "link": "https://getcomics.org/search/red+band/feed/rss2/",
-      "refresh_hours": 24,
-      "slug": "red_band_search",
+      "slug": "robocop_search",
       "status": "skipped",
       "type": "source"
     },
@@ -519,16 +569,6 @@
       "type": "source"
     },
     {
-      "item_count": 1,
-      "last_error": null,
-      "last_success_at": "2026-07-26T17:02:52.208480Z",
-      "link": "https://getcomics.org/search/something+killing/feed/rss2/",
-      "refresh_hours": 24,
-      "slug": "something_killing_search",
-      "status": "skipped",
-      "type": "source"
-    },
-    {
       "item_count": 0,
       "last_error": null,
       "last_success_at": "2026-07-26T17:02:52.208480Z",
@@ -539,22 +579,12 @@
       "type": "source"
     },
     {
-      "item_count": 4,
+      "item_count": 132,
       "last_error": null,
-      "last_success_at": "2026-07-26T17:02:52.208480Z",
-      "link": "https://getcomics.org/search/terminator/feed/rss2/",
-      "refresh_hours": 24,
-      "slug": "terminator_search",
-      "status": "skipped",
-      "type": "source"
-    },
-    {
-      "item_count": 118,
-      "last_error": null,
-      "last_success_at": "2026-07-26T17:02:52.208480Z",
-      "link": "https://getcomics.org/search/tpb/feed/rss2/",
-      "refresh_hours": 24,
-      "slug": "tpb_search",
+      "last_success_at": "2026-07-27T15:42:35.000512Z",
+      "link": "https://getcomics.org/tag/tpb/feed/",
+      "refresh_hours": 6,
+      "slug": "tpb_tag",
       "status": "skipped",
       "type": "source"
     },
@@ -565,26 +595,6 @@
       "link": "https://getcomics.org/search/twilight+zone/feed/rss2/",
       "refresh_hours": 24,
       "slug": "twilight_zone_search",
-      "status": "skipped",
-      "type": "source"
-    },
-    {
-      "item_count": 3,
-      "last_error": null,
-      "last_success_at": "2026-07-26T17:02:52.208480Z",
-      "link": "https://getcomics.org/search/ultimate/feed/rss2/",
-      "refresh_hours": 24,
-      "slug": "ultimate_search",
-      "status": "skipped",
-      "type": "source"
-    },
-    {
-      "item_count": 1,
-      "last_error": null,
-      "last_success_at": "2026-07-26T17:02:52.208480Z",
-      "link": "https://getcomics.org/search/universal+monsters/feed/rss2/",
-      "refresh_hours": 24,
-      "slug": "universal_monsters_search",
       "status": "skipped",
       "type": "source"
     },
@@ -625,16 +635,6 @@
       "link": "https://getcomics.org/search/white+knight/feed/rss2/",
       "refresh_hours": 48,
       "slug": "white_knight_search",
-      "status": "skipped",
-      "type": "source"
-    },
-    {
-      "item_count": 0,
-      "last_error": null,
-      "last_success_at": "2026-07-26T17:02:52.208480Z",
-      "link": "https://getcomics.org/search/wynd/feed/rss2/",
-      "refresh_hours": 24,
-      "slug": "wynd_search",
       "status": "skipped",
       "type": "source"
     }
