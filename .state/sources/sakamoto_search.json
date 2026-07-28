@@ -2,10 +2,10 @@
   "etag": null,
   "items": [],
   "last_changed_at": "2026-07-20T15:36:19.326448Z",
-  "last_checked_at": "2026-07-28T02:38:48.254319Z",
-  "last_error": "mismatched tag: line 93, column 2",
+  "last_checked_at": "2026-07-28T05:47:27.737833Z",
+  "last_error": null,
   "last_modified": null,
-  "last_success_at": "2026-07-27T00:00:52.365071Z",
+  "last_success_at": "2026-07-28T05:47:27.737833Z",
   "link": "https://tomosmanga.com/search/sakamoto/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
