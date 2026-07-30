@@ -1,11 +1,11 @@
 {
-  "etag": "W/\"b2bfefd46cda27b4f809075440a56c06\"",
+  "etag": "W/\"91ab0c150c1049f7bd7e4febdd66fd96\"",
   "items": [],
   "last_changed_at": "2026-07-24T13:56:31.552313Z",
-  "last_checked_at": "2026-07-29T17:16:26.814303Z",
+  "last_checked_at": "2026-07-30T18:17:51.743017Z",
   "last_error": null,
-  "last_modified": "Wed, 29 Jul 2026 17:08:03 GMT",
-  "last_success_at": "2026-07-29T17:16:26.814303Z",
+  "last_modified": "Thu, 30 Jul 2026 14:27:19 GMT",
+  "last_success_at": "2026-07-30T18:17:51.743017Z",
   "link": "https://getcomics.org/search/robocop/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
