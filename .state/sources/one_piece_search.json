@@ -2,10 +2,10 @@
   "etag": null,
   "items": [],
   "last_changed_at": "2026-07-20T15:36:19.326448Z",
-  "last_checked_at": "2026-07-30T06:35:14.234005Z",
-  "last_error": "Failed to fetch https://tomosmanga.com/search/one+piece/feed/rss2/: HTTP 520",
+  "last_checked_at": "2026-07-30T09:31:53.742493Z",
+  "last_error": null,
   "last_modified": null,
-  "last_success_at": "2026-07-29T06:32:04.881770Z",
+  "last_success_at": "2026-07-30T09:31:53.742493Z",
   "link": "https://tomosmanga.com/search/one+piece/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
