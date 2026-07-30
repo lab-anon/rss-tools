@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"e77bc85de1ffb93811b212d54e285d7f\"",
+  "etag": "W/\"8ea647db801940791d22d178452622b6\"",
   "items": [
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Purr Evil (TPB) (2026)</title>\n\t\t<link>https://getcomics.org/other-comics/purr-evil-tpb-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/other-comics/purr-evil-tpb-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Thu, 30 Jul 2026 06:10:14 +0000</pubDate>\n\t\t\t\t<category>Other Comics</category>\n\t\t<category>Image Comics</category>\n\t\t<category>Non 0-Day</category>\n\t\t<category>Purr Evil</category>\n\t\t<category>TPB</category>\n\t\t<guid isPermaLink=\"false\">https://getcomics.org/?p=402520</guid>\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 324 MB&lt;/p&gt;\n&lt;p&gt;Rita has built her entire life around protecting her daughter, Deb. But when a sinister force from her past claws its way back, danger spreads to anyone who gets too close. What secret festers inside the Morando family\u2019s apartment, and how far will Rita go to keep her daughter safe from it? Collects PURR EVIL #1-6&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/other-comics/purr-evil-tpb-2026/\"&gt;Purr Evil (TPB) (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/other-comics/purr-evil-tpb-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>402520</wp9:post-id>\t</item>\n\t\t",
@@ -1059,10 +1059,10 @@
     }
   ],
   "last_changed_at": "2026-07-30T06:35:14.234005Z",
-  "last_checked_at": "2026-07-30T06:35:14.234005Z",
+  "last_checked_at": "2026-07-30T14:05:44.644597Z",
   "last_error": null,
-  "last_modified": "Thu, 30 Jul 2026 06:24:18 GMT",
-  "last_success_at": "2026-07-30T06:35:14.234005Z",
+  "last_modified": "Thu, 30 Jul 2026 14:04:41 GMT",
+  "last_success_at": "2026-07-30T14:05:44.644597Z",
   "link": "https://getcomics.org/tag/tpb/feed/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
