@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/ongoing_reading/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>Ongoing Reading feeds</description>
-    <lastBuildDate>Thu, 30 Jul 2026 14:05:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 16:30:08 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -322,26 +322,6 @@
       <wfw:commentRss>https://getcomics.org/other-comics/faceless-and-the-family-maze-of-the-mechanical-aliens-1-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>400368</wp9:post-id>
-    </item>
-    <item>
-      <title>Universal Monsters – Blood of the Wolf Man #1 (2026)</title>
-      <link>https://getcomics.org/other-comics/universal-monsters-blood-of-the-wolf-man-1-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:c57350587ed41fd66d937e66012bd17ad642fbe3243292a272d17c5595a317d7</guid>
-      <comments>https://getcomics.org/other-comics/universal-monsters-blood-of-the-wolf-man-1-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Tue, 30 Jun 2026 14:21:50 +0000</pubDate>
-      <category>Other Comics</category>
-      <category>0-Day</category>
-      <category>Image Comics</category>
-      <category>Universal Monsters</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 231 MB&lt;/p&gt;
-&lt;p&gt;Adam Jaeger thought he could become someone new at college... but not like this. One moment he was partying, the next he's recovering from a massacre that left almost no survivors. The worst part? He might be responsible... As the monster within tries to claw loose, Adam will do anything he can to stop from becoming... THE WOLF MAN.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/universal-monsters-blood-of-the-wolf-man-1-2026/"&gt;Universal Monsters &amp;#8211; Blood of the Wolf Man #1 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/other-comics/universal-monsters-blood-of-the-wolf-man-1-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>399660</wp9:post-id>
     </item>
   </channel>
 </rss>
