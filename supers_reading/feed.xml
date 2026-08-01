@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/supers_reading/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>Supers Reading feeds</description>
-    <lastBuildDate>Sat, 01 Aug 2026 05:56:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 08:28:54 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -66,28 +66,6 @@
       <wfw:commentRss>https://getcomics.org/marvel/ultimate-x-men-omnibus-vol-3-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>402121</wp9:post-id>
-    </item>
-    <item>
-      <title>Ultimate Fantastic Four Epic Collection Vol. 2 – Frightful (2026)</title>
-      <link>https://getcomics.org/marvel/ultimate-fantastic-four-epic-collection-vol-2-frightful-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:b63c3e9aadbe6a800dd09f91425622c41ca840fa7fdd5809fea4511e08198e66</guid>
-      <comments>https://getcomics.org/marvel/ultimate-fantastic-four-epic-collection-vol-2-frightful-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 07:07:21 +0000</pubDate>
-      <category>Marvel Comics</category>
-      <category>Epic Collection</category>
-      <category>Fantastic Four</category>
-      <category>Fantastic Four Epic Collection</category>
-      <category>Non 0-Day</category>
-      <category>TPB</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 666 MB&lt;/p&gt;
-&lt;p&gt;A classic villain makes his debut in Ultimate form, turning the Baxter Building into a virtual trap set to capture and eliminate the fledgling adventurers. But what does that mean for the skyscraper’s other denizens — including Johnny and Sue’s father? And who has the power to outthink Reed Richards? Then, from a hidden race, she comes to steal the heart of the Human Torch. Meet the beautiful elemental Inhuman called Crystal! But when Reed uses his scientific genius to contact an Earth in a surprisingly familiar parallel dimension, the team is not ready for the frightful version of the FF they are soon meet! Plus: The Storm family’s shocking secret is finally revealed! Ultimate Namor sets his sights on ruling the planet! And a guilt-ridden Reed attempts to undo his greatest failure — using time travel to cure the Thing. But be careful what you wish for! COLLECTING: Ultimate Fantastic Four (2003) #19-32, Ultimate Fantastic Four Annual (2005) #1&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/marvel/ultimate-fantastic-four-epic-collection-vol-2-frightful-2026/"&gt;Ultimate Fantastic Four Epic Collection Vol. 2 &amp;#8211; Frightful (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/marvel/ultimate-fantastic-four-epic-collection-vol-2-frightful-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>400530</wp9:post-id>
     </item>
   </channel>
 </rss>
