@@ -1,11 +1,11 @@
 {
-  "etag": "W/\"ad1fb8c6df1e742166ced503295e695d\"",
+  "etag": "W/\"cafa25b4bf0880b67a82e33cfa3a7ddc\"",
   "items": [],
   "last_changed_at": "2026-07-13T06:54:39.757561Z",
-  "last_checked_at": "2026-07-31T21:05:44.885128Z",
+  "last_checked_at": "2026-08-01T21:57:37.976904Z",
   "last_error": null,
-  "last_modified": "Fri, 31 Jul 2026 21:06:35 GMT",
-  "last_success_at": "2026-07-31T21:05:44.885128Z",
+  "last_modified": "Sat, 01 Aug 2026 09:10:32 GMT",
+  "last_success_at": "2026-08-01T21:57:37.976904Z",
   "link": "https://getcomics.org/search/nice+house+sea/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
