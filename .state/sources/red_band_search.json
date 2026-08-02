@@ -1,6 +1,14 @@
 {
-  "etag": "W/\"cafa25b4bf0880b67a82e33cfa3a7ddc\"",
+  "etag": "W/\"8cf463e61ddf2d9fb64bb35e37a93185\"",
   "items": [
+    {
+      "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Alias \u2013 Red Band #5 (2026)</title>\n\t\t<link>https://getcomics.org/marvel/alias-red-band-5-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/marvel/alias-red-band-5-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Sun, 02 Aug 2026 02:05:00 +0000</pubDate>\n\t\t\t\t<category>Marvel Comics</category>\n\t\t<category>0-Day</category>\n\t\t<category>Alias</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 22 MB&lt;/p&gt;\n&lt;p&gt;A DANCE WITH THE DEVIL! Jessica and Typhoid Mary are closer than ever to capturing the mysterious \u201cBoss\u201d unleashing demons upon Hell's Kitchen. But as their investigation reaches its boiling point, Mary grows more reckless and the rift between Jessica and Luke widens as the police begin to close in. Can Jessica and Mary unmask the monster before Jessica's world implodes?&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/marvel/alias-red-band-5-2026/\"&gt;Alias &amp;#8211; Red Band #5 (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/marvel/alias-red-band-5-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>402261</wp9:post-id>\t</item>\n\t\t",
+      "link": "https://getcomics.org/marvel/alias-red-band-5-2026/",
+      "normalized_link": "https://getcomics.org/marvel/alias-red-band-5-2026",
+      "published_at": "2026-08-02T02:05:00Z",
+      "stable_id": "6bc3ea1118ca662ad8836fc7ed40dc447fd45253dda0316e7caf5b4001493593",
+      "title": "Alias \u2013 Red Band #5 (2026)"
+    },
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Blood Hunt \u2013 Red Band (TPB) (2024)</title>\n\t\t<link>https://getcomics.org/marvel/blood-hunt-red-band-tpb-2024/</link>\n\t\t\t\t\t<comments>https://getcomics.org/marvel/blood-hunt-red-band-tpb-2024/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Sat, 01 Aug 2026 09:03:59 +0000</pubDate>\n\t\t\t\t<category>Marvel Comics</category>\n\t\t<category>Blood Hunt</category>\n\t\t<category>Non 0-Day</category>\n\t\t<category>TPB</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2024 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 361 MB&lt;/p&gt;\n&lt;p&gt;It\u2019s an event like no other\u2026now available in an oversized, gorier, more violent \u201cRed Band\u201d version stained with buckets of blood! As the skies grow dark, an army of vampires stalks the land by day. Now, Marvel\u2019s greatest heroes must assemble to hold back an eternal night that threatens to consume the entire world in a wave of scarlet and chaos. Who will bite it? COLLECTING: Blood Hunt: Red Band (2024) 1-5&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/marvel/blood-hunt-red-band-tpb-2024/\"&gt;Blood Hunt &amp;#8211; Red Band (TPB) (2024)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/marvel/blood-hunt-red-band-tpb-2024/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>402636</wp9:post-id>\t</item>\n\t\t",
       "link": "https://getcomics.org/marvel/blood-hunt-red-band-tpb-2024/",
@@ -18,11 +26,11 @@
       "title": "Blade \u2013 Red Band \u2013 Prodigal Son (TPB) (2025)"
     }
   ],
-  "last_changed_at": "2026-08-01T21:57:37.976904Z",
-  "last_checked_at": "2026-08-01T21:57:37.976904Z",
+  "last_changed_at": "2026-08-02T21:59:22.013287Z",
+  "last_checked_at": "2026-08-02T21:59:22.013287Z",
   "last_error": null,
-  "last_modified": "Sat, 01 Aug 2026 09:10:32 GMT",
-  "last_success_at": "2026-08-01T21:57:37.976904Z",
+  "last_modified": "Sun, 02 Aug 2026 02:05:25 GMT",
+  "last_success_at": "2026-08-02T21:59:22.013287Z",
   "link": "https://getcomics.org/search/red+band/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
