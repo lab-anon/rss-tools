@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"cafa25b4bf0880b67a82e33cfa3a7ddc\"",
+  "etag": "W/\"8cf463e61ddf2d9fb64bb35e37a93185\"",
   "items": [
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Miles Morales \u2013 Spider-Man \u2013 Brooklyn\u2019s Finest \u2013 Infinity Comic #18 \u2013 20 (2026)</title>\n\t\t<link>https://getcomics.org/marvel/miles-morales-spider-man-brooklyns-finest-infinity-comic-18-20-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/marvel/miles-morales-spider-man-brooklyns-finest-infinity-comic-18-20-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Mon, 13 Jul 2026 06:46:34 +0000</pubDate>\n\t\t\t\t<category>Marvel Comics</category>\n\t\t<category>Infinity Comic</category>\n\t\t<category>Miles Morales - Spider-Man</category>\n\t\t<category>Non 0-Day</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 17 MB&lt;/p&gt;\n&lt;p&gt;SPIDER-MAN's gamma powered ally HULKS OUT and Spidey won't like her when she's angry!&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/marvel/miles-morales-spider-man-brooklyns-finest-infinity-comic-18-20-2026/\"&gt;Miles Morales &amp;#8211; Spider-Man &amp;#8211; Brooklyn&amp;#8217;s Finest &amp;#8211; Infinity Comic #18 &amp;#8211; 20 (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/marvel/miles-morales-spider-man-brooklyns-finest-infinity-comic-18-20-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>401153</wp9:post-id>\t</item>\n\t\t",
@@ -11,10 +11,10 @@
     }
   ],
   "last_changed_at": "2026-07-18T23:55:23.581825Z",
-  "last_checked_at": "2026-08-01T18:01:45.690828Z",
+  "last_checked_at": "2026-08-02T19:12:07.699341Z",
   "last_error": null,
-  "last_modified": "Sat, 01 Aug 2026 09:10:32 GMT",
-  "last_success_at": "2026-08-01T18:01:45.690828Z",
+  "last_modified": "Sun, 02 Aug 2026 02:05:25 GMT",
+  "last_success_at": "2026-08-02T19:12:07.699341Z",
   "link": "https://getcomics.org/search/miles+morales+%e2%80%93+spider-man/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
