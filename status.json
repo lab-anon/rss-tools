@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T11:17:05.670607Z",
+  "generated_at": "2026-08-02T13:24:15.414204Z",
   "rows": [
     {
       "description": "Ongoing feeds",
       "item_count": 8,
       "last_error": null,
-      "last_success_at": "2026-08-02T11:17:05.670607Z",
+      "last_success_at": "2026-08-02T13:24:15.414204Z",
       "public_url": "https://lab-anon.github.io/rss-tools/ongoing/feed.xml",
       "slug": "ongoing",
       "status": "ok",
@@ -16,7 +16,7 @@
       "description": "Ongoing Reading feeds",
       "item_count": 15,
       "last_error": null,
-      "last_success_at": "2026-08-02T11:17:05.670607Z",
+      "last_success_at": "2026-08-02T13:24:15.414204Z",
       "public_url": "https://lab-anon.github.io/rss-tools/ongoing_reading/feed.xml",
       "slug": "ongoing_reading",
       "status": "ok",
@@ -27,7 +27,7 @@
       "description": "Open feeds",
       "item_count": 0,
       "last_error": null,
-      "last_success_at": "2026-08-02T11:17:05.670607Z",
+      "last_success_at": "2026-08-02T13:24:15.414204Z",
       "public_url": "https://lab-anon.github.io/rss-tools/open/feed.xml",
       "slug": "open",
       "status": "ok",
@@ -38,7 +38,7 @@
       "description": "Open Reading feeds",
       "item_count": 1,
       "last_error": null,
-      "last_success_at": "2026-08-02T11:17:05.670607Z",
+      "last_success_at": "2026-08-02T13:24:15.414204Z",
       "public_url": "https://lab-anon.github.io/rss-tools/open_reading/feed.xml",
       "slug": "open_reading",
       "status": "ok",
@@ -49,7 +49,7 @@
       "description": "Supers feeds",
       "item_count": 6,
       "last_error": null,
-      "last_success_at": "2026-08-02T11:17:05.670607Z",
+      "last_success_at": "2026-08-02T13:24:15.414204Z",
       "public_url": "https://lab-anon.github.io/rss-tools/supers/feed.xml",
       "slug": "supers",
       "status": "ok",
@@ -60,7 +60,7 @@
       "description": "Supers Reading feeds",
       "item_count": 3,
       "last_error": null,
-      "last_success_at": "2026-08-02T11:17:05.670607Z",
+      "last_success_at": "2026-08-02T13:24:15.414204Z",
       "public_url": "https://lab-anon.github.io/rss-tools/supers_reading/feed.xml",
       "slug": "supers_reading",
       "status": "ok",
@@ -71,12 +71,32 @@
       "description": "TPB feeds",
       "item_count": 131,
       "last_error": null,
-      "last_success_at": "2026-08-02T11:17:05.670607Z",
+      "last_success_at": "2026-08-02T13:24:15.414204Z",
       "public_url": "https://lab-anon.github.io/rss-tools/tpb/feed.xml",
       "slug": "tpb",
       "status": "ok",
       "title": "Merged - TPB",
       "type": "merger"
+    },
+    {
+      "item_count": 0,
+      "last_error": null,
+      "last_success_at": "2026-08-02T13:23:53.967856Z",
+      "link": "https://tomosmanga.com/search/one+piece/feed/rss2/",
+      "refresh_hours": 24,
+      "slug": "one_piece_search",
+      "status": "ok",
+      "type": "source"
+    },
+    {
+      "item_count": 0,
+      "last_error": null,
+      "last_success_at": "2026-08-02T13:23:53.967856Z",
+      "link": "https://tomosmanga.com/search/sakamoto/feed/rss2/",
+      "refresh_hours": 24,
+      "slug": "sakamoto_search",
+      "status": "ok",
+      "type": "source"
     },
     {
       "item_count": 2,
@@ -409,16 +429,6 @@
       "type": "source"
     },
     {
-      "item_count": 0,
-      "last_error": null,
-      "last_success_at": "2026-08-01T12:02:54.797436Z",
-      "link": "https://tomosmanga.com/search/one+piece/feed/rss2/",
-      "refresh_hours": 24,
-      "slug": "one_piece_search",
-      "status": "skipped",
-      "type": "source"
-    },
-    {
       "item_count": 1,
       "last_error": null,
       "last_success_at": "2026-08-02T09:09:33.990477Z",
@@ -475,16 +485,6 @@
       "link": "https://getcomics.org/search/saga+vol+tpb/feed/rss2/",
       "refresh_hours": 24,
       "slug": "saga_vol_tpb_search",
-      "status": "skipped",
-      "type": "source"
-    },
-    {
-      "item_count": 0,
-      "last_error": null,
-      "last_success_at": "2026-08-01T12:02:54.797436Z",
-      "link": "https://tomosmanga.com/search/sakamoto/feed/rss2/",
-      "refresh_hours": 24,
-      "slug": "sakamoto_search",
       "status": "skipped",
       "type": "source"
     },
