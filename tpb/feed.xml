@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/tpb/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>TPB feeds</description>
-    <lastBuildDate>Tue, 04 Aug 2026 13:04:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 16:12:36 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -2640,26 +2640,6 @@
       <wfw:commentRss>https://getcomics.org/other-comics/red-book-vol-1-tpb-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>400848</wp9:post-id>
-    </item>
-    <item>
-      <title>Arkham Horror – The Terror at the End of Time (TPB) (2025)</title>
-      <link>https://getcomics.org/other-comics/arkham-horror-the-terror-at-the-end-of-time-tpb-2025/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:1796d7d77e25ba443eff31eefad8800c7aeb3e2c787f95b7f1dd544a8363a040</guid>
-      <comments>https://getcomics.org/other-comics/arkham-horror-the-terror-at-the-end-of-time-tpb-2025/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Sun, 05 Jul 2026 13:44:17 +0000</pubDate>
-      <category>Other Comics</category>
-      <category>Arkham Horror</category>
-      <category>Non 0-Day</category>
-      <category>TPB</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2025 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 747 MB&lt;/p&gt;
-&lt;p&gt;Life was all just one big game to adventuring socialite Jenny Barnes. But Jenny’s world turned topsy-turvy when she and her sister Izzie were attacked by a dangerous cult. Although Jenny thwarted the cultists sacrificial endeavors and battled the eldritch monsters at their command, the high priestess Abigail Olmstead fled—and took Izzie with her. Desperate to find her sister, Jenny seeks the help of private investigator Joe Diamond. Joe may not understand her story, but he understands loss. Together, Joe and Jenny will follow a perilous path—fighting unimaginable horrors, journeying to strange worlds, and risking their lives and sanity—in search of Izzie. But the greatest terror awaits them somewhere far beyond the town of Arkham, Massachusetts… Collects Arkham Horror: The Terror at the End of Time #1–#4.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/arkham-horror-the-terror-at-the-end-of-time-tpb-2025/"&gt;Arkham Horror &amp;#8211; The Terror at the End of Time (TPB) (2025)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/other-comics/arkham-horror-the-terror-at-the-end-of-time-tpb-2025/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>400647</wp9:post-id>
     </item>
   </channel>
 </rss>
