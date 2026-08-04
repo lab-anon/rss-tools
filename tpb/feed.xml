@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/tpb/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>TPB feeds</description>
-    <lastBuildDate>Tue, 04 Aug 2026 10:40:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 13:04:23 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -2660,27 +2660,6 @@
       <wfw:commentRss>https://getcomics.org/other-comics/arkham-horror-the-terror-at-the-end-of-time-tpb-2025/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>400647</wp9:post-id>
-    </item>
-    <item>
-      <title>Marvel Knights – The Punisher by Garth Ennis Omnibus (2008) (Fan-Made)</title>
-      <link>https://getcomics.org/marvel/marvel-knights-the-punisher-by-garth-ennis-omnibus-2008-fan-made/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:a9afca2379810b88b8c8668bc9b68a7cb3b1048b1d771574502f2ab73cb0cda7</guid>
-      <comments>https://getcomics.org/marvel/marvel-knights-the-punisher-by-garth-ennis-omnibus-2008-fan-made/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Sun, 05 Jul 2026 11:58:14 +0000</pubDate>
-      <category>Marvel Comics</category>
-      <category>Marvel Knights</category>
-      <category>Non 0-Day</category>
-      <category>The Punisher</category>
-      <category>TPB</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2008 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 1.6 GB&lt;/p&gt;
-&lt;p&gt;The bodies of drug dealers, murderers and the scum of the Earth litter the streets...the Punisher is back - courtesy of writer Garth Ennis! The critically acclaimed creator that brought you Preacher restores one of the most popular characters in the Marvel Universe to his former glory and ultra-violent roots. Stripped of sidekicks, spiritual directives and other excess baggage, the vengeance-crazed vigilante hits the mean streets of New York City with a renewed sense of purpose! Lawbreakers beware: Frank Castle is locked, loaded and waiting for you to slip up! Collecting PUNISHER (2000) #1-12, PUNISHER KILLS THE MARVEL UNIVERSE, MARVEL KNIGHTS DOUBLE SHOT #1, and PUNISHER (2001) #1-7 and #13-37.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/marvel/marvel-knights-the-punisher-by-garth-ennis-omnibus-2008-fan-made/"&gt;Marvel Knights &amp;#8211; The Punisher by Garth Ennis Omnibus (2008) (Fan-Made)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/marvel/marvel-knights-the-punisher-by-garth-ennis-omnibus-2008-fan-made/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>400644</wp9:post-id>
     </item>
   </channel>
 </rss>
