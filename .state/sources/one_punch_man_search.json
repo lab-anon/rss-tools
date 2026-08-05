@@ -11,10 +11,10 @@
     }
   ],
   "last_changed_at": "2026-07-24T22:05:32.804456Z",
-  "last_checked_at": "2026-08-05T15:14:12.583228Z",
-  "last_error": "Failed to fetch https://tomosmanga.com/search/one+punch+man/feed/rss2/: HTTP 522",
+  "last_checked_at": "2026-08-05T17:39:25.220848Z",
+  "last_error": null,
   "last_modified": null,
-  "last_success_at": "2026-08-04T13:03:28.826109Z",
+  "last_success_at": "2026-08-05T17:39:25.220848Z",
   "link": "https://tomosmanga.com/search/one+punch+man/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
