@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/tpb/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>TPB feeds</description>
-    <lastBuildDate>Thu, 06 Aug 2026 11:27:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 14:16:03 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -2685,27 +2685,6 @@
       <wfw:commentRss>https://getcomics.org/other-comics/the-guy-in-the-chair-tpb-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>400978</wp9:post-id>
-    </item>
-    <item>
-      <title>The Walking Dead Deluxe Vol. 23 – Whispers Into Screams (2026) (Fan Made TPB)</title>
-      <link>https://getcomics.org/other-comics/the-walking-dead-deluxe-vol-23-whispers-into-screams-2026-fan-made-tpb/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:1d4d9891334867ad62fde231bf62d9ed2c4eb7311080f5a7e6a1abc3671ee7f6</guid>
-      <comments>https://getcomics.org/other-comics/the-walking-dead-deluxe-vol-23-whispers-into-screams-2026-fan-made-tpb/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Tue, 07 Jul 2026 11:29:16 +0000</pubDate>
-      <category>Other Comics</category>
-      <category>Image Comics</category>
-      <category>Non 0-Day</category>
-      <category>The Walking Dead</category>
-      <category>TPB</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 503 MB&lt;/p&gt;
-&lt;p&gt;A new threat has emerged from within the walker hordes, catching the communities off guard. The time for peace and prosperity is over as a new fight for survival begins. Collects The Walking Dead #133-138.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/the-walking-dead-deluxe-vol-23-whispers-into-screams-2026-fan-made-tpb/"&gt;The Walking Dead Deluxe Vol. 23 &amp;#8211; Whispers Into Screams (2026) (Fan Made TPB)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/other-comics/the-walking-dead-deluxe-vol-23-whispers-into-screams-2026-fan-made-tpb/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>400861</wp9:post-id>
     </item>
   </channel>
 </rss>
