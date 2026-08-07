@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/ongoing/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>Ongoing feeds</description>
-    <lastBuildDate>Fri, 07 Aug 2026 09:07:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 11:00:10 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -149,26 +149,6 @@
       <wfw:commentRss>https://getcomics.org/other-comics/void-rivals-31-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp13:post-id>399666</wp13:post-id>
-    </item>
-    <item>
-      <title>The Twilight Zone #9 (2026)</title>
-      <link>https://getcomics.org/other-comics/the-twilight-zone-9-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:4d587b2573bf5c843a563b35488320bfe9594567b8d03ef5837795c7069d1440</guid>
-      <comments>https://getcomics.org/other-comics/the-twilight-zone-9-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Wed, 08 Jul 2026 09:15:17 +0000</pubDate>
-      <category>Other Comics</category>
-      <category>0-Day</category>
-      <category>IDW</category>
-      <category>The Twilight Zone</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 81 MB&lt;/p&gt;
-&lt;p&gt;Imagine, if you will, a man caught between light and shadow for so long he cannot even remember his life before. You see, our protagonist in this issue has been in the Twilight Zone much longer than anyone else. A sand diver trapped in a life of repetition, he knows only swimming from the river’s top to its bottom for the purpose of building up his village. But is he ready for the day he can rest? Can our protagonist truly leave the Twilight Zone?&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/the-twilight-zone-9-2026/"&gt;The Twilight Zone #9 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/other-comics/the-twilight-zone-9-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp13:post-id>400801</wp13:post-id>
     </item>
   </channel>
 </rss>
