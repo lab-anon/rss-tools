@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/ongoing/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>Ongoing feeds</description>
-    <lastBuildDate>Sat, 08 Aug 2026 12:51:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 13:46:44 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -129,26 +129,6 @@
       <wfw:commentRss>https://getcomics.org/other-comics/exquisite-corpses-rascal-randy-1-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp13:post-id>400747</wp13:post-id>
-    </item>
-    <item>
-      <title>Void Rivals #31 (2026)</title>
-      <link>https://getcomics.org/other-comics/void-rivals-31-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:0f4405e5ffa77a2d441202a5b0dc89cbf8884cf2d384a84b057319f30f319039</guid>
-      <comments>https://getcomics.org/other-comics/void-rivals-31-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Thu, 09 Jul 2026 13:25:28 +0000</pubDate>
-      <category>Other Comics</category>
-      <category>0-Day</category>
-      <category>Image Comics</category>
-      <category>Void Rivals</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 39 MB&lt;/p&gt;
-&lt;p&gt;The Skuxxoid Liberators have formed for one purpose—the downfall of Skuxxoid Alpha, freeing Skuxxoid kind from his tyrannical rule! It's Skuxxoid vs. Skuxxoid for all the marbles.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/void-rivals-31-2026/"&gt;Void Rivals #31 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/other-comics/void-rivals-31-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp13:post-id>399666</wp13:post-id>
     </item>
   </channel>
 </rss>

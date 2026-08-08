@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/tpb/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>TPB feeds</description>
-    <lastBuildDate>Sat, 08 Aug 2026 12:51:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 13:46:44 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -2518,27 +2518,6 @@
       <wfw:commentRss>https://getcomics.org/dc/batman-and-the-monster-men-tpb-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>401049</wp9:post-id>
-    </item>
-    <item>
-      <title>Planet Atmos – Exordium Vol. 1 (TPB) (2026)</title>
-      <link>https://getcomics.org/other-comics/planet-atmos-exordium-vol-1-tpb-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:f3b8e06e44455a5f0112b96d1a6df7e1536e6ab549e1a8f618e80672fda47ef7</guid>
-      <comments>https://getcomics.org/other-comics/planet-atmos-exordium-vol-1-tpb-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Thu, 09 Jul 2026 13:09:31 +0000</pubDate>
-      <category>Other Comics</category>
-      <category>Mad Cave</category>
-      <category>Non 0-Day</category>
-      <category>Planet Atmos</category>
-      <category>TPB</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 250 MB&lt;/p&gt;
-&lt;p&gt;On the planet Atmos there is no greater challenge than ExoGP, an exhilarating and deadly racing league that has become the dominant spectacle throughout the galaxy. In this dystopian world ruled by powerful corporations and a dark underworld, the fate of three racers collide in a competition where skill, strategy, and sheer determination mean the difference between glory and death. As they become icons of the sports’ brutality and commercialization, superstar pilots Rogg, Oz, and Addy find themselves entangled in a web of political intrigue and conspiracy as a dangerous secret emerges that threatens the fragile balance of power on Atmos.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/planet-atmos-exordium-vol-1-tpb-2026/"&gt;Planet Atmos &amp;#8211; Exordium Vol. 1 (TPB) (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/other-comics/planet-atmos-exordium-vol-1-tpb-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>401011</wp9:post-id>
     </item>
   </channel>
 </rss>
