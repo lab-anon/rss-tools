@@ -1,11 +1,11 @@
 {
-  "etag": null,
+  "etag": "W/\"942b04c13ba109b72b25d0c94883e72a\"",
   "items": [],
   "last_changed_at": "2026-07-20T15:36:19.326448Z",
-  "last_checked_at": "2026-08-07T14:53:41.493652Z",
+  "last_checked_at": "2026-08-08T15:31:08.599038Z",
   "last_error": null,
-  "last_modified": null,
-  "last_success_at": "2026-08-07T14:53:41.493652Z",
+  "last_modified": "Sat, 08 Aug 2026 13:48:50 GMT",
+  "last_success_at": "2026-08-08T15:31:08.599038Z",
   "link": "https://tomosmanga.com/search/jujutsu/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
