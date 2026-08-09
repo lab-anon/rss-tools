@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"1279e60930dd3dd7062926c924f79464\"",
+  "etag": "W/\"1cbf4dc07c07cab1a4c7550cdf23a239\"",
   "items": [
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Void Rivals #32 (2026)</title>\n\t\t<link>https://getcomics.org/other-comics/void-rivals-32-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/other-comics/void-rivals-32-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Wed, 22 Jul 2026 16:05:59 +0000</pubDate>\n\t\t\t\t<category>Other Comics</category>\n\t\t<category>0-Day</category>\n\t\t<category>Image Comics</category>\n\t\t<category>Void Rivals</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 40 MB&lt;/p&gt;\n&lt;p&gt;In the aftermath of the Quintesson War, Darak and Solia are on the run and find themselves lost together, with danger looming all around.&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/other-comics/void-rivals-32-2026/\"&gt;Void Rivals #32 (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/other-comics/void-rivals-32-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>401810</wp9:post-id>\t</item>\n\t\t",
@@ -8,21 +8,13 @@
       "published_at": "2026-07-22T16:05:59Z",
       "stable_id": "c3a96a9a7e8130e66872f7755a39153083c1e1f884503b8a0e095458acbebd81",
       "title": "Void Rivals #32 (2026)"
-    },
-    {
-      "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Void Rivals #31 (2026)</title>\n\t\t<link>https://getcomics.org/other-comics/void-rivals-31-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/other-comics/void-rivals-31-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Thu, 09 Jul 2026 13:25:28 +0000</pubDate>\n\t\t\t\t<category>Other Comics</category>\n\t\t<category>0-Day</category>\n\t\t<category>Image Comics</category>\n\t\t<category>Void Rivals</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 39 MB&lt;/p&gt;\n&lt;p&gt;The Skuxxoid Liberators have formed for one purpose\u2014the downfall of Skuxxoid Alpha, freeing Skuxxoid kind from his tyrannical rule! It's Skuxxoid vs. Skuxxoid for all the marbles.&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/other-comics/void-rivals-31-2026/\"&gt;Void Rivals #31 (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/other-comics/void-rivals-31-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>399666</wp9:post-id>\t</item>\n\t\t",
-      "link": "https://getcomics.org/other-comics/void-rivals-31-2026/",
-      "normalized_link": "https://getcomics.org/other-comics/void-rivals-31-2026",
-      "published_at": "2026-07-09T13:25:28Z",
-      "stable_id": "0f4405e5ffa77a2d441202a5b0dc89cbf8884cf2d384a84b057319f30f319039",
-      "title": "Void Rivals #31 (2026)"
     }
   ],
-  "last_changed_at": "2026-07-23T05:56:15.602804Z",
-  "last_checked_at": "2026-08-08T01:44:00.118217Z",
+  "last_changed_at": "2026-08-09T01:50:09.131228Z",
+  "last_checked_at": "2026-08-09T01:50:09.131228Z",
   "last_error": null,
-  "last_modified": "Fri, 07 Aug 2026 14:03:51 GMT",
-  "last_success_at": "2026-08-08T01:44:00.118217Z",
+  "last_modified": "Sun, 09 Aug 2026 00:29:35 GMT",
+  "last_success_at": "2026-08-09T01:50:09.131228Z",
   "link": "https://getcomics.org/search/void+rivals/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
