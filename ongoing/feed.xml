@@ -5,9 +5,43 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/ongoing/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>Ongoing feeds</description>
-    <lastBuildDate>Sun, 09 Aug 2026 14:35:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 15:35:32 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
+    <item>
+      <title>One Piece Tomos [001-115]</title>
+      <link>https://tomosmanga.com/descargar-one-piece-en-publicacion/</link>
+      <guid isPermaLink="false">rss-tools:link-sha256:d32487a06ada93047f8497e1938f26cb12a9c9b9a3009c7011aa6c75da60e6e1</guid>
+      <comments>https://tomosmanga.com/descargar-one-piece-en-publicacion/#comments</comments>
+      <dc:creator>TomosManga</dc:creator>
+      <pubDate>Sat, 08 Aug 2026 22:27:56 +0000</pubDate>
+      <category>En Publicación</category>
+      <category>Manga</category>
+      <category>Shonen</category>
+      <description>&lt;p&gt;SINOPSIS Esta es la gran Era Pirata. Gold Roger, el legendario “Rey de los piratas” ha dejado el “One Piece” &amp;#8211; su legendario Tesoro &amp;#8211; ... &lt;/p&gt;
+&lt;p class="read-more-container"&gt;&lt;a title="One Piece Tomos [001-115]" class="read-more button" href="https://tomosmanga.com/descargar-one-piece-en-publicacion/#more-396" aria-label="Leer más sobre One Piece Tomos [001-115]"&gt;Leer más&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;La entrada &lt;a href="https://tomosmanga.com/descargar-one-piece-en-publicacion/"&gt;One Piece Tomos [001-115]&lt;/a&gt; se publicó primero en &lt;a href="https://tomosmanga.com"&gt;Tomos Manga&lt;/a&gt;.&lt;/p&gt;
+</description>
+      <wfw:commentRss>https://tomosmanga.com/descargar-one-piece-en-publicacion/feed/</wfw:commentRss>
+      <slash:comments>135</slash:comments>
+    </item>
+    <item>
+      <title>Sakamoto Days Tomos [01-28]</title>
+      <link>https://tomosmanga.com/manga-sakamoto-days/</link>
+      <guid isPermaLink="false">rss-tools:link-sha256:8994e0e93dfed907b95a8e934319d4ad622c0e4703dee71ca69134cfae104acc</guid>
+      <comments>https://tomosmanga.com/manga-sakamoto-days/#comments</comments>
+      <dc:creator>TomosManga</dc:creator>
+      <pubDate>Sat, 08 Aug 2026 22:21:33 +0000</pubDate>
+      <category>En Publicación</category>
+      <category>Manga</category>
+      <category>Shonen</category>
+      <description>&lt;p&gt;SINOPSIS Taro Sakamoto era conocido como el sicario más fuerte, temido por los villanos y un ejemplo a seguir para el resto de sicarios. Sin ... &lt;/p&gt;
+&lt;p class="read-more-container"&gt;&lt;a title="Sakamoto Days Tomos [01-28]" class="read-more button" href="https://tomosmanga.com/manga-sakamoto-days/#more-4165" aria-label="Leer más sobre Sakamoto Days Tomos [01-28]"&gt;Leer más&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;La entrada &lt;a href="https://tomosmanga.com/manga-sakamoto-days/"&gt;Sakamoto Days Tomos [01-28]&lt;/a&gt; se publicó primero en &lt;a href="https://tomosmanga.com"&gt;Tomos Manga&lt;/a&gt;.&lt;/p&gt;
+</description>
+      <wfw:commentRss>https://tomosmanga.com/manga-sakamoto-days/feed/</wfw:commentRss>
+      <slash:comments>63</slash:comments>
+    </item>
     <item>
       <title>Exquisite Corpses Complete First Series (2026) (Fan-Made TPB)</title>
       <link>https://getcomics.org/other-comics/exquisite-corpses-complete-first-series-2026-fan-made-tpb/</link>
