@@ -1,11 +1,11 @@
 {
-  "etag": "W/\"861a7a0a12471df33541ce6339ef33eb\"",
+  "etag": "W/\"1cbf4dc07c07cab1a4c7550cdf23a239\"",
   "items": [],
   "last_changed_at": "2026-08-07T11:46:49.924196Z",
-  "last_checked_at": "2026-08-08T12:50:48.268998Z",
+  "last_checked_at": "2026-08-09T12:52:58.681847Z",
   "last_error": null,
-  "last_modified": "Sat, 08 Aug 2026 03:05:56 GMT",
-  "last_success_at": "2026-08-08T12:50:48.268998Z",
+  "last_modified": "Sun, 09 Aug 2026 00:29:35 GMT",
+  "last_success_at": "2026-08-09T12:52:58.681847Z",
   "link": "https://getcomics.org/search/twilight+zone/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
