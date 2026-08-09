@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/tpb/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>TPB feeds</description>
-    <lastBuildDate>Sun, 09 Aug 2026 03:44:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 05:06:18 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -2579,27 +2579,6 @@
       <wfw:commentRss>https://getcomics.org/marvel/elektra-the-hand-tpb-2005/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>401085</wp9:post-id>
-    </item>
-    <item>
-      <title>Batman and the Monster Men (TPB) (2026)</title>
-      <link>https://getcomics.org/dc/batman-and-the-monster-men-tpb-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:ab8a74ad4ddfe36eca569fe99434618660b54e18602572aaa4adfa0acec9bd18</guid>
-      <comments>https://getcomics.org/dc/batman-and-the-monster-men-tpb-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Fri, 10 Jul 2026 04:03:41 +0000</pubDate>
-      <category>DC Comics</category>
-      <category>Batman</category>
-      <category>Batman and the Monster Men</category>
-      <category>Non 0-Day</category>
-      <category>TPB</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 159 MB&lt;/p&gt;
-&lt;p&gt;Before Gotham knew the Joker, it feared the Monster Men. In this gripping reimagining of Batman’s early years, the Dark Knight faces off against Hugo Strange and his grotesque creations—genetically altered giants born from madness. Batman and the Monster Men blends noir suspense with horror, setting the stage for a young vigilante’s evolution into legend. Batman and the Monster Men is a six-issue limited series written and illustrated by Matt Wagner, serving as the first installment of his Dark Moon Rising duology. Set shortly after Batman: Year One, the story introduces Hugo Strange as a twisted scientist conducting unethical experiments on Arkham Asylum patients, funded by mob boss Sal Maroni. As Batman investigates a string of brutal murders, he uncovers a conspiracy that tests his resolve, intellect, and physical limits. The book also reintroduces Julie Madison, Bruce Wayne’s early love interest, adding emotional depth to the narrative.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/dc/batman-and-the-monster-men-tpb-2026/"&gt;Batman and the Monster Men (TPB) (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/dc/batman-and-the-monster-men-tpb-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>401049</wp9:post-id>
     </item>
   </channel>
 </rss>
