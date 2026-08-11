@@ -1,11 +1,11 @@
 {
-  "etag": "W/\"53306e5f7b1828f59b6482843aa90caf\"",
+  "etag": "W/\"0cc8dc27c6d448471071445eb6fd817c\"",
   "items": [],
   "last_changed_at": "2026-06-04T18:58:51.966788Z",
-  "last_checked_at": "2026-08-09T22:32:47.222424Z",
+  "last_checked_at": "2026-08-11T22:42:54.937686Z",
   "last_error": null,
-  "last_modified": "Sun, 09 Aug 2026 13:18:52 GMT",
-  "last_success_at": "2026-08-09T22:32:47.222424Z",
+  "last_modified": "Tue, 11 Aug 2026 15:25:50 GMT",
+  "last_success_at": "2026-08-11T22:42:54.937686Z",
   "link": "https://getcomics.org/search/white+knight/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
