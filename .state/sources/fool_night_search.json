@@ -1,11 +1,11 @@
 {
-  "etag": "W/\"c0907f33995c6359a38e314933a9e7c2\"",
+  "etag": null,
   "items": [],
   "last_changed_at": "2026-07-20T15:36:19.326448Z",
-  "last_checked_at": "2026-08-10T16:05:48.490938Z",
+  "last_checked_at": "2026-08-11T17:57:31.842122Z",
   "last_error": null,
-  "last_modified": "Sun, 09 Aug 2026 16:12:36 GMT",
-  "last_success_at": "2026-08-10T16:05:48.490938Z",
+  "last_modified": null,
+  "last_success_at": "2026-08-11T17:57:31.842122Z",
   "link": "https://tomosmanga.com/search/fool+night/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
