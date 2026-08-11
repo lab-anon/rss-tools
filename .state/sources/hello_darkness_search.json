@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"53306e5f7b1828f59b6482843aa90caf\"",
+  "etag": "W/\"2b7c3ff6d25d23cab8e10a28606aa758\"",
   "items": [
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Hello Darkness #23 (2026)</title>\n\t\t<link>https://getcomics.org/other-comics/hello-darkness-23-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/other-comics/hello-darkness-23-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Sun, 26 Jul 2026 23:02:00 +0000</pubDate>\n\t\t\t\t<category>Other Comics</category>\n\t\t<category>0-Day</category>\n\t\t<category>Boom Studios</category>\n\t\t<category>Hello Darkness</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 55 MB&lt;/p&gt;\n&lt;p&gt;Slash into summer with a tall drink of terror, all from your favorite chillers and killers! In \"Sunday Pt. II,\" Ryan North and Giada Belviso send a Bride of Christ over the deep end into madness. Then, Rich Douek and Stevan Subic lead you down a bloody path to the old west, where a brash young gunfighter seeks a showdown with \"The Man Who Outdrew Death.\" And finally, sink into the cool, briny depths of Kelly Williams\u2019s \u201cOld Wounds\u201d when a grizzled light housekeeper hears the call of the sea one final time. Beat the heat with an all-new pool of fresh nightmares and dive right into horror\u2019s deep end!&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/other-comics/hello-darkness-23-2026/\"&gt;Hello Darkness #23 (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/other-comics/hello-darkness-23-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>401879</wp9:post-id>\t</item>\n\t\t",
@@ -11,10 +11,10 @@
     }
   ],
   "last_changed_at": "2026-07-27T17:43:15.166766Z",
-  "last_checked_at": "2026-08-10T01:54:42.148968Z",
+  "last_checked_at": "2026-08-11T03:45:55.145752Z",
   "last_error": null,
-  "last_modified": "Sun, 09 Aug 2026 13:18:52 GMT",
-  "last_success_at": "2026-08-10T01:54:42.148968Z",
+  "last_modified": "Tue, 11 Aug 2026 01:04:36 GMT",
+  "last_success_at": "2026-08-11T03:45:55.145752Z",
   "link": "https://getcomics.org/search/hello+darkness/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
