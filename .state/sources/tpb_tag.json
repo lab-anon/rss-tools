@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"2b7c3ff6d25d23cab8e10a28606aa758\"",
+  "etag": "W/\"60df730cd20b86e331995e77c9836fd0\"",
   "items": [
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Jim Starlin\u2019s Dreadstar Omnibus Vol. 2 (2026)</title>\n\t\t<link>https://getcomics.org/other-comics/jim-starlins-dreadstar-omnibus-vol-2-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/other-comics/jim-starlins-dreadstar-omnibus-vol-2-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Sun, 09 Aug 2026 13:17:03 +0000</pubDate>\n\t\t\t\t<category>Other Comics</category>\n\t\t<category>Dreadstar</category>\n\t\t<category>Dreadstar Omnibus</category>\n\t\t<category>Non 0-Day</category>\n\t\t<category>TPB</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 2.4 GB&lt;/p&gt;\n&lt;p&gt;Vanth Dreadstar, last survivor of the Milky Way, is desperately trying to save the galaxy he now calls home from two warring empires. Vanth already saw one galaxy annihilated; can he prevent the same fate from befalling this one? His crew, a cyborg sorcerer Syzygy Darklock, cybernetic telepath Willow, cat-like humanoid Oedi, and the freebooter Skeevo, must keep these two power-mad superpowers from tearing the galaxy in two. But their efforts are being sabotaged from within! How can they hope to beat a foe who knows their every move before they make it? This volume collects Dreadstar #9-#24, and the short story Messiah.&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/other-comics/jim-starlins-dreadstar-omnibus-vol-2-2026/\"&gt;Jim Starlin&amp;#8217;s Dreadstar Omnibus Vol. 2 (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/other-comics/jim-starlins-dreadstar-omnibus-vol-2-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>402986</wp9:post-id>\t</item>\n\t\t",
@@ -907,10 +907,10 @@
     }
   ],
   "last_changed_at": "2026-08-11T01:50:35.107747Z",
-  "last_checked_at": "2026-08-11T08:58:10.376264Z",
+  "last_checked_at": "2026-08-11T14:58:43.885595Z",
   "last_error": null,
-  "last_modified": "Tue, 11 Aug 2026 01:04:36 GMT",
-  "last_success_at": "2026-08-11T08:58:10.376264Z",
+  "last_modified": "Tue, 11 Aug 2026 12:47:48 GMT",
+  "last_success_at": "2026-08-11T14:58:43.885595Z",
   "link": "https://getcomics.org/tag/tpb/feed/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
