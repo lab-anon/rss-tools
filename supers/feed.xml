@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/supers/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>Supers feeds</description>
-    <lastBuildDate>Wed, 12 Aug 2026 06:15:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 08:18:39 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -127,26 +127,6 @@
       <wfw:commentRss>https://getcomics.org/other-comics/invincible-universe-battle-beast-11-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>401282</wp9:post-id>
-    </item>
-    <item>
-      <title>Miles Morales – Spider-Man – Brooklyn’s Finest – Infinity Comic #18 – 20 (2026)</title>
-      <link>https://getcomics.org/marvel/miles-morales-spider-man-brooklyns-finest-infinity-comic-18-20-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:85d39c51e4c2c867f0901390d05bc93b2ccd6e59b6b1a6a75915689599484ef1</guid>
-      <comments>https://getcomics.org/marvel/miles-morales-spider-man-brooklyns-finest-infinity-comic-18-20-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 06:46:34 +0000</pubDate>
-      <category>Marvel Comics</category>
-      <category>Infinity Comic</category>
-      <category>Miles Morales - Spider-Man</category>
-      <category>Non 0-Day</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 17 MB&lt;/p&gt;
-&lt;p&gt;SPIDER-MAN's gamma powered ally HULKS OUT and Spidey won't like her when she's angry!&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/marvel/miles-morales-spider-man-brooklyns-finest-infinity-comic-18-20-2026/"&gt;Miles Morales &amp;#8211; Spider-Man &amp;#8211; Brooklyn&amp;#8217;s Finest &amp;#8211; Infinity Comic #18 &amp;#8211; 20 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/marvel/miles-morales-spider-man-brooklyns-finest-infinity-comic-18-20-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>401153</wp9:post-id>
     </item>
   </channel>
 </rss>
