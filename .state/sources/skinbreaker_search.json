@@ -1,11 +1,11 @@
 {
-  "etag": "W/\"6731169bd7024079f077cce537f72619\"",
+  "etag": "W/\"1365402dc72464e29dd3c0e44f49bb5b\"",
   "items": [],
   "last_changed_at": "2026-06-05T11:03:27.549309Z",
-  "last_checked_at": "2026-08-12T04:47:41.319208Z",
+  "last_checked_at": "2026-08-13T04:51:38.244486Z",
   "last_error": null,
-  "last_modified": "Wed, 12 Aug 2026 04:50:00 GMT",
-  "last_success_at": "2026-08-12T04:47:41.319208Z",
+  "last_modified": "Thu, 13 Aug 2026 03:37:38 GMT",
+  "last_success_at": "2026-08-13T04:51:38.244486Z",
   "link": "https://getcomics.org/search/skinbreaker/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
