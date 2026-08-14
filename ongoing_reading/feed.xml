@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/ongoing_reading/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>Ongoing Reading feeds</description>
-    <lastBuildDate>Fri, 14 Aug 2026 04:49:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 06:20:25 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -283,25 +283,6 @@
       <wfw:commentRss>https://getcomics.org/dc/deathstroke-the-terminator-5-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>401204</wp9:post-id>
-    </item>
-    <item>
-      <title>Alien – King Killer #4 (2026)</title>
-      <link>https://getcomics.org/marvel/alien-king-killer-4-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:7cd5e8e5b4c3a12f2aa954284e28fd2883ae9a0c39f6e2443d258b25f83e7465</guid>
-      <comments>https://getcomics.org/marvel/alien-king-killer-4-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Wed, 15 Jul 2026 05:21:07 +0000</pubDate>
-      <category>Marvel Comics</category>
-      <category>0-Day</category>
-      <category>Alien</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 61 MB&lt;/p&gt;
-&lt;p&gt;On a planet infested with alien Xenomorphs, the bioengineered warrior Idris knows in his bones that his siblings are all monsters who deserve to die. But if he completes his quest to depose the Three Kings, there will be nothing to stop the alien horde from slaughtering the last of humanity. And if a Xenomorph and a human civil war weren't enough, from the shadows emerges a new threat...&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/marvel/alien-king-killer-4-2026/"&gt;Alien &amp;#8211; King Killer #4 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/marvel/alien-king-killer-4-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>401225</wp9:post-id>
     </item>
   </channel>
 </rss>
