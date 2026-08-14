@@ -11,10 +11,10 @@
     }
   ],
   "last_changed_at": "2026-08-10T16:05:48.490938Z",
-  "last_checked_at": "2026-08-14T19:49:48.694585Z",
-  "last_error": "mismatched tag: line 93, column 2",
+  "last_checked_at": "2026-08-14T20:32:13.319790Z",
+  "last_error": null,
   "last_modified": null,
-  "last_success_at": "2026-08-13T19:13:06.397142Z",
+  "last_success_at": "2026-08-14T20:32:13.319790Z",
   "link": "https://tomosmanga.com/search/one+piece/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
