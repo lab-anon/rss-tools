@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/ongoing_reading/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>Ongoing Reading feeds</description>
-    <lastBuildDate>Fri, 14 Aug 2026 08:16:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 10:03:52 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -263,26 +263,6 @@
       <wfw:commentRss>https://getcomics.org/other-comics/cyberpunk-2077-chrome-4-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>401313</wp9:post-id>
-    </item>
-    <item>
-      <title>Deathstroke – The Terminator #5 (2026)</title>
-      <link>https://getcomics.org/dc/deathstroke-the-terminator-5-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:9f15fa558df265f99346426e3cb64bebb0911bd223b9a541356618f3c3d241ec</guid>
-      <comments>https://getcomics.org/dc/deathstroke-the-terminator-5-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Wed, 15 Jul 2026 09:01:45 +0000</pubDate>
-      <category>DC Comics</category>
-      <category>0-Day</category>
-      <category>Deathstroke</category>
-      <category>Deathstroke - The Terminator</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 43 MB&lt;/p&gt;
-&lt;p&gt;DEATHSTROKE V. DEATHSTROKE! As the timer runs out on his latest job, Slade Wilson comes face-to-face with his greatest nightmare... himself! Another Deathstroke is on the loose in the DCU, and everyone's a target. Will Slade get his kill, or is he about to be terminated?&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/dc/deathstroke-the-terminator-5-2026/"&gt;Deathstroke &amp;#8211; The Terminator #5 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/dc/deathstroke-the-terminator-5-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>401204</wp9:post-id>
     </item>
   </channel>
 </rss>
