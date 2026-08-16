@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/supers/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>Supers feeds</description>
-    <lastBuildDate>Sun, 16 Aug 2026 20:23:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 21:20:47 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -126,26 +126,6 @@
       <wfw:commentRss>https://getcomics.org/dc/absolute-flash-vol-2-still-point-tpb-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>399897</wp9:post-id>
-    </item>
-    <item>
-      <title>Invincible Universe – Battle Beast #11 (2026)</title>
-      <link>https://getcomics.org/other-comics/invincible-universe-battle-beast-11-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:8a009ea24088782125cd9907ee52dd2f5f0f6a43e80876d1fa42bb3e42b00a19</guid>
-      <comments>https://getcomics.org/other-comics/invincible-universe-battle-beast-11-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 21:18:58 +0000</pubDate>
-      <category>Other Comics</category>
-      <category>0-Day</category>
-      <category>Image Comics</category>
-      <category>Invincible Universe</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 82 MB&lt;/p&gt;
-&lt;p&gt;What... did you think they’d only fight for one issue?!&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/invincible-universe-battle-beast-11-2026/"&gt;Invincible Universe &amp;#8211; Battle Beast #11 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/other-comics/invincible-universe-battle-beast-11-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>401282</wp9:post-id>
     </item>
   </channel>
 </rss>
