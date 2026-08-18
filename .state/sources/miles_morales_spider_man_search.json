@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"a3ed7c9f4e91018240dc8c7821714158\"",
+  "etag": "W/\"e0bbd8080c4c041ba87a617a49a275bd\"",
   "items": [
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Miles Morales \u2013 Spider-Man #1 (2026)</title>\n\t\t<link>https://getcomics.org/marvel/miles-morales-spider-man-1-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/marvel/miles-morales-spider-man-1-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Wed, 12 Aug 2026 13:21:08 +0000</pubDate>\n\t\t\t\t<category>Marvel Comics</category>\n\t\t<category>0-Day</category>\n\t\t<category>Miles Morales - Spider-Man</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 62 MB&lt;/p&gt;\n&lt;p&gt;MILES MORALES IS BACK IN THE RED AND BLACK! SPIDER-MAN thinks he has it allllll handled: homework, super villains...a new school crush? No, no \u2013 Miles is focused on what matters: helping the good folks of Brooklyn. Friendly. Neighborhood. Spider-Manning at his best! But a vengeful villain from Jeff Morales' past with S.H.I.E.L.D. threatens to destroy not only Spider-Man \u2013 but the entire Morales family!&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/marvel/miles-morales-spider-man-1-2026/\"&gt;Miles Morales &amp;#8211; Spider-Man #1 (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/marvel/miles-morales-spider-man-1-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>403206</wp9:post-id>\t</item>\n\t\t",
@@ -19,10 +19,10 @@
     }
   ],
   "last_changed_at": "2026-08-13T04:51:38.244486Z",
-  "last_checked_at": "2026-08-17T06:57:27.071310Z",
+  "last_checked_at": "2026-08-18T07:38:27.493548Z",
   "last_error": null,
-  "last_modified": "Sun, 16 Aug 2026 14:42:15 GMT",
-  "last_success_at": "2026-08-17T06:57:27.071310Z",
+  "last_modified": "Mon, 17 Aug 2026 23:38:20 GMT",
+  "last_success_at": "2026-08-18T07:38:27.493548Z",
   "link": "https://getcomics.org/search/miles+morales+%e2%80%93+spider-man/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
