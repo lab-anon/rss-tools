@@ -1,11 +1,11 @@
 {
-  "etag": "W/\"e0bbd8080c4c041ba87a617a49a275bd\"",
+  "etag": "W/\"3b0506eb43a3c5d1461581b5b0fed034\"",
   "items": [],
   "last_changed_at": "2026-06-05T11:03:27.549309Z",
-  "last_checked_at": "2026-08-18T07:38:27.493548Z",
+  "last_checked_at": "2026-08-19T07:38:58.020941Z",
   "last_error": null,
-  "last_modified": "Mon, 17 Aug 2026 23:38:20 GMT",
-  "last_success_at": "2026-08-18T07:38:27.493548Z",
+  "last_modified": "Wed, 19 Aug 2026 06:13:29 GMT",
+  "last_success_at": "2026-08-19T07:38:58.020941Z",
   "link": "https://getcomics.org/search/christopher+chaos/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
