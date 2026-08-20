@@ -1,11 +1,11 @@
 {
-  "etag": "W/\"3b0506eb43a3c5d1461581b5b0fed034\"",
+  "etag": "W/\"2612fb626ff995aad1bc2cbd4252fe1c\"",
   "items": [],
   "last_changed_at": "2026-08-17T06:57:27.071310Z",
-  "last_checked_at": "2026-08-19T07:38:58.020941Z",
+  "last_checked_at": "2026-08-20T07:41:23.899179Z",
   "last_error": null,
-  "last_modified": "Wed, 19 Aug 2026 06:13:29 GMT",
-  "last_success_at": "2026-08-19T07:38:58.020941Z",
+  "last_modified": "Thu, 20 Aug 2026 07:09:56 GMT",
+  "last_success_at": "2026-08-20T07:41:23.899179Z",
   "link": "https://getcomics.org/search/house+slaughter/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
