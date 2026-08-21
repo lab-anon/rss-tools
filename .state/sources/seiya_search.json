@@ -2,10 +2,10 @@
   "etag": null,
   "items": [],
   "last_changed_at": "2026-07-20T15:36:19.326448Z",
-  "last_checked_at": "2026-08-21T21:25:43.470930Z",
-  "last_error": "Failed to fetch https://tomosmanga.com/search/seiya/feed/rss2/: HTTP 500",
+  "last_checked_at": "2026-08-21T22:26:10.080218Z",
+  "last_error": null,
   "last_modified": null,
-  "last_success_at": "2026-08-19T20:29:08.674984Z",
+  "last_success_at": "2026-08-21T22:26:10.080218Z",
   "link": "https://tomosmanga.com/search/seiya/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
