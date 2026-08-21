@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/ongoing/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>Ongoing feeds</description>
-    <lastBuildDate>Fri, 21 Aug 2026 15:34:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 16:35:29 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -102,26 +102,6 @@
       <wfw:commentRss>https://getcomics.org/other-comics/exquisite-corpses-complete-first-series-2026-fan-made-tpb/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp13:post-id>402219</wp13:post-id>
-    </item>
-    <item>
-      <title>Void Rivals #32 (2026)</title>
-      <link>https://getcomics.org/other-comics/void-rivals-32-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:c3a96a9a7e8130e66872f7755a39153083c1e1f884503b8a0e095458acbebd81</guid>
-      <comments>https://getcomics.org/other-comics/void-rivals-32-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Wed, 22 Jul 2026 16:05:59 +0000</pubDate>
-      <category>Other Comics</category>
-      <category>0-Day</category>
-      <category>Image Comics</category>
-      <category>Void Rivals</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 40 MB&lt;/p&gt;
-&lt;p&gt;In the aftermath of the Quintesson War, Darak and Solia are on the run and find themselves lost together, with danger looming all around.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/void-rivals-32-2026/"&gt;Void Rivals #32 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/other-comics/void-rivals-32-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp13:post-id>401810</wp13:post-id>
     </item>
   </channel>
 </rss>
