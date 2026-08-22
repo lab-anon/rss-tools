@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/supers_reading/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>Supers Reading feeds</description>
-    <lastBuildDate>Sat, 22 Aug 2026 22:23:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 23:21:46 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -127,26 +127,6 @@
       <wfw:commentRss>https://getcomics.org/marvel/ultimate-spider-man-by-jonathan-hickman-vol-4-one-last-day-tpb-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>402175</wp9:post-id>
-    </item>
-    <item>
-      <title>Ultimate X-Men Omnibus Vol. 3 (2026)</title>
-      <link>https://getcomics.org/marvel/ultimate-x-men-omnibus-vol-3-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:2099af3ba8557875f0987615c20663b3c6f071c3f60b2be7663105cdc6b40764</guid>
-      <comments>https://getcomics.org/marvel/ultimate-x-men-omnibus-vol-3-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Thu, 23 Jul 2026 23:00:08 +0000</pubDate>
-      <category>Marvel Comics</category>
-      <category>Non 0-Day</category>
-      <category>TPB</category>
-      <category>Ultimate X-Men</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 2.9 GB&lt;/p&gt;
-&lt;p&gt;If one man is capable of disrupting the carefully controlled world of Charles Xavier’s School for Gifted Youngsters, it’s Ultimate Cable! He comes from a tragic future, and his sinister secrets will shock the X-Men to their very core. He’s not the only refugee from tomorrow here today: Bishop is completing his own team of mutants, ready to carry on Charles Xaviers’ legacy. You’ll never guess who the new Ultimate X-Men are! But dark times are ahead as the evolutionary emperor known as Apocalypse arrives — and two more monstrous threats, who look eerily like Stryfe and Onslaught, rear their ugly heads! Plus: The X-Men are on a collision course with the Fantastic Four! And the end is nigh as Ultimatum strikes and a tidal wave sweeps through New York City — and Magneto is to blame! COLLECTING: Ultimate X-Men (2001) 75-100, Ultimate Wolverine vs. Hulk (2005) 1-6, Ultimate X-Men/Ultimate Fantastic Four Annual (2008) 1, Ultimate Fantastic Four/Ultimate X-Men Annual (2008) 1, Ultimatum (2008) 1-5, Ultimatum: X-Men Requiem (2009) 1&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/marvel/ultimate-x-men-omnibus-vol-3-2026/"&gt;Ultimate X-Men Omnibus Vol. 3 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/marvel/ultimate-x-men-omnibus-vol-3-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>402121</wp9:post-id>
     </item>
   </channel>
 </rss>
