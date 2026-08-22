@@ -1,20 +1,11 @@
 {
-  "etag": "W/\"9b8361a2c75659995195cc63b5ba2f89\"",
-  "items": [
-    {
-      "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Something Is Killing the Children #49 (2026)</title>\n\t\t<link>https://getcomics.org/other-comics/something-is-killing-the-children-49-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/other-comics/something-is-killing-the-children-49-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Wed, 22 Jul 2026 13:49:41 +0000</pubDate>\n\t\t\t\t<category>Other Comics</category>\n\t\t<category>0-Day</category>\n\t\t<category>Boom Studios</category>\n\t\t<category>Something Is Killing The Children</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 61 MB&lt;/p&gt;\n&lt;p&gt;It\u2019s the last issue before an unforgettable milestone for the award-winning series! Despite the odds stacked against her, Erica has successfully killed the monsters terrorizing Valmont Lodge \u2014 but at what cost? The House is seeking a status report now that the deed is done, but what will that mean for Jessica Slaughter? Prepare yourself as the Summer of Slaughter delivers a can\u2019t-miss issue in anticipation of the milestone issue #50!&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/other-comics/something-is-killing-the-children-49-2026/\"&gt;Something Is Killing the Children #49 (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/other-comics/something-is-killing-the-children-49-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>401882</wp9:post-id>\t</item>\n\t\t",
-      "link": "https://getcomics.org/other-comics/something-is-killing-the-children-49-2026/",
-      "normalized_link": "https://getcomics.org/other-comics/something-is-killing-the-children-49-2026",
-      "published_at": "2026-07-22T13:49:41Z",
-      "stable_id": "58fe0b5fda1412d81521e9865b67b7ee9f53e2e69d43856b8ead8ddca38ba80c",
-      "title": "Something Is Killing the Children #49 (2026)"
-    }
-  ],
-  "last_changed_at": "2026-07-22T15:04:50.128876Z",
-  "last_checked_at": "2026-08-21T07:43:15.898988Z",
+  "etag": "W/\"ed21bae40b3bed6e2a94eadceca15b0f\"",
+  "items": [],
+  "last_changed_at": "2026-08-22T08:31:15.733650Z",
+  "last_checked_at": "2026-08-22T08:31:15.733650Z",
   "last_error": null,
-  "last_modified": "Thu, 20 Aug 2026 23:53:14 GMT",
-  "last_success_at": "2026-08-21T07:43:15.898988Z",
+  "last_modified": "Sat, 22 Aug 2026 02:54:05 GMT",
+  "last_success_at": "2026-08-22T08:31:15.733650Z",
   "link": "https://getcomics.org/search/something+killing/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
