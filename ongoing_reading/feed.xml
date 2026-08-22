@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/ongoing_reading/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>Ongoing Reading feeds</description>
-    <lastBuildDate>Sat, 22 Aug 2026 18:31:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 19:22:55 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -306,23 +306,6 @@
       <wfw:commentRss>https://getcomics.org/other-comics/terminal-10-ultra-rare-advance-copy-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>402142</wp9:post-id>
-    </item>
-    <item>
-      <title>One Punch Man Tomos [01-37]</title>
-      <link>https://tomosmanga.com/descargar-manga-one-punch-man/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:7f38967ff519ba5ad651a5343934a5f110aa3c7cb3e9d024af0337ee7d87b0ca</guid>
-      <comments>https://tomosmanga.com/descargar-manga-one-punch-man/#comments</comments>
-      <dc:creator>TomosManga</dc:creator>
-      <pubDate>Thu, 23 Jul 2026 18:55:45 +0000</pubDate>
-      <category>En Publicación</category>
-      <category>Manga</category>
-      <category>Seinen</category>
-      <description>&lt;p&gt;SINOPSIS La historia tiene lugar en una metrópolis ficticia conocida como Ciudad Z, en Japón. El mundo se ve invadido por extraños monstruos que aparecen ... &lt;/p&gt;
-&lt;p class="read-more-container"&gt;&lt;a title="One Punch Man Tomos [01-37]" class="read-more button" href="https://tomosmanga.com/descargar-manga-one-punch-man/#more-479" aria-label="Leer más sobre One Punch Man Tomos [01-37]"&gt;Leer más&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;La entrada &lt;a href="https://tomosmanga.com/descargar-manga-one-punch-man/"&gt;One Punch Man Tomos [01-37]&lt;/a&gt; se publicó primero en &lt;a href="https://tomosmanga.com"&gt;Tomos Manga&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://tomosmanga.com/descargar-manga-one-punch-man/feed/</wfw:commentRss>
-      <slash:comments>102</slash:comments>
     </item>
   </channel>
 </rss>
