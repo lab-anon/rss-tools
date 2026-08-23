@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/ongoing_reading/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>Ongoing Reading feeds</description>
-    <lastBuildDate>Sun, 23 Aug 2026 03:03:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 04:38:01 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -266,26 +266,6 @@
       <wfw:commentRss>https://getcomics.org/other-comics/terminal-1-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>401804</wp9:post-id>
-    </item>
-    <item>
-      <title>Terminal #2 (Ultra Rare Advanced Edition Blind Bag) (2026)</title>
-      <link>https://getcomics.org/other-comics/terminal-2-ultra-rare-advanced-edition-blind-bag-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:70009cf20b402631ceedfc967dd9be2392da1dd73ec81a3da5617ac4318e0b0c</guid>
-      <comments>https://getcomics.org/other-comics/terminal-2-ultra-rare-advanced-edition-blind-bag-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Fri, 24 Jul 2026 04:11:59 +0000</pubDate>
-      <category>Other Comics</category>
-      <category>0-Day</category>
-      <category>Image Comics</category>
-      <category>Terminal</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 110 MB&lt;/p&gt;
-&lt;p&gt;Terminal #2 (Ultra Rare Advanced Edition Blind Bag) (2026)&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/terminal-2-ultra-rare-advanced-edition-blind-bag-2026/"&gt;Terminal #2 (Ultra Rare Advanced Edition Blind Bag) (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/other-comics/terminal-2-ultra-rare-advanced-edition-blind-bag-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>402147</wp9:post-id>
     </item>
   </channel>
 </rss>
