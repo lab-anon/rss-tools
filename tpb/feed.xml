@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/tpb/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>TPB feeds</description>
-    <lastBuildDate>Sat, 22 Aug 2026 23:21:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 01:25:48 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -2276,26 +2276,6 @@
       <wfw:commentRss>https://getcomics.org/marvel/captain-america-by-chip-zadarsky-vol-1-our-secret-wars-tpb-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>402170</wp9:post-id>
-    </item>
-    <item>
-      <title>American Vampire Omnibus Vol. 1 (2018)</title>
-      <link>https://getcomics.org/dc/american-vampire-omnibus-vol-1-2018/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:adf4b024b9afb02d61b9b2e7d2a92a4f29eca164acd88566f9eb4eb5a697a2f4</guid>
-      <comments>https://getcomics.org/dc/american-vampire-omnibus-vol-1-2018/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Fri, 24 Jul 2026 00:45:51 +0000</pubDate>
-      <category>DC Comics</category>
-      <category>American Vampire</category>
-      <category>Non 0-Day</category>
-      <category>TPB</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2018 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 2.5 GB&lt;/p&gt;
-&lt;p&gt;Cunning, ruthless, and rattlesnake mean, Skinner Sweet is a thoroughly corrupt gunslinger. When European vampires come to the American Old West, they turn Skinner into a true monster: the very first American vampire. Skinner becomes something entirely new--a stronger breed of vampire immune to sunlight, who hates every last one of his aristocratic European ancestors. Follow this dark symbol of the New World's bloody path as he moves through American history's most distinctive eras--from the Wild West in the 1880s to the glamorous classic Hollywood of the 1920s to mobster-run Las Vegas in the 1930s, and beyond. But as Skinner's war with his predecessors inspires a mysterious society to rise and fight them both, his most upsetting decision might involve the first person he chooses to join his vampiric ranks: a struggling young movie star named Pearl Jones. American Vampire Omnibus Vol. 1 collects the beginning of the celebrated series by Scott Snyder (Batman, Dark Nights: Metal) with art by Rafael Albuquerque (Detective Comics,Batwoman). This volume also includes two miniseries featuring art by Sean Murphy (The Wake) and Dustin Nguyen (Batman Beyond), plus Skinner Sweet's origin story by iconic horror legend Stephen King (It, The Shining). Collects American Vampire #1-27, American Vampire: Survival of the Fittest #1-5, and American Vampire: Lord of Nightmares #1-5.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/dc/american-vampire-omnibus-vol-1-2018/"&gt;American Vampire Omnibus Vol. 1 (2018)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/dc/american-vampire-omnibus-vol-1-2018/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>402139</wp9:post-id>
     </item>
   </channel>
 </rss>
