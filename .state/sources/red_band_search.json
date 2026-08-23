@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"ed21bae40b3bed6e2a94eadceca15b0f\"",
+  "etag": "W/\"667f76900ed2d022e472b4f0b7bca4d5\"",
   "items": [
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Alias \u2013 Red Band #5 (2026)</title>\n\t\t<link>https://getcomics.org/marvel/alias-red-band-5-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/marvel/alias-red-band-5-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Sun, 02 Aug 2026 02:05:00 +0000</pubDate>\n\t\t\t\t<category>Marvel Comics</category>\n\t\t<category>0-Day</category>\n\t\t<category>Alias</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 22 MB&lt;/p&gt;\n&lt;p&gt;A DANCE WITH THE DEVIL! Jessica and Typhoid Mary are closer than ever to capturing the mysterious \u201cBoss\u201d unleashing demons upon Hell's Kitchen. But as their investigation reaches its boiling point, Mary grows more reckless and the rift between Jessica and Luke widens as the police begin to close in. Can Jessica and Mary unmask the monster before Jessica's world implodes?&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/marvel/alias-red-band-5-2026/\"&gt;Alias &amp;#8211; Red Band #5 (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/marvel/alias-red-band-5-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>402261</wp9:post-id>\t</item>\n\t\t",
@@ -27,10 +27,10 @@
     }
   ],
   "last_changed_at": "2026-08-02T21:59:22.013287Z",
-  "last_checked_at": "2026-08-22T08:31:15.733650Z",
+  "last_checked_at": "2026-08-23T08:31:27.288399Z",
   "last_error": null,
-  "last_modified": "Sat, 22 Aug 2026 02:54:05 GMT",
-  "last_success_at": "2026-08-22T08:31:15.733650Z",
+  "last_modified": "Sun, 23 Aug 2026 08:00:53 GMT",
+  "last_success_at": "2026-08-23T08:31:27.288399Z",
   "link": "https://getcomics.org/search/red+band/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
