@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/supers_reading/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>Supers Reading feeds</description>
-    <lastBuildDate>Mon, 24 Aug 2026 01:22:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 03:06:38 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -107,26 +107,6 @@
       <wfw:commentRss>https://getcomics.org/marvel/ultimate-impact-reborn-3-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>402297</wp9:post-id>
-    </item>
-    <item>
-      <title>Ultimate Spider-Man By Jonathan Hickman Vol. 4 – One Last Day (TPB) (2026)</title>
-      <link>https://getcomics.org/marvel/ultimate-spider-man-by-jonathan-hickman-vol-4-one-last-day-tpb-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:9d90448eefb2aed6cdacdc9046eabbc457300c970e04a2b5df75029d932bf759</guid>
-      <comments>https://getcomics.org/marvel/ultimate-spider-man-by-jonathan-hickman-vol-4-one-last-day-tpb-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Sat, 25 Jul 2026 01:26:36 +0000</pubDate>
-      <category>Marvel Comics</category>
-      <category>Non 0-Day</category>
-      <category>TPB</category>
-      <category>Ultimate Spider-man</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 902 MB&lt;/p&gt;
-&lt;p&gt;Brace yourself for Fisk vs. Mr. Negative vs. Mysterio — with Spider-Man and his allies caught in the middle! Will the Sinister Six destroy New York before they destroy each other?! Plus: Harry Osborn lives! And Peter and Mary Jane share another fateful dinner with Harry and Gwen. COLLECTING: Ultimate Spider-Man (2024) #19-24, Ulimate Universe: Finale (2026) #1 (Spider-Man story)&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/marvel/ultimate-spider-man-by-jonathan-hickman-vol-4-one-last-day-tpb-2026/"&gt;Ultimate Spider-Man By Jonathan Hickman Vol. 4 &amp;#8211; One Last Day (TPB) (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/marvel/ultimate-spider-man-by-jonathan-hickman-vol-4-one-last-day-tpb-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>402175</wp9:post-id>
     </item>
   </channel>
 </rss>
