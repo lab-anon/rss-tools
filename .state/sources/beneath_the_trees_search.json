@@ -1,11 +1,11 @@
 {
-  "etag": "W/\"4500d6ed67dd22a4ff507145929317c9\"",
+  "etag": "W/\"a54cda1208c036cd38cbc9da51729008\"",
   "items": [],
   "last_changed_at": "2026-06-04T18:43:07.305130Z",
-  "last_checked_at": "2026-08-24T08:49:30.383749Z",
+  "last_checked_at": "2026-08-25T09:36:08.303687Z",
   "last_error": null,
-  "last_modified": "Mon, 24 Aug 2026 01:43:25 GMT",
-  "last_success_at": "2026-08-24T08:49:30.383749Z",
+  "last_modified": "Tue, 25 Aug 2026 09:29:34 GMT",
+  "last_success_at": "2026-08-25T09:36:08.303687Z",
   "link": "https://getcomics.org/search/beneath+the+trees/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
