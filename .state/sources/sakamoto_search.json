@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"cf4c344955cacfb74ac390f62c9937ab\"",
+  "etag": null,
   "items": [
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\">\n\t\t<title>Sakamoto Days Tomos [01-28]</title>\n\t\t<link>https://tomosmanga.com/manga-sakamoto-days/</link>\n\t\t\t\t\t<comments>https://tomosmanga.com/manga-sakamoto-days/#comments</comments>\n\t\t\n\t\t<dc:creator>TomosManga</dc:creator>\n\t\t<pubDate>Sat, 08 Aug 2026 22:21:33 +0000</pubDate>\n\t\t\t\t<category>En Publicaci\u00f3n</category>\n\t\t<category>Manga</category>\n\t\t<category>Shonen</category>\n\t\t<guid isPermaLink=\"false\">https://tomosmanga.com/?p=4165</guid>\n\n\t\t\t\t\t<description>&lt;p&gt;SINOPSIS Taro Sakamoto era conocido como el sicario m\u00e1s fuerte, temido por los villanos y un ejemplo a seguir para el resto de sicarios. Sin ... &lt;/p&gt;\n&lt;p class=\"read-more-container\"&gt;&lt;a title=\"Sakamoto Days Tomos [01-28]\" class=\"read-more button\" href=\"https://tomosmanga.com/manga-sakamoto-days/#more-4165\" aria-label=\"Leer m\u00e1s sobre Sakamoto Days Tomos [01-28]\"&gt;Leer m\u00e1s&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;La entrada &lt;a href=\"https://tomosmanga.com/manga-sakamoto-days/\"&gt;Sakamoto Days Tomos [01-28]&lt;/a&gt; se public\u00f3 primero en &lt;a href=\"https://tomosmanga.com\"&gt;Tomos Manga&lt;/a&gt;.&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://tomosmanga.com/manga-sakamoto-days/feed/</wfw:commentRss>\n\t\t\t<slash:comments>63</slash:comments>\n\t\t\n\t\t\n\t\t\t</item>\n\t\t",
@@ -11,10 +11,10 @@
     }
   ],
   "last_changed_at": "2026-08-09T15:32:44.142769Z",
-  "last_checked_at": "2026-08-24T03:04:23.162006Z",
+  "last_checked_at": "2026-08-25T03:54:32.433318Z",
   "last_error": null,
-  "last_modified": "Sun, 23 Aug 2026 13:57:35 GMT",
-  "last_success_at": "2026-08-24T03:04:23.162006Z",
+  "last_modified": null,
+  "last_success_at": "2026-08-25T03:54:32.433318Z",
   "link": "https://tomosmanga.com/search/sakamoto/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
