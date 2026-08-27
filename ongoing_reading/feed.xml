@@ -5,9 +5,29 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/ongoing_reading/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>Ongoing Reading feeds</description>
-    <lastBuildDate>Thu, 27 Aug 2026 04:21:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 16:18:07 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
+    <item>
+      <title>Terminal #2 (2026)</title>
+      <link>https://getcomics.org/other-comics/terminal-2-2026/</link>
+      <guid isPermaLink="false">rss-tools:link-sha256:30076b73e80f28cb7f9350d7e4717e4e97ce4ffd1dba4261fd8d8c446f19fd6d</guid>
+      <comments>https://getcomics.org/other-comics/terminal-2-2026/#respond</comments>
+      <dc:creator>The Comic Guy</dc:creator>
+      <pubDate>Wed, 26 Aug 2026 12:36:18 +0000</pubDate>
+      <category>Other Comics</category>
+      <category>0-Day</category>
+      <category>Image Comics</category>
+      <category>Terminal</category>
+      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 53 MB&lt;/p&gt;
+&lt;p&gt;The world’s most important technological visionary has been targeted for death in the secret super powered conflict that might doom the world. And Marilyn Howe’s decision will change the shape of this war...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/terminal-2-2026/"&gt;Terminal #2 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
+</description>
+      <wfw:commentRss>https://getcomics.org/other-comics/terminal-2-2026/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <wp9:post-id>404515</wp9:post-id>
+    </item>
     <item>
       <title>Marvel Multiverse – Secret Wars Expansion (2026)</title>
       <link>https://getcomics.org/marvel/marvel-multiverse-secret-wars-expansion-2026/</link>
