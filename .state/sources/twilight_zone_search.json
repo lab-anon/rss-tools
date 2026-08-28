@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"932ee6588ae64ed8d45b746cedf734ff\"",
+  "etag": "W/\"6b0cddb130b1110d5036c265a8f555ca\"",
   "items": [
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>The Twilight Zone #10 (2026)</title>\n\t\t<link>https://getcomics.org/other-comics/the-twilight-zone-10-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/other-comics/the-twilight-zone-10-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Wed, 12 Aug 2026 09:02:15 +0000</pubDate>\n\t\t\t\t<category>Other Comics</category>\n\t\t<category>0-Day</category>\n\t\t<category>IDW</category>\n\t\t<category>The Twilight Zone</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 55 MB&lt;/p&gt;\n&lt;p&gt;Listen closely... but don\u2019t trust all that you hear, or you may fall victim to the same fate as our latest protagonists. Entering a fraternity basement is risky business on the best of days, but when our two young heroines venture down on a dare, they discover more than the remnants of past hazing rituals. They find a labyrinthine Cold War bunker... and it\u2019s not empty. Whispered secrets and paranoia of a bygone age live on in this forgotten place. Would you set them free? Or trap them forever... in the Twilight Zone?&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/other-comics/the-twilight-zone-10-2026/\"&gt;The Twilight Zone #10 (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/other-comics/the-twilight-zone-10-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>403299</wp9:post-id>\t</item>\n\t\t",
@@ -11,10 +11,10 @@
     }
   ],
   "last_changed_at": "2026-08-12T16:03:52.880451Z",
-  "last_checked_at": "2026-08-26T22:49:59.996904Z",
+  "last_checked_at": "2026-08-28T01:19:24.666974Z",
   "last_error": null,
-  "last_modified": "Wed, 26 Aug 2026 22:47:38 GMT",
-  "last_success_at": "2026-08-26T22:49:59.996904Z",
+  "last_modified": "Thu, 27 Aug 2026 23:45:04 GMT",
+  "last_success_at": "2026-08-28T01:19:24.666974Z",
   "link": "https://getcomics.org/search/twilight+zone/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
