@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"c03f2ff844bd76bb6ac0c839bc39a124\"",
+  "etag": "W/\"c058187e5e28aec944b6991d05bba372\"",
   "items": [
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Terminal #2 (2026)</title>\n\t\t<link>https://getcomics.org/other-comics/terminal-2-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/other-comics/terminal-2-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Wed, 26 Aug 2026 12:36:18 +0000</pubDate>\n\t\t\t\t<category>Other Comics</category>\n\t\t<category>0-Day</category>\n\t\t<category>Image Comics</category>\n\t\t<category>Terminal</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 53 MB&lt;/p&gt;\n&lt;p&gt;The world\u2019s most important technological visionary has been targeted for death in the secret super powered conflict that might doom the world. And Marilyn Howe\u2019s decision will change the shape of this war...&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/other-comics/terminal-2-2026/\"&gt;Terminal #2 (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/other-comics/terminal-2-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>404515</wp9:post-id>\t</item>\n\t\t",
@@ -19,10 +19,10 @@
     }
   ],
   "last_changed_at": "2026-08-27T16:10:45.943048Z",
-  "last_checked_at": "2026-08-27T16:10:45.943048Z",
+  "last_checked_at": "2026-08-28T23:27:39.367055Z",
   "last_error": null,
-  "last_modified": "Thu, 27 Aug 2026 13:54:01 GMT",
-  "last_success_at": "2026-08-27T16:10:45.943048Z",
+  "last_modified": "Fri, 28 Aug 2026 22:43:48 GMT",
+  "last_success_at": "2026-08-28T23:27:39.367055Z",
   "link": "https://getcomics.org/search/terminator/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",

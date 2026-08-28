@@ -1,6 +1,14 @@
 {
-  "etag": "W/\"c03f2ff844bd76bb6ac0c839bc39a124\"",
+  "etag": "W/\"c058187e5e28aec944b6991d05bba372\"",
   "items": [
+    {
+      "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Void Rivals #33 (2026)</title>\n\t\t<link>https://getcomics.org/other-comics/void-rivals-33-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/other-comics/void-rivals-33-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Thu, 27 Aug 2026 22:59:53 +0000</pubDate>\n\t\t\t\t<category>Other Comics</category>\n\t\t<category>0-Day</category>\n\t\t<category>Image Comics</category>\n\t\t<category>Void Rivals</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 53 MB&lt;/p&gt;\n&lt;p&gt;Darak and Solila find themselves face-to-face with none other than ROM! Can you believe it?!&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/other-comics/void-rivals-33-2026/\"&gt;Void Rivals #33 (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/other-comics/void-rivals-33-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>404521</wp9:post-id>\t</item>\n\t\t",
+      "link": "https://getcomics.org/other-comics/void-rivals-33-2026/",
+      "normalized_link": "https://getcomics.org/other-comics/void-rivals-33-2026",
+      "published_at": "2026-08-27T22:59:53Z",
+      "stable_id": "03a21bb3c3df6030fe54f09616099f6eaa728349c8753e85f1256fa478334f65",
+      "title": "Void Rivals #33 (2026)"
+    },
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Void Rivals Vol. 5 \u2013 Quintesson War (TPB) (2026)</title>\n\t\t<link>https://getcomics.org/other-comics/void-rivals-vol-5-quintesson-war-tpb-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/other-comics/void-rivals-vol-5-quintesson-war-tpb-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Sun, 23 Aug 2026 08:00:53 +0000</pubDate>\n\t\t\t\t<category>Other Comics</category>\n\t\t<category>Image Comics</category>\n\t\t<category>Non 0-Day</category>\n\t\t<category>TPB</category>\n\t\t<category>Void Rivals</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 410 MB&lt;/p&gt;\n&lt;p&gt;THE QUINTESSON WAR IS HERE\u2014AND NOTHING WILL BE THE SAME! A new era of VOID RIVALS begins...but who will survive? Just as Solila and Darak think the worst has come...the Quintessons arrive in the Sacred Ring to wage all-out war. Collects VOID RIVALS #25-30&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/other-comics/void-rivals-vol-5-quintesson-war-tpb-2026/\"&gt;Void Rivals Vol. 5 &amp;#8211; Quintesson War (TPB) (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/other-comics/void-rivals-vol-5-quintesson-war-tpb-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>404317</wp9:post-id>\t</item>\n\t\t",
       "link": "https://getcomics.org/other-comics/void-rivals-vol-5-quintesson-war-tpb-2026/",
@@ -10,11 +18,11 @@
       "title": "Void Rivals Vol. 5 \u2013 Quintesson War (TPB) (2026)"
     }
   ],
-  "last_changed_at": "2026-08-23T08:31:27.288399Z",
-  "last_checked_at": "2026-08-27T16:10:45.943048Z",
+  "last_changed_at": "2026-08-28T23:27:39.367055Z",
+  "last_checked_at": "2026-08-28T23:27:39.367055Z",
   "last_error": null,
-  "last_modified": "Thu, 27 Aug 2026 13:54:01 GMT",
-  "last_success_at": "2026-08-27T16:10:45.943048Z",
+  "last_modified": "Fri, 28 Aug 2026 22:43:48 GMT",
+  "last_success_at": "2026-08-28T23:27:39.367055Z",
   "link": "https://getcomics.org/search/void+rivals/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
