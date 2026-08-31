@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"ab222016d19f30a870ea8c84b3e8407e\"",
+  "etag": "W/\"292ae269e48c1e96a1b07c2eaaed348c\"",
   "items": [
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Ultimate OZ Universe Vol. 2 \u2013 Into the Outerlands (2026)</title>\n\t\t<link>https://getcomics.org/other-comics/ultimate-oz-universe-vol-2-into-the-outerlands-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/other-comics/ultimate-oz-universe-vol-2-into-the-outerlands-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Wed, 26 Aug 2026 15:16:29 +0000</pubDate>\n\t\t\t\t<category>Other Comics</category>\n\t\t<category>0-Day</category>\n\t\t<category>AWA Studios</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 449 MB&lt;/p&gt;\n&lt;p&gt;INTO THE OUTERLANDS is the next chapter in the ULTIMATE OZ UNIVERSE. A sweeping continuation that expands the map, deepens the mythology, and sets the stage for the future of OZ through two heroines on parallel paths: Dorothy and Princess Ozma.&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/other-comics/ultimate-oz-universe-vol-2-into-the-outerlands-2026/\"&gt;Ultimate OZ Universe Vol. 2 &amp;#8211; Into the Outerlands (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/other-comics/ultimate-oz-universe-vol-2-into-the-outerlands-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>404722</wp9:post-id>\t</item>\n\t\t",
@@ -43,10 +43,10 @@
     }
   ],
   "last_changed_at": "2026-08-28T23:27:39.367055Z",
-  "last_checked_at": "2026-08-30T04:12:57.449382Z",
+  "last_checked_at": "2026-08-31T08:14:42.952858Z",
   "last_error": null,
-  "last_modified": "Sun, 30 Aug 2026 01:06:33 GMT",
-  "last_success_at": "2026-08-30T04:12:57.449382Z",
+  "last_modified": "Mon, 31 Aug 2026 02:00:31 GMT",
+  "last_success_at": "2026-08-31T08:14:42.952858Z",
   "link": "https://getcomics.org/search/ultimate/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
