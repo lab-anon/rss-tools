@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/supers/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>Supers feeds</description>
-    <lastBuildDate>Tue, 01 Sep 2026 01:02:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 07:26:29 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -88,25 +88,6 @@
       <wfw:commentRss>https://getcomics.org/marvel/miles-morales-spider-man-by-cody-ziglar-omnibus-2026-fan-made/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>402669</wp9:post-id>
-    </item>
-    <item>
-      <title>Alias – Red Band #5 (2026)</title>
-      <link>https://getcomics.org/marvel/alias-red-band-5-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:6bc3ea1118ca662ad8836fc7ed40dc447fd45253dda0316e7caf5b4001493593</guid>
-      <comments>https://getcomics.org/marvel/alias-red-band-5-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Sun, 02 Aug 2026 02:05:00 +0000</pubDate>
-      <category>Marvel Comics</category>
-      <category>0-Day</category>
-      <category>Alias</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 22 MB&lt;/p&gt;
-&lt;p&gt;A DANCE WITH THE DEVIL! Jessica and Typhoid Mary are closer than ever to capturing the mysterious “Boss” unleashing demons upon Hell's Kitchen. But as their investigation reaches its boiling point, Mary grows more reckless and the rift between Jessica and Luke widens as the police begin to close in. Can Jessica and Mary unmask the monster before Jessica's world implodes?&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/marvel/alias-red-band-5-2026/"&gt;Alias &amp;#8211; Red Band #5 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/marvel/alias-red-band-5-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>402261</wp9:post-id>
     </item>
   </channel>
 </rss>
