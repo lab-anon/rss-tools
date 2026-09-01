@@ -2,10 +2,10 @@
   "etag": null,
   "items": [],
   "last_changed_at": "2026-07-20T15:36:19.326448Z",
-  "last_checked_at": "2026-09-01T07:25:03.391752Z",
-  "last_error": "mismatched tag: line 93, column 2",
+  "last_checked_at": "2026-09-01T13:11:57.097558Z",
+  "last_error": null,
   "last_modified": null,
-  "last_success_at": "2026-08-30T04:12:57.449382Z",
+  "last_success_at": "2026-09-01T13:11:57.097558Z",
   "link": "https://tomosmanga.com/search/berserk/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
