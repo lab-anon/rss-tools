@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"c0b6350d937d12e02e87cbf498532064\"",
+  "etag": "W/\"1f4a2fa471ebaa46f3e44555c04c0618\"",
   "items": [
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>The Twilight Zone \u2013 Stories from the Fifth Dimension (2026)</title>\n\t\t<link>https://getcomics.org/other-comics/the-twilight-zone-stories-from-the-fifth-dimension-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/other-comics/the-twilight-zone-stories-from-the-fifth-dimension-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Sun, 06 Sep 2026 13:03:11 +0000</pubDate>\n\t\t\t\t<category>Other Comics</category>\n\t\t<category>0-Day</category>\n\t\t<category>IDW</category>\n\t\t<category>The Twilight Zone</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 257 MB&lt;/p&gt;\n&lt;p&gt;Each issue is a new tale in the vein of the iconic original television series that\u2019s captivated audiences for over 60 years. And like the show, these stories will be revealed in terrifying black and white! These stand-alone 22-page stories are a spiritual sixth season of the original show. All-star creative teams tell the tales of billionaires, scientists, families, and knights as they journey to island paradises, bitter battlefields, and the farthest reaches of outer space.&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/other-comics/the-twilight-zone-stories-from-the-fifth-dimension-2026/\"&gt;The Twilight Zone &amp;#8211; Stories from the Fifth Dimension (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/other-comics/the-twilight-zone-stories-from-the-fifth-dimension-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>405415</wp9:post-id>\t</item>\n\t\t",
@@ -19,10 +19,10 @@
     }
   ],
   "last_changed_at": "2026-09-07T03:26:34.309458Z",
-  "last_checked_at": "2026-09-09T08:45:31.136325Z",
+  "last_checked_at": "2026-09-10T13:21:48.904369Z",
   "last_error": null,
-  "last_modified": "Wed, 09 Sep 2026 08:37:41 GMT",
-  "last_success_at": "2026-09-09T08:45:31.136325Z",
+  "last_modified": "Thu, 10 Sep 2026 09:03:27 GMT",
+  "last_success_at": "2026-09-10T13:21:48.904369Z",
   "link": "https://getcomics.org/search/twilight+zone/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
