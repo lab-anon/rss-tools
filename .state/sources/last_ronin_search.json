@@ -1,11 +1,11 @@
 {
-  "etag": "W/\"a4815bfd2343227052008841ad27a3f5\"",
+  "etag": "W/\"d49089888f49c4ca08e542135a67dfd7\"",
   "items": [],
   "last_changed_at": "2026-08-15T23:21:07.502356Z",
-  "last_checked_at": "2026-09-09T23:00:24.012255Z",
+  "last_checked_at": "2026-09-11T23:55:57.861124Z",
   "last_error": null,
-  "last_modified": "Wed, 09 Sep 2026 15:33:45 GMT",
-  "last_success_at": "2026-09-09T23:00:24.012255Z",
+  "last_modified": "Fri, 11 Sep 2026 23:29:57 GMT",
+  "last_success_at": "2026-09-11T23:55:57.861124Z",
   "link": "https://getcomics.org/search/last+ronin/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
