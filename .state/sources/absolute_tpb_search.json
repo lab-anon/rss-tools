@@ -1,11 +1,20 @@
 {
-  "etag": "W/\"46f15fbdffd93932af822dad62bdfecf\"",
-  "items": [],
-  "last_changed_at": "2026-08-22T08:31:15.733650Z",
-  "last_checked_at": "2026-09-10T03:34:41.556844Z",
+  "etag": "W/\"b00f9b1c4651893fe4365dd75205b2a6\"",
+  "items": [
+    {
+      "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Absolute Batman Vol. 3 \u2013 Devil\u2019s Workshop (TPB) (2026)</title>\n\t\t<link>https://getcomics.org/dc/absolute-batman-vol-3-devils-workshop-tpb-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/dc/absolute-batman-vol-3-devils-workshop-tpb-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Thu, 10 Sep 2026 07:49:54 +0000</pubDate>\n\t\t\t\t<category>DC Comics</category>\n\t\t<category>Absolute Batman</category>\n\t\t<category>Batman</category>\n\t\t<category>Non 0-Day</category>\n\t\t<category>TPB</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 254 MB&lt;/p&gt;\n&lt;p&gt;Batman won his explosive battle with Bane, but his friends will never be the same \u2014 and he might not be able to help them, even if he crosses worlds and enlists the help of a god to do it. Meanwhile, another of Ark M's residents will be unleashed on Gotham. And the biggest question of all still remains\u2026 what is the true identity of the man behind everything? Legendary artist Jock reunites with writer Scott Snyder to tell one version of the story Alfred\u2019s been chasing for years, and a one-shot explores the origins of Ark M! Volume 3 collects the Absolute Batman 2025 Annual, Absolute Batman: Ark M, and Absolute Batman #15-18.&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/dc/absolute-batman-vol-3-devils-workshop-tpb-2026/\"&gt;Absolute Batman Vol. 3 &amp;#8211; Devil&amp;#8217;s Workshop (TPB) (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/dc/absolute-batman-vol-3-devils-workshop-tpb-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>405831</wp9:post-id>\t</item>\n\t\t",
+      "link": "https://getcomics.org/dc/absolute-batman-vol-3-devils-workshop-tpb-2026/",
+      "normalized_link": "https://getcomics.org/dc/absolute-batman-vol-3-devils-workshop-tpb-2026",
+      "published_at": "2026-09-10T07:49:54Z",
+      "stable_id": "224d5f522f444219b27eb581136be2474e65ce9c7c4a8c456c7beb065ba60b3b",
+      "title": "Absolute Batman Vol. 3 \u2013 Devil\u2019s Workshop (TPB) (2026)"
+    }
+  ],
+  "last_changed_at": "2026-09-11T05:40:53.838743Z",
+  "last_checked_at": "2026-09-11T05:40:53.838743Z",
   "last_error": null,
-  "last_modified": "Wed, 09 Sep 2026 23:17:08 GMT",
-  "last_success_at": "2026-09-10T03:34:41.556844Z",
+  "last_modified": "Thu, 10 Sep 2026 14:31:17 GMT",
+  "last_success_at": "2026-09-11T05:40:53.838743Z",
   "link": "https://getcomics.org/search/absolute+tpb/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
