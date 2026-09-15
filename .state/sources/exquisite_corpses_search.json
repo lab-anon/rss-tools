@@ -1,11 +1,20 @@
 {
-  "etag": "W/\"002d1f1756f41efe8a17168815e8b144\"",
-  "items": [],
-  "last_changed_at": "2026-09-12T08:27:22.910643Z",
-  "last_checked_at": "2026-09-14T12:05:50.161683Z",
+  "etag": "W/\"9bccddf0c02c967d5efabe0ff93a8b7a\"",
+  "items": [
+    {
+      "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Exquisite Corpses Vol. 3 (TPB) (2026)</title>\n\t\t<link>https://getcomics.org/other-comics/exquisite-corpses-vol-3-tpb-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/other-comics/exquisite-corpses-vol-3-tpb-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Tue, 15 Sep 2026 07:27:19 +0000</pubDate>\n\t\t\t\t<category>Other Comics</category>\n\t\t<category>Exquisite Corpses</category>\n\t\t<category>Image Comics</category>\n\t\t<category>Non 0-Day</category>\n\t\t<category>TPB</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 824 MB&lt;/p&gt;\n&lt;p&gt;\u201cLyrical in its brutality and mesmerizing in its chaos, Exquisite Corpses transforms a quiet town into a stage for elegant carnage, as a wonderfully twisted menagerie of killers descends like a fever dream, blending Battle Royale with The Silence of the Lambs.\u201d\u2014Geoff Johns (Geiger, Green Lantern) Trick-or-treating. Clocking in for your shift at work. Going to the annual Halloween party down at the Pit. For the citizens of Oak Valley, Maine, any one of these activities could spell a gruesome death as twelve of the most dangerous killers in the world turn their sleepy little town into the playing field for a game that will decide the fate of the entire country for years to come. As the sun begins to rise on the unlucky town chosen as this year\u2019s arena, the last remaining killers gather to determine the winner. But the civilians of Oak Valley have been pushed to their limits, and with nothing left to lose, they\u2019re not going to let the powers-that-be play the game by their rules any longer\u2026 JAMES TYNION IV (THE DEPARTMENT OF TRUTH) and MICHAEL WALSH (THE SILVER COIN) are joined by TYLER BOSS (YOU\u2019LL DO BAD THINGS), JORDIE BELLAIRE (REDLANDS), CHE GRAYSON (Dark Spaces: Good Deeds), VALENTINE DE LANDRO (BITCH PLANET), MARIANNA IGNAZZI (Catwoman), and GAVIN FULLERTON (THE CLOSET) as they conclude the blood-soaked first season of the groundbreaking horror epic! Collects EXQUISITE CORPSES #9-13&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/other-comics/exquisite-corpses-vol-3-tpb-2026/\"&gt;Exquisite Corpses Vol. 3 (TPB) (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/other-comics/exquisite-corpses-vol-3-tpb-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>406363</wp9:post-id>\t</item>\n\t\t",
+      "link": "https://getcomics.org/other-comics/exquisite-corpses-vol-3-tpb-2026/",
+      "normalized_link": "https://getcomics.org/other-comics/exquisite-corpses-vol-3-tpb-2026",
+      "published_at": "2026-09-15T07:27:19Z",
+      "stable_id": "2728bc4ce9fb94397b4a26a0f5b0cdcf49748f3b584909e4e3703910f5c65ca7",
+      "title": "Exquisite Corpses Vol. 3 (TPB) (2026)"
+    }
+  ],
+  "last_changed_at": "2026-09-15T13:14:14.356386Z",
+  "last_checked_at": "2026-09-15T13:14:14.356386Z",
   "last_error": null,
-  "last_modified": "Mon, 14 Sep 2026 11:43:48 GMT",
-  "last_success_at": "2026-09-14T12:05:50.161683Z",
+  "last_modified": "Tue, 15 Sep 2026 12:14:34 GMT",
+  "last_success_at": "2026-09-15T13:14:14.356386Z",
   "link": "https://getcomics.org/search/exquisite+corpses/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",

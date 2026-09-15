@@ -1,11 +1,20 @@
 {
-  "etag": "W/\"002d1f1756f41efe8a17168815e8b144\"",
-  "items": [],
-  "last_changed_at": "2026-08-28T23:27:39.367055Z",
-  "last_checked_at": "2026-09-14T12:05:50.161683Z",
+  "etag": "W/\"9bccddf0c02c967d5efabe0ff93a8b7a\"",
+  "items": [
+    {
+      "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Universal Monsters \u2013 Blood of the Wolf Man #3 (2026)</title>\n\t\t<link>https://getcomics.org/other-comics/universal-monsters-blood-of-the-wolf-man-3-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/other-comics/universal-monsters-blood-of-the-wolf-man-3-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Mon, 14 Sep 2026 14:05:02 +0000</pubDate>\n\t\t\t\t<category>Other Comics</category>\n\t\t<category>0-Day</category>\n\t\t<category>Image Comics</category>\n\t\t<category>Universal Monsters</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 173 MB&lt;/p&gt;\n&lt;p&gt;CAN ANYONE STOP THE WOLF MAN? Henry Jaeger will do anything to protect his son... ANYTHING.&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/other-comics/universal-monsters-blood-of-the-wolf-man-3-2026/\"&gt;Universal Monsters &amp;#8211; Blood of the Wolf Man #3 (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/other-comics/universal-monsters-blood-of-the-wolf-man-3-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>404518</wp9:post-id>\t</item>\n\t\t",
+      "link": "https://getcomics.org/other-comics/universal-monsters-blood-of-the-wolf-man-3-2026/",
+      "normalized_link": "https://getcomics.org/other-comics/universal-monsters-blood-of-the-wolf-man-3-2026",
+      "published_at": "2026-09-14T14:05:02Z",
+      "stable_id": "2e6d48fcf6583a043566693e22e33657164f790153fe66e4c5d695461952ab44",
+      "title": "Universal Monsters \u2013 Blood of the Wolf Man #3 (2026)"
+    }
+  ],
+  "last_changed_at": "2026-09-15T13:14:14.356386Z",
+  "last_checked_at": "2026-09-15T13:14:14.356386Z",
   "last_error": null,
-  "last_modified": "Mon, 14 Sep 2026 11:43:48 GMT",
-  "last_success_at": "2026-09-14T12:05:50.161683Z",
+  "last_modified": "Tue, 15 Sep 2026 12:14:34 GMT",
+  "last_success_at": "2026-09-15T13:14:14.356386Z",
   "link": "https://getcomics.org/search/universal+monsters/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
