@@ -1,6 +1,14 @@
 {
-  "etag": "W/\"9bccddf0c02c967d5efabe0ff93a8b7a\"",
+  "etag": "W/\"cf8dc65ab9ff8ad893dcef5914cfd0a7\"",
   "items": [
+    {
+      "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Deathstroke \u2013 The Terminator #7 (2026)</title>\n\t\t<link>https://getcomics.org/dc/deathstroke-the-terminator-7-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/dc/deathstroke-the-terminator-7-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Wed, 16 Sep 2026 06:04:18 +0000</pubDate>\n\t\t\t\t<category>DC Comics</category>\n\t\t<category>0-Day</category>\n\t\t<category>Deathstroke</category>\n\t\t<category>Deathstroke - The Terminator</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 43 MB&lt;/p&gt;\n&lt;p&gt;ADELINE ASCENDS TO THE MANTLE OF DEATHSTROKE! After the shocking events of the last issue, Slade's ex, Adeline, has taken on a new role. Witness her climb through the ranks of the army to become the unstoppable killer she is today. Does the DCU stand a chance once caught in her crosshairs?&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/dc/deathstroke-the-terminator-7-2026/\"&gt;Deathstroke &amp;#8211; The Terminator #7 (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/dc/deathstroke-the-terminator-7-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>406180</wp9:post-id>\t</item>\n\t\t",
+      "link": "https://getcomics.org/dc/deathstroke-the-terminator-7-2026/",
+      "normalized_link": "https://getcomics.org/dc/deathstroke-the-terminator-7-2026",
+      "published_at": "2026-09-16T06:04:18Z",
+      "stable_id": "9bfef34d2c3c0b1490aca08506e3619a30f5badcfd5cb7c416d23ac5daa0b1e8",
+      "title": "Deathstroke \u2013 The Terminator #7 (2026)"
+    },
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Terminal #2 (2026)</title>\n\t\t<link>https://getcomics.org/other-comics/terminal-2-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/other-comics/terminal-2-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Wed, 26 Aug 2026 12:36:18 +0000</pubDate>\n\t\t\t\t<category>Other Comics</category>\n\t\t<category>0-Day</category>\n\t\t<category>Image Comics</category>\n\t\t<category>Terminal</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 165 MB&lt;/p&gt;\n&lt;p&gt;The world\u2019s most important technological visionary has been targeted for death in the secret super powered conflict that might doom the world. And Marilyn Howe\u2019s decision will change the shape of this war...&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/other-comics/terminal-2-2026/\"&gt;Terminal #2 (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/other-comics/terminal-2-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>404515</wp9:post-id>\t</item>\n\t\t",
       "link": "https://getcomics.org/other-comics/terminal-2-2026/",
@@ -18,11 +26,11 @@
       "title": "Deathstroke \u2013 The Terminator #6 (2026)"
     }
   ],
-  "last_changed_at": "2026-09-15T13:14:14.356386Z",
-  "last_checked_at": "2026-09-15T13:14:14.356386Z",
+  "last_changed_at": "2026-09-16T16:20:09.177221Z",
+  "last_checked_at": "2026-09-16T16:20:09.177221Z",
   "last_error": null,
-  "last_modified": "Tue, 15 Sep 2026 12:14:34 GMT",
-  "last_success_at": "2026-09-15T13:14:14.356386Z",
+  "last_modified": "Wed, 16 Sep 2026 15:15:37 GMT",
+  "last_success_at": "2026-09-16T16:20:09.177221Z",
   "link": "https://getcomics.org/search/terminator/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",

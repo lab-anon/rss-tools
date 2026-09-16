@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/tpb/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>TPB feeds</description>
-    <lastBuildDate>Wed, 16 Sep 2026 11:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 16:26:02 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -2890,27 +2890,6 @@
       <wfw:commentRss>https://getcomics.org/other-comics/resident-alien-vol-9-the-book-of-changes-tpb-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>403937</wp9:post-id>
-    </item>
-    <item>
-      <title>Green Arrow – The Golden Age Omnibus Vol. 1 (2026)</title>
-      <link>https://getcomics.org/dc/green-arrow-the-golden-age-omnibus-vol-1-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:10ffa961e17ac3967a2c07db022e6015a655996007b44f293da40b961c7a43ab</guid>
-      <comments>https://getcomics.org/dc/green-arrow-the-golden-age-omnibus-vol-1-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Mon, 17 Aug 2026 12:55:43 +0000</pubDate>
-      <category>DC Comics</category>
-      <category>Green Arrow</category>
-      <category>Non 0-Day</category>
-      <category>The Golden Age</category>
-      <category>TPB</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 547 MB&lt;/p&gt;
-&lt;p&gt;In 1941, during the peak of the Golden Age of Comics, the Green Arrow made his debut. Armed with only a bow and a quiver full of arrows, the Emerald Archer and his teen sidekick Speedy must battle corrupt gangsters, evil Nazis and deadly super-villains as a modern day Robin Hood. These adventures also included the debut of some of Oliver Queen and Roy Harper’s greatest weapons in their war on crime, such as the Arrowplane and an assortment of trick arrows! These groundbreaking classic stories—which started Green Arrow’s decades-spanning fandom—are gathered for the first time in this singular, expansive hardcover collection. GREEN ARROW: THE GOLDEN AGE OMNIBUS VOLUME ONE collects for the first time ever all of the Emerald Archer’s adventures from MORE FUN COMICS #73-107, ADVENTURE COMICS #103-117 and WORLD’S FINEST COMICS #7-28 and includes a foreword by legendary comics writer Roy Thomas.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/dc/green-arrow-the-golden-age-omnibus-vol-1-2026/"&gt;Green Arrow &amp;#8211; The Golden Age Omnibus Vol. 1 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/dc/green-arrow-the-golden-age-omnibus-vol-1-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>403690</wp9:post-id>
     </item>
   </channel>
 </rss>
