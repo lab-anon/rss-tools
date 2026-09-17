@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/ongoing_reading/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>Ongoing Reading feeds</description>
-    <lastBuildDate>Thu, 17 Sep 2026 07:17:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 13:07:22 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -224,26 +224,6 @@
       <wfw:commentRss>https://getcomics.org/marvel/alien-king-killer-5-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>403746</wp9:post-id>
-    </item>
-    <item>
-      <title>Resident Alien Vol. 9 – The Book of Changes (TPB) (2026)</title>
-      <link>https://getcomics.org/other-comics/resident-alien-vol-9-the-book-of-changes-tpb-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:13faa494fe13c6576ade6fefe449527665ddb3550cee3a18e08f2c5ca17dbbe5</guid>
-      <comments>https://getcomics.org/other-comics/resident-alien-vol-9-the-book-of-changes-tpb-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Tue, 18 Aug 2026 07:56:16 +0000</pubDate>
-      <category>Other Comics</category>
-      <category>Non 0-Day</category>
-      <category>Resident Alien</category>
-      <category>TPB</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 284 MB&lt;/p&gt;
-&lt;p&gt;And Harry’s life has turned upside down. He's gone from being a stranded alien to hiding out as a 'human' doctor who solves murders, and now he's a stay-at-home dad. He’s got the dad part down, but with the government still searching for him there's danger around every corner--and now that threat has extended to his daughter. To help protect his family, Harry has called in some help from back home, and Earth will never be the same. This phenomenal final volume of Resident Alien collects Resident Alien: The Book of Changes #1-#4 and the one-shot finale of the series “One More For The Road”!&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/resident-alien-vol-9-the-book-of-changes-tpb-2026/"&gt;Resident Alien Vol. 9 &amp;#8211; The Book of Changes (TPB) (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/other-comics/resident-alien-vol-9-the-book-of-changes-tpb-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>403937</wp9:post-id>
     </item>
   </channel>
 </rss>
