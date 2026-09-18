@@ -1,11 +1,11 @@
 {
-  "etag": "W/\"2e2c7b7789899d3cf5fe365d114949f9\"",
+  "etag": "W/\"9f91399d823914d05a2e56dfe405940e\"",
   "items": [],
   "last_changed_at": "2026-06-05T11:03:27.549309Z",
-  "last_checked_at": "2026-09-16T05:41:57.527370Z",
+  "last_checked_at": "2026-09-18T09:26:05.450160Z",
   "last_error": null,
-  "last_modified": "Wed, 16 Sep 2026 05:24:05 GMT",
-  "last_success_at": "2026-09-16T05:41:57.527370Z",
+  "last_modified": "Thu, 17 Sep 2026 23:25:38 GMT",
+  "last_success_at": "2026-09-18T09:26:05.450160Z",
   "link": "https://getcomics.org/search/league+of+extraordinary+gentlemen/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",

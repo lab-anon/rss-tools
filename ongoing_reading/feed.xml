@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/ongoing_reading/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>Ongoing Reading feeds</description>
-    <lastBuildDate>Fri, 18 Sep 2026 04:23:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 09:26:46 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -186,44 +186,6 @@
       <wfw:commentRss>https://getcomics.org/marvel/alien-vs-captain-america-tpb-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>404096</wp9:post-id>
-    </item>
-    <item>
-      <title>Deathstroke – The Terminator #6 (2026)</title>
-      <link>https://getcomics.org/dc/deathstroke-the-terminator-6-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:028dc6d6a8a0b1dbd4eb94ec76f81346eb30e6542a230884321c1ba97db1d731</guid>
-      <comments>https://getcomics.org/dc/deathstroke-the-terminator-6-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 09:24:26 +0000</pubDate>
-      <category>DC Comics</category>
-      <category>0-Day</category>
-      <category>Deathstroke</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 47 MB&lt;/p&gt;
-&lt;p&gt;ONLY ONE WILL SURVIVE! Ravager's life hangs in the balance as Deathstroke fights for his future against... Deathstroke?! Will this mystery doppelgänger succeed in taking literally everything from him? Can the city caught in their crosshairs survive two Deathstokes? Or will it be the end of everything?&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/dc/deathstroke-the-terminator-6-2026/"&gt;Deathstroke &amp;#8211; The Terminator #6 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/dc/deathstroke-the-terminator-6-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>403725</wp9:post-id>
-    </item>
-    <item>
-      <title>Alien – King Killer #5 (2026)</title>
-      <link>https://getcomics.org/marvel/alien-king-killer-5-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:b0cb0184821ddeb214310508a2e75035a002e6ebed5a708d80ba948fd56174c9</guid>
-      <comments>https://getcomics.org/marvel/alien-king-killer-5-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 05:46:28 +0000</pubDate>
-      <category>Marvel Comics</category>
-      <category>0-Day</category>
-      <category>Alien</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 39 MB&lt;/p&gt;
-&lt;p&gt;Idris' quest to dethrone the Three Kings reaches its bloody finale! Bitter enemies turn to allies when faced with both a Xenomorph outbreak and the shocking return of a figure from the past. Can the last vestige of humanity be saved — or is there a fate worse than death awaiting the survivors? Witness the final evolution of the human-Xenomorph war for supremacy!&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/marvel/alien-king-killer-5-2026/"&gt;Alien &amp;#8211; King Killer #5 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/marvel/alien-king-killer-5-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>403746</wp9:post-id>
     </item>
   </channel>
 </rss>
