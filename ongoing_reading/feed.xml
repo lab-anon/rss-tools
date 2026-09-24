@@ -5,9 +5,29 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/ongoing_reading/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>Ongoing Reading feeds</description>
-    <lastBuildDate>Wed, 23 Sep 2026 22:47:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 01:18:26 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
+    <item>
+      <title>Terminal #3 (2026)</title>
+      <link>https://getcomics.org/other-comics/terminal-3-2026/</link>
+      <guid isPermaLink="false">rss-tools:link-sha256:8b00fcda31b97fd086179612b7d84db942ca97e9f31a30ccf4cb01b8fdfff86f</guid>
+      <comments>https://getcomics.org/other-comics/terminal-3-2026/#respond</comments>
+      <dc:creator>The Comic Guy</dc:creator>
+      <pubDate>Wed, 23 Sep 2026 18:20:14 +0000</pubDate>
+      <category>Other Comics</category>
+      <category>0-Day</category>
+      <category>Image Comics</category>
+      <category>Terminal</category>
+      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 51 MB&lt;/p&gt;
+&lt;p&gt;ROBERT KIRKMAN, JOE CASEY, ANDY KUBERT, DAVID FINCH, AND ARTHUR ADAMS TAKE SUPERHERO VIOLENCE TO A NEW LEVEL! Alessandra is lost in despair after recent events. Yet, the battle rages on! Her team faces larger and more deadly threats as The Awakened gain more power. But unfortunately, a deadly new enemy emerges! When it rains, it pours!&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/terminal-3-2026/"&gt;Terminal #3 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
+</description>
+      <wfw:commentRss>https://getcomics.org/other-comics/terminal-3-2026/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <wp9:post-id>406806</wp9:post-id>
+    </item>
     <item>
       <title>Predator – The Theta Saga (TPB) (2026)</title>
       <link>https://getcomics.org/marvel/predator-the-theta-saga-tpb-2026/</link>

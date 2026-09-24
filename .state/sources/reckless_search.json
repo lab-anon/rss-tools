@@ -1,11 +1,11 @@
 {
-  "etag": "W/\"b29492bbc287310531df6e439c7b3460\"",
+  "etag": "W/\"e3abfd43b1c34bc3be3c1df3e243f7f7\"",
   "items": [],
   "last_changed_at": "2026-06-04T18:43:07.305130Z",
-  "last_checked_at": "2026-09-23T00:05:35.967709Z",
+  "last_checked_at": "2026-09-24T01:11:15.716481Z",
   "last_error": null,
-  "last_modified": "Tue, 22 Sep 2026 23:38:31 GMT",
-  "last_success_at": "2026-09-23T00:05:35.967709Z",
+  "last_modified": "Wed, 23 Sep 2026 23:03:27 GMT",
+  "last_success_at": "2026-09-24T01:11:15.716481Z",
   "link": "https://getcomics.org/search/reckless/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
