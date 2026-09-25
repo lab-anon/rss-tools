@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/supers/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>Supers feeds</description>
-    <lastBuildDate>Fri, 25 Sep 2026 07:15:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 13:20:42 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -91,26 +91,6 @@
       <wfw:commentRss>https://getcomics.org/marvel/miles-morales-spider-man-modern-era-epic-collection-vol-4-sitting-in-a-tree-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>404765</wp9:post-id>
-    </item>
-    <item>
-      <title>Invincible Universe – Battle Beast #12 (2026)</title>
-      <link>https://getcomics.org/other-comics/invincible-universe-battle-beast-12-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:4abc157a4eb06a6c8396f3bb034f0136be5f7ee3d111918d154eb3e8faab16b6</guid>
-      <comments>https://getcomics.org/other-comics/invincible-universe-battle-beast-12-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Wed, 26 Aug 2026 12:29:45 +0000</pubDate>
-      <category>Other Comics</category>
-      <category>0-Day</category>
-      <category>Image Comics</category>
-      <category>Invincible Universe</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 82 MB&lt;/p&gt;
-&lt;p&gt;Seriously... did you think they’d only fight for two issues?&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/invincible-universe-battle-beast-12-2026/"&gt;Invincible Universe &amp;#8211; Battle Beast #12 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/other-comics/invincible-universe-battle-beast-12-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>403812</wp9:post-id>
     </item>
   </channel>
 </rss>
