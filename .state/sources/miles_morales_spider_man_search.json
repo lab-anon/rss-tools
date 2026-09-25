@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"e3abfd43b1c34bc3be3c1df3e243f7f7\"",
+  "etag": "W/\"f6902d37a1dd002487423eb3584ea614\"",
   "items": [
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Miles Morales \u2013 Spider-Man #2 (2026)</title>\n\t\t<link>https://getcomics.org/marvel/miles-morales-spider-man-2-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/marvel/miles-morales-spider-man-2-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Wed, 23 Sep 2026 04:43:59 +0000</pubDate>\n\t\t\t\t<category>Marvel Comics</category>\n\t\t<category>0-Day</category>\n\t\t<category>Miles Morales - Spider-Man</category>\n\t\t<category>Spider-man</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 50 MB&lt;/p&gt;\n&lt;p&gt;SINS OF THE FATHER! ENTER GRENDEL \u2014  a super villain from Jeff Morales' past who will stop at nothing to have his revenge against the former S.H.I.E.L.D. agent... but their seemingly perfect plan didn't count on SPIDER-MAN! But how can Miles Morales fight an enemy who has a counter for his every move and power? What tragic events led to Grendel's fall - and what does Miles' dad have to do with it?&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/marvel/miles-morales-spider-man-2-2026/\"&gt;Miles Morales &amp;#8211; Spider-Man #2 (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/marvel/miles-morales-spider-man-2-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>406728</wp9:post-id>\t</item>\n\t\t",
@@ -19,10 +19,10 @@
     }
   ],
   "last_changed_at": "2026-09-24T01:11:15.716481Z",
-  "last_checked_at": "2026-09-24T01:11:15.716481Z",
+  "last_checked_at": "2026-09-25T01:12:11.618035Z",
   "last_error": null,
-  "last_modified": "Wed, 23 Sep 2026 23:03:27 GMT",
-  "last_success_at": "2026-09-24T01:11:15.716481Z",
+  "last_modified": "Thu, 24 Sep 2026 12:37:45 GMT",
+  "last_success_at": "2026-09-25T01:12:11.618035Z",
   "link": "https://getcomics.org/search/miles+morales+%e2%80%93+spider-man/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
