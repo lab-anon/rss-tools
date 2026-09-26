@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"f6902d37a1dd002487423eb3584ea614\"",
+  "etag": "W/\"e7b5356327eb44a5c14db8f597c22708\"",
   "items": [
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Exquisite Corpses \u2013 Rascal Randy #3 (2026)</title>\n\t\t<link>https://getcomics.org/other-comics/exquisite-corpses-rascal-randy-3-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/other-comics/exquisite-corpses-rascal-randy-3-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Wed, 23 Sep 2026 12:35:43 +0000</pubDate>\n\t\t\t\t<category>Other Comics</category>\n\t\t<category>0-Day</category>\n\t\t<category>Exquisite Corpses</category>\n\t\t<category>Image Comics</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 45 MB&lt;/p&gt;\n&lt;p&gt;As the two-dimensional Rascal Randy continues his meteoric rise during the golden age of animation, his modern-day doppelg\u00e4nger\u2019s assault on the small town of Aurora Springs shows no signs of stopping. But when a mysterious figure from the past arrives touting the answers to who resides underneath that furry rabbit mask, will Lilly &amp;#038; Eli survive long enough to uncover the truth?&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/other-comics/exquisite-corpses-rascal-randy-3-2026/\"&gt;Exquisite Corpses &amp;#8211; Rascal Randy #3 (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/other-comics/exquisite-corpses-rascal-randy-3-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>406770</wp9:post-id>\t</item>\n\t\t",
@@ -27,10 +27,10 @@
     }
   ],
   "last_changed_at": "2026-09-24T01:11:15.716481Z",
-  "last_checked_at": "2026-09-25T01:12:11.618035Z",
+  "last_checked_at": "2026-09-26T01:14:43.009076Z",
   "last_error": null,
-  "last_modified": "Thu, 24 Sep 2026 12:37:45 GMT",
-  "last_success_at": "2026-09-25T01:12:11.618035Z",
+  "last_modified": "Fri, 25 Sep 2026 21:20:10 GMT",
+  "last_success_at": "2026-09-26T01:14:43.009076Z",
   "link": "https://getcomics.org/search/exquisite+corpses/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
