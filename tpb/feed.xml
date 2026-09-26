@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/tpb/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>TPB feeds</description>
-    <lastBuildDate>Sat, 26 Sep 2026 12:43:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 16:54:36 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -2627,27 +2627,6 @@
       <wfw:commentRss>https://getcomics.org/other-comics/the-goon-bunch-of-old-crap-an-omnibus-vol-1-4-2019-2021/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>336320</wp9:post-id>
-    </item>
-    <item>
-      <title>Barbarian Behind Bars (TPB) (2026)</title>
-      <link>https://getcomics.org/other-comics/barbarian-behind-bars-tpb-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:c065924e686784ca87301f5c1a2b91c678207e66e340219af14f24cb971cf92a</guid>
-      <comments>https://getcomics.org/other-comics/barbarian-behind-bars-tpb-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Thu, 27 Aug 2026 13:52:23 +0000</pubDate>
-      <category>Other Comics</category>
-      <category>Barbarian Behind Bars</category>
-      <category>Mad Cave</category>
-      <category>Non 0-Day</category>
-      <category>TPB</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 224 MB&lt;/p&gt;
-&lt;p&gt;From beyond the limits of time and space comes a warrior whose quest against evil brings his strong arm and battle axe to earth — where he’s swiftly arrested and thrown in prison. Ignorant of English, short-tempered, violent, and with no allies other than his cheese sandwich-grilling cellmate and his cynical public defender, the barbarian must find a way to escape his cage before his greatest enemy returns from the dead to use the prison system against him! But can this mythic hero survive a world where a shower can become a death pit and a mystic gem of power is just so much contraband?&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/barbarian-behind-bars-tpb-2026/"&gt;Barbarian Behind Bars (TPB) (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/other-comics/barbarian-behind-bars-tpb-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>404792</wp9:post-id>
     </item>
   </channel>
 </rss>
