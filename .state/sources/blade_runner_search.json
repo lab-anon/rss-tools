@@ -1,11 +1,11 @@
 {
-  "etag": "W/\"5fbbd823ad72aa0b4f51dc6be338c701\"",
+  "etag": "W/\"b9c32daa16f04b500d68f0d77a6c4523\"",
   "items": [],
   "last_changed_at": "2026-06-04T18:43:07.305130Z",
-  "last_checked_at": "2026-09-30T21:17:17.229373Z",
+  "last_checked_at": "2026-10-01T21:36:47.145858Z",
   "last_error": null,
-  "last_modified": "Wed, 30 Sep 2026 21:17:17 GMT",
-  "last_success_at": "2026-09-30T21:17:17.229373Z",
+  "last_modified": "Thu, 01 Oct 2026 13:06:04 GMT",
+  "last_success_at": "2026-10-01T21:36:47.145858Z",
   "link": "https://getcomics.org/search/blade+runner/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",

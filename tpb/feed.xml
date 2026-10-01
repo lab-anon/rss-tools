@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/tpb/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>TPB feeds</description>
-    <lastBuildDate>Thu, 01 Oct 2026 16:05:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 21:42:36 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -344,6 +344,24 @@
       <wfw:commentRss>https://getcomics.org/other-comics/disney-darkwing-duck-omnibus-vol-2-cowl-and-f-o-w-l-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>407509</wp9:post-id>
+    </item>
+    <item>
+      <title>Blowing up The Complete 2024 Zits Collection (TPB) (2026)</title>
+      <link>https://getcomics.org/other-comics/blowing-up-the-complete-2024-zits-collection-tpb-2026/</link>
+      <guid isPermaLink="false">rss-tools:link-sha256:0010aebb87601a8a7adfa4f1c3fd2400890dcab756b19054a873e3f2571c504c</guid>
+      <comments>https://getcomics.org/other-comics/blowing-up-the-complete-2024-zits-collection-tpb-2026/#respond</comments>
+      <dc:creator>The Comic Guy</dc:creator>
+      <pubDate>Thu, 01 Oct 2026 06:36:58 +0000</pubDate>
+      <category>Other Comics</category>
+      <category>Non 0-Day</category>
+      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 97 MB&lt;/p&gt;
+&lt;p&gt;The beloved comic strip Zits offers a nostalgic yet timely joyride through the chaotic, hilarious world of teenagers—and the parents who raise them.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/blowing-up-the-complete-2024-zits-collection-tpb-2026/"&gt;Blowing up The Complete 2024 Zits Collection (TPB) (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
+</description>
+      <wfw:commentRss>https://getcomics.org/other-comics/blowing-up-the-complete-2024-zits-collection-tpb-2026/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <wp9:post-id>407506</wp9:post-id>
     </item>
     <item>
       <title>w0rldtr33 – The Upgraded Edition Vol. 1 (TPB) (2026)</title>

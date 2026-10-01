@@ -5,9 +5,29 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/ongoing_reading/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>Ongoing Reading feeds</description>
-    <lastBuildDate>Thu, 01 Oct 2026 16:05:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 21:42:36 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
+    <item>
+      <title>Alien vs. X-Men #1 (2026)</title>
+      <link>https://getcomics.org/marvel/alien-vs-x-men-1-2026/</link>
+      <guid isPermaLink="false">rss-tools:link-sha256:92d75551e7c99eb25d05df73894cd7969fdc1921b71e214f268cf12fa79729e7</guid>
+      <comments>https://getcomics.org/marvel/alien-vs-x-men-1-2026/#respond</comments>
+      <dc:creator>The Comic Guy</dc:creator>
+      <pubDate>Thu, 01 Oct 2026 07:53:16 +0000</pubDate>
+      <category>Marvel Comics</category>
+      <category>0-Day</category>
+      <category>Alien</category>
+      <category>X-Men</category>
+      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 60 MB&lt;/p&gt;
+&lt;p&gt;X-MEN VERSUS XENOMORPHS! They went looking for a Phoenix egg. They found something else. The X-MEN return to Earth with deadly cargo, and a violent battle between mutant and alien begins. And will an unexpected ally turn the tide in the X-Men's favour? In this special crossover decades in the making, the next evolution of Marvel's mightiest mutants begins! Will anyone survive the experience? Plus: The first chapter of an all-new story by the legendary Chris Claremont featuring Kitty Pryde, the Brood and the Xenomorphs!&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://getcomics.org/marvel/alien-vs-x-men-1-2026/"&gt;Alien vs. X-Men #1 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
+</description>
+      <wfw:commentRss>https://getcomics.org/marvel/alien-vs-x-men-1-2026/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <wp9:post-id>407234</wp9:post-id>
+    </item>
     <item>
       <title>Predator vs. the Planet of the Apes #3 (2026)</title>
       <link>https://getcomics.org/marvel/predator-vs-the-planet-of-the-apes-3-2026/</link>
