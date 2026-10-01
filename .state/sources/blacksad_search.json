@@ -1,11 +1,11 @@
 {
-  "etag": "W/\"463d20aeb9e40803c3629b879d2b9b32\"",
+  "etag": "W/\"ca6ba7952a2d71939d7b4639f59dcc40\"",
   "items": [],
   "last_changed_at": "2026-07-20T15:36:19.326448Z",
-  "last_checked_at": "2026-09-28T21:38:03.972859Z",
+  "last_checked_at": "2026-10-01T01:07:33.707298Z",
   "last_error": null,
-  "last_modified": "Mon, 28 Sep 2026 12:26:52 GMT",
-  "last_success_at": "2026-09-28T21:38:03.972859Z",
+  "last_modified": "Wed, 30 Sep 2026 21:58:04 GMT",
+  "last_success_at": "2026-10-01T01:07:33.707298Z",
   "link": "https://getcomics.org/search/blacksad/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
