@@ -1,11 +1,11 @@
 {
-  "etag": "W/\"0d2af5177f86afe04e7bf8648ec916b7\"",
+  "etag": null,
   "items": [],
   "last_changed_at": "2026-09-08T05:50:01.007363Z",
-  "last_checked_at": "2026-10-01T08:27:39.003745Z",
+  "last_checked_at": "2026-10-02T15:28:20.979396Z",
   "last_error": null,
-  "last_modified": "Sat, 19 Sep 2026 17:56:40 GMT",
-  "last_success_at": "2026-10-01T08:27:39.003745Z",
+  "last_modified": null,
+  "last_success_at": "2026-10-02T15:28:20.979396Z",
   "link": "https://tomosmanga.com/search/sakamoto/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
