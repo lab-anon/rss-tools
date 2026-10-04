@@ -1,11 +1,11 @@
 {
-  "etag": "W/\"0d2af5177f86afe04e7bf8648ec916b7\"",
+  "etag": null,
   "items": [],
   "last_changed_at": "2026-07-20T15:36:19.326448Z",
-  "last_checked_at": "2026-10-02T15:28:20.979396Z",
+  "last_checked_at": "2026-10-04T15:44:49.706148Z",
   "last_error": null,
-  "last_modified": "Sat, 19 Sep 2026 17:56:40 GMT",
-  "last_success_at": "2026-10-02T15:28:20.979396Z",
+  "last_modified": null,
+  "last_success_at": "2026-10-04T15:44:49.706148Z",
   "link": "https://tomosmanga.com/search/blue+giant/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
