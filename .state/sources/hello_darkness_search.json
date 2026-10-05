@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"1536c60d891b6654df992b15e7ce5c70\"",
+  "etag": "W/\"ab533a5c32a99cf4063b5f4981892a90\"",
   "items": [
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Hello Darkness #25 (2026)</title>\n\t\t<link>https://getcomics.org/other-comics/hello-darkness-25-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/other-comics/hello-darkness-25-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Sat, 03 Oct 2026 22:33:52 +0000</pubDate>\n\t\t\t\t<category>Other Comics</category>\n\t\t<category>0-Day</category>\n\t\t<category>Boom Studios</category>\n\t\t<category>Hello Darkness</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 54 MB&lt;/p&gt;\n&lt;p&gt;Brace yourself for the 25th issue of the acclaimed horror anthology series Hello Darkness! Fans of the divine nunsploitation series Marian Heretic from writer Tini Howard are in for a treat as Marian herself makes her first return to the pages of Hello Darkness since the breakout series\u2019 debut! This Marian Heretic four-parter revisits our favorite heathen as she doles out judgment to a whole new host of supernatural opponents. Then, following the mysterious loss of his son, a father\u2019s attempt to cope takes him on a twisted journey, raising questions for him and his grieving family in \u201cThe Hole\u201d written by Robert Menegus with art by Jonathan Marks!&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/other-comics/hello-darkness-25-2026/\"&gt;Hello Darkness #25 (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/other-comics/hello-darkness-25-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>407346</wp9:post-id>\t</item>\n\t\t",
@@ -11,10 +11,10 @@
     }
   ],
   "last_changed_at": "2026-10-04T04:48:14.817215Z",
-  "last_checked_at": "2026-10-04T04:48:14.817215Z",
+  "last_checked_at": "2026-10-05T08:33:04.449763Z",
   "last_error": null,
-  "last_modified": "Sat, 03 Oct 2026 22:45:27 GMT",
-  "last_success_at": "2026-10-04T04:48:14.817215Z",
+  "last_modified": "Sun, 04 Oct 2026 22:15:59 GMT",
+  "last_success_at": "2026-10-05T08:33:04.449763Z",
   "link": "https://getcomics.org/search/hello+darkness/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
