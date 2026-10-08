@@ -1,11 +1,11 @@
 {
-  "etag": "W/\"f0815fe3cc805e45eab1e242d65da2e4\"",
+  "etag": null,
   "items": [],
   "last_changed_at": "2026-07-20T15:36:19.326448Z",
-  "last_checked_at": "2026-10-06T20:01:04.803111Z",
+  "last_checked_at": "2026-10-08T21:05:27.869352Z",
   "last_error": null,
-  "last_modified": "Sun, 04 Oct 2026 22:31:26 GMT",
-  "last_success_at": "2026-10-06T20:01:04.803111Z",
+  "last_modified": null,
+  "last_success_at": "2026-10-08T21:05:27.869352Z",
   "link": "https://tomosmanga.com/search/berserk/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",

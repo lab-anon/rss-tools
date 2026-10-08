@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"107752203fe94e650b74a1899bdeb349\"",
+  "etag": "W/\"7e46b1a4350ac1830befebf0edfc629a\"",
   "items": [
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Alien vs. X-Men #1 (2026)</title>\n\t\t<link>https://getcomics.org/marvel/alien-vs-x-men-1-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/marvel/alien-vs-x-men-1-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Thu, 01 Oct 2026 07:53:16 +0000</pubDate>\n\t\t\t\t<category>Marvel Comics</category>\n\t\t<category>0-Day</category>\n\t\t<category>Alien</category>\n\t\t<category>X-Men</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 60 MB&lt;/p&gt;\n&lt;p&gt;X-MEN VERSUS XENOMORPHS! They went looking for a Phoenix egg. They found something else. The X-MEN return to Earth with deadly cargo, and a violent battle between mutant and alien begins. And will an unexpected ally turn the tide in the X-Men's favour? In this special crossover decades in the making, the next evolution of Marvel's mightiest mutants begins! Will anyone survive the experience? Plus: The first chapter of an all-new story by the legendary Chris Claremont featuring Kitty Pryde, the Brood and the Xenomorphs!&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/marvel/alien-vs-x-men-1-2026/\"&gt;Alien vs. X-Men #1 (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/marvel/alien-vs-x-men-1-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>407234</wp9:post-id>\t</item>\n\t\t",
@@ -27,10 +27,10 @@
     }
   ],
   "last_changed_at": "2026-10-01T21:36:47.145858Z",
-  "last_checked_at": "2026-10-07T20:26:59.814650Z",
+  "last_checked_at": "2026-10-08T21:05:27.869352Z",
   "last_error": null,
-  "last_modified": "Wed, 07 Oct 2026 18:44:26 GMT",
-  "last_success_at": "2026-10-07T20:26:59.814650Z",
+  "last_modified": "Thu, 08 Oct 2026 14:56:55 GMT",
+  "last_success_at": "2026-10-08T21:05:27.869352Z",
   "link": "https://getcomics.org/search/aliens/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
