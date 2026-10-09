@@ -1,11 +1,11 @@
 {
-  "etag": null,
+  "etag": "W/\"645b1b898e6b9d3330b3df0959352972\"",
   "items": [],
   "last_changed_at": "2026-09-08T05:50:01.007363Z",
-  "last_checked_at": "2026-10-08T07:03:51.379008Z",
+  "last_checked_at": "2026-10-09T08:35:10.507082Z",
   "last_error": null,
-  "last_modified": null,
-  "last_success_at": "2026-10-08T07:03:51.379008Z",
+  "last_modified": "Thu, 08 Oct 2026 23:42:13 GMT",
+  "last_success_at": "2026-10-09T08:35:10.507082Z",
   "link": "https://tomosmanga.com/search/one+piece/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
