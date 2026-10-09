@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"17d1e29796d2a0e9beabfdc817f39794\"",
+  "etag": "W/\"13274f9ae84ff7631b583f28095ab3d0\"",
   "items": [
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Marvel Horror Omnibus (2019)</title>\n\t\t<link>https://getcomics.org/marvel/marvel-horror-omnibus-2019/</link>\n\t\t\t\t\t<comments>https://getcomics.org/marvel/marvel-horror-omnibus-2019/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Fri, 09 Oct 2026 00:25:43 +0000</pubDate>\n\t\t\t\t<category>Marvel Comics</category>\n\t\t<category>Marvel Horror</category>\n\t\t<category>Non 0-Day</category>\n\t\t<category>TPB</category>\n\t\t<guid isPermaLink=\"false\">https://getcomics.org/?p=408062</guid>\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2019 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 3.3 GB&lt;/p&gt;\n&lt;p&gt;Marvel's creepiest characters put the \"super\" into supernatural in this titanic tome of terror! A veritable who's who of horror, this volume collects the complete 1970s adventures of the Zombie, Brother Voodoo, the Living Mummy, It! the Living Colossus, the Golem, Gabriel the Devil Hunter, the Scarecrow and Modred the Mystic - including hair-raising encounters with Werewolf by Night, Doctor Strange, the Hulk, the Thing, the Avengers and more! Read it if you dare! Collecting STRANGE TALES (1951) #169-174 and #176-177; SUPERNATURAL THRILLERS #5 and #7-15; ASTONISHING TALES (1970) #21-24; DEAD OF NIGHT #11; MARVEL SPOTLIGHT (1971) #26; MARVEL CHILLERS #1-2; MARVEL TEAM-UP (1972) #24; WEREWOLF BY NIGHT (1972) #39-41; MARVEL TWO-IN-ONE (1974) #11, #18, #33, #41 and #95; DOCTOR STRANGE (1974) #48; INCREDIBLE HULK (1968) #244; FANTASTIC FOUR (1961) #222-223; AVENGERS (1963) #185-187; and material from ZOMBIE (1973) #1-10; HAUNT OF HORROR (1974) #2-5; MONSTERS UNLEASHED (1973) #11; BIZARRE ADVENTURES #33; MENACE #5; MOON KNIGHT (1980) #21; TALES OF SUSPENSE (1959) #14 and #20; and STRANGE TALES (1951) #74 and #89.&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/marvel/marvel-horror-omnibus-2019/\"&gt;Marvel Horror Omnibus (2019)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/marvel/marvel-horror-omnibus-2019/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>408062</wp9:post-id>\t</item>\n\t\t",
@@ -843,10 +843,10 @@
     }
   ],
   "last_changed_at": "2026-10-09T01:47:06.095863Z",
-  "last_checked_at": "2026-10-09T08:35:10.507082Z",
+  "last_checked_at": "2026-10-09T15:53:02.162283Z",
   "last_error": null,
-  "last_modified": "Fri, 09 Oct 2026 00:37:47 GMT",
-  "last_success_at": "2026-10-09T08:35:10.507082Z",
+  "last_modified": "Fri, 09 Oct 2026 12:20:02 GMT",
+  "last_success_at": "2026-10-09T15:53:02.162283Z",
   "link": "https://getcomics.org/tag/tpb/feed/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
