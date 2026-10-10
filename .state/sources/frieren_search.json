@@ -1,11 +1,11 @@
 {
-  "etag": null,
+  "etag": "W/\"645b1b898e6b9d3330b3df0959352972\"",
   "items": [],
   "last_changed_at": "2026-07-20T15:36:19.326448Z",
-  "last_checked_at": "2026-10-08T21:05:27.869352Z",
+  "last_checked_at": "2026-10-10T22:16:04.760737Z",
   "last_error": null,
-  "last_modified": null,
-  "last_success_at": "2026-10-08T21:05:27.869352Z",
+  "last_modified": "Thu, 08 Oct 2026 23:42:13 GMT",
+  "last_success_at": "2026-10-10T22:16:04.760737Z",
   "link": "https://tomosmanga.com/search/frieren/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
