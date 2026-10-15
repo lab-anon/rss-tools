@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/tpb/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>TPB feeds</description>
-    <lastBuildDate>Thu, 15 Oct 2026 13:09:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 18:10:21 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -2274,26 +2274,6 @@
       <wfw:commentRss>https://getcomics.org/dc/harley-and-ivy-life-crimes-tpb-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>403970</wp9:post-id>
-    </item>
-    <item>
-      <title>Kill All Immortals II (TPB) (2026)</title>
-      <link>https://getcomics.org/other-comics/kill-all-immortals-ii-tpb-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:2a468794b2327fd98eab3de0aa9d9ff7421a0dd9524d9be9d8119148b89dc676</guid>
-      <comments>https://getcomics.org/other-comics/kill-all-immortals-ii-tpb-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Tue, 15 Sep 2026 13:50:08 +0000</pubDate>
-      <category>Other Comics</category>
-      <category>Kill All Immortals</category>
-      <category>Non 0-Day</category>
-      <category>TPB</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 1.5 GB&lt;/p&gt;
-&lt;p&gt;Zack Kaplan and Fico Ossio return with part two of their high-action, high-fashion Viking saga, collected in this sleek graphic novel! The Asvalds were once a powerful billionaire Viking family with a source of secret immortality, until the family’s only daughter, Frey Asvald, led her brothers in a principled rebellion to overthrow their barbaric father and end their eternal powers. But when an ancient and supernatural adversary threatens to destroy their precarious empire and kill them one by one, they must band together as a family, survive another deadly war—and dare to test their new mortality.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/kill-all-immortals-ii-tpb-2026/"&gt;Kill All Immortals II (TPB) (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/other-comics/kill-all-immortals-ii-tpb-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>406380</wp9:post-id>
     </item>
   </channel>
 </rss>
