@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/tpb/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>TPB feeds</description>
-    <lastBuildDate>Sun, 18 Oct 2026 20:14:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 22:56:00 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -193,6 +193,26 @@
       <wfw:commentRss>https://getcomics.org/dc/the-phantom-stranger-omnibus-2023/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>408755</wp9:post-id>
+    </item>
+    <item>
+      <title>The Beauty – Book 2 (TPB) (2026)</title>
+      <link>https://getcomics.org/other-comics/the-beauty-book-2-tpb-2026/</link>
+      <guid isPermaLink="false">rss-tools:link-sha256:0f2b4db75ae8399263d6f253da8960c2e7ecb858b7aed42bc907d4ba01d39c49</guid>
+      <comments>https://getcomics.org/other-comics/the-beauty-book-2-tpb-2026/#respond</comments>
+      <dc:creator>The Comic Guy</dc:creator>
+      <pubDate>Sat, 17 Oct 2026 21:56:36 +0000</pubDate>
+      <category>Other Comics</category>
+      <category>Ignition Press</category>
+      <category>Non 0-Day</category>
+      <category>The Beauty</category>
+      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 450 MB&lt;/p&gt;
+&lt;p&gt;In a world where achieving perfection means dying for it, the question of what life is actually worth becomes more important than ever. The Beauty is a sexually transmitted disease that literally changes your physical appearance to make you traditionally beautiful, and it’s spreading everywhere. People start asking themselves how they would change their lives if they contracted the Beauty, and how far they might go to get it. The lines that everyone crosses will be unique to them, and some may go so far as murder. When a curious investigative reporter decides to look at closer look at one of the major pharmaceutical companies seeking to profit off the virus, he finds more than he ever expected, leading him into underground communities where the Beauty is a privilege and a commodity and exposing him to the dangers of corporate espionage and dark government money. There’s a high price for looking good.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/the-beauty-book-2-tpb-2026/"&gt;The Beauty &amp;#8211; Book 2 (TPB) (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
+</description>
+      <wfw:commentRss>https://getcomics.org/other-comics/the-beauty-book-2-tpb-2026/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <wp9:post-id>408751</wp9:post-id>
     </item>
     <item>
       <title>C.O.R.T. – Children of the Round Table (TPB) (2026)</title>

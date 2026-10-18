@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"12ffbed9528002918ba082d9be88515e\"",
+  "etag": "W/\"e4759a610940ee563bb2923fce618501\"",
   "items": [
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Universal Monsters \u2013 Frankenstein Black &amp; White Special #1 (2026)</title>\n\t\t<link>https://getcomics.org/other-comics/universal-monsters-frankenstein-black-white-special-1-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/other-comics/universal-monsters-frankenstein-black-white-special-1-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Wed, 14 Oct 2026 15:54:17 +0000</pubDate>\n\t\t\t\t<category>Other Comics</category>\n\t\t<category>0-Day</category>\n\t\t<category>Image Comics</category>\n\t\t<category>Universal Monsters</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 172 MB&lt;/p&gt;\n&lt;p&gt;Dr. Henry Frankenstein begins his unholy quest to create life by robbing the grave of a decorated police officer to find necessary parts, specifically a strong pair of hands. But little does he know that the corpse has a son who is mourning a father\u2014and that this young boy will forever change Frankenstein\u2019s life. &lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/other-comics/universal-monsters-frankenstein-black-white-special-1-2026/\"&gt;Universal Monsters &amp;#8211; Frankenstein Black &amp;#038; White Special #1 (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/other-comics/universal-monsters-frankenstein-black-white-special-1-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>408380</wp9:post-id>\t</item>\n\t\t",
@@ -35,10 +35,10 @@
     }
   ],
   "last_changed_at": "2026-10-15T18:04:32.873081Z",
-  "last_checked_at": "2026-10-17T21:18:01.276245Z",
+  "last_checked_at": "2026-10-18T22:50:10.284143Z",
   "last_error": null,
-  "last_modified": "Sat, 17 Oct 2026 01:38:16 GMT",
-  "last_success_at": "2026-10-17T21:18:01.276245Z",
+  "last_modified": "Sun, 18 Oct 2026 12:28:58 GMT",
+  "last_success_at": "2026-10-18T22:50:10.284143Z",
   "link": "https://getcomics.org/search/universal+monsters/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
