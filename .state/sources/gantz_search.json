@@ -1,11 +1,11 @@
 {
-  "etag": "W/\"06f877f8dab6e22b3c84b663f03d9ea5\"",
+  "etag": null,
   "items": [],
   "last_changed_at": "2026-07-20T15:36:19.326448Z",
-  "last_checked_at": "2026-10-19T12:26:30.882093Z",
+  "last_checked_at": "2026-10-20T14:45:53.288835Z",
   "last_error": null,
-  "last_modified": "Sun, 18 Oct 2026 18:08:36 GMT",
-  "last_success_at": "2026-10-19T12:26:30.882093Z",
+  "last_modified": null,
+  "last_success_at": "2026-10-20T14:45:53.288835Z",
   "link": "https://tomosmanga.com/search/gantz/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
