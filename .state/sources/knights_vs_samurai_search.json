@@ -1,11 +1,11 @@
 {
-  "etag": "W/\"673f1ab6f35a9b88f8abb90d62e70be4\"",
+  "etag": "W/\"00f902d4b44d09604dce41036f47f41a\"",
   "items": [],
   "last_changed_at": "2026-06-05T11:03:27.549309Z",
-  "last_checked_at": "2026-10-19T23:23:49.420649Z",
+  "last_checked_at": "2026-10-21T01:22:12.480553Z",
   "last_error": null,
-  "last_modified": "Mon, 19 Oct 2026 23:21:45 GMT",
-  "last_success_at": "2026-10-19T23:23:49.420649Z",
+  "last_modified": "Tue, 20 Oct 2026 13:32:19 GMT",
+  "last_success_at": "2026-10-21T01:22:12.480553Z",
   "link": "https://getcomics.org/search/knights+vs+samurai/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
