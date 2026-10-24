@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"ef87ed5b8cd082cc495a88e794592ede\"",
+  "etag": "W/\"3e71a280f5dbe3648f4ae37eec74ecea\"",
   "items": [
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Cyberpunk 2077 \u2013 Jayk\u2019s Case #1 (2026)</title>\n\t\t<link>https://getcomics.org/other-comics/cyberpunk-2077-jayks-case-1-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/other-comics/cyberpunk-2077-jayks-case-1-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Wed, 21 Oct 2026 13:00:18 +0000</pubDate>\n\t\t\t\t<category>Other Comics</category>\n\t\t<category>0-Day</category>\n\t\t<category>Cyberpunk 2077</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 263 MB&lt;/p&gt;\n&lt;p&gt;A private investigator is hired to find the killer of a high-ranking executive, but the objective isn\u2019t for justice \u2014 it\u2019s for an escape. Embroiled in a network of Militech agents, he\u2019ll need to find the killer before they do, but what truth are they trying to silence? And with ties to one of Night City\u2019s most dangerous gangs, the death of one corpo may be just the beginning.&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/other-comics/cyberpunk-2077-jayks-case-1-2026/\"&gt;Cyberpunk 2077 &amp;#8211; Jayk&amp;#8217;s Case #1 (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/other-comics/cyberpunk-2077-jayks-case-1-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>408982</wp9:post-id>\t</item>\n\t\t",
@@ -11,10 +11,10 @@
     }
   ],
   "last_changed_at": "2026-10-22T07:14:22.660764Z",
-  "last_checked_at": "2026-10-23T13:09:27.684892Z",
+  "last_checked_at": "2026-10-24T14:18:28.113696Z",
   "last_error": null,
-  "last_modified": "Fri, 23 Oct 2026 10:51:53 GMT",
-  "last_success_at": "2026-10-23T13:09:27.684892Z",
+  "last_modified": "Sat, 24 Oct 2026 14:16:35 GMT",
+  "last_success_at": "2026-10-24T14:18:28.113696Z",
   "link": "https://getcomics.org/search/cyberpunk+2077/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
