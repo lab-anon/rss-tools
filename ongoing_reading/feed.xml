@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/ongoing_reading/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>Ongoing Reading feeds</description>
-    <lastBuildDate>Sat, 24 Oct 2026 05:28:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 10:29:13 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -308,26 +308,6 @@
       <wfw:commentRss>https://getcomics.org/dc/green-lantern-vs-aliens-1-4-2000/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>407188</wp9:post-id>
-    </item>
-    <item>
-      <title>Universal Monsters – Blood of the Wolf Man #4 (2026)</title>
-      <link>https://getcomics.org/other-comics/universal-monsters-blood-of-the-wolf-man-4-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:b830283cdf5dbba6a190c254a10ec6da303cba4d2aaa420510855aef143410e4</guid>
-      <comments>https://getcomics.org/other-comics/universal-monsters-blood-of-the-wolf-man-4-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 09:34:21 +0000</pubDate>
-      <category>Other Comics</category>
-      <category>0-Day</category>
-      <category>Image Comics</category>
-      <category>Universal Monsters</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 179 MB&lt;/p&gt;
-&lt;p&gt;THE WOLF MAN UNLEASHED! The Wolf Man is loose, and all the Jaeger family’s secrets will be revealed.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/universal-monsters-blood-of-the-wolf-man-4-2026/"&gt;Universal Monsters &amp;#8211; Blood of the Wolf Man #4 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/other-comics/universal-monsters-blood-of-the-wolf-man-4-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>406812</wp9:post-id>
     </item>
   </channel>
 </rss>
