@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/tpb/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>TPB feeds</description>
-    <lastBuildDate>Mon, 26 Oct 2026 09:51:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 16:42:42 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -71,6 +71,24 @@
       <wfw:commentRss>https://getcomics.org/other-comics/invincible-universe-battle-beast-vol-2-the-emissary-tpb-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>409456</wp9:post-id>
+    </item>
+    <item>
+      <title>Northlanders Vol. 1 – 7 (TPB) (2008-2012)</title>
+      <link>https://getcomics.org/dc/northlanders-vol-1-6-tpb-2008-2012/</link>
+      <guid isPermaLink="false">rss-tools:link-sha256:5c248e4660c8019b20331d5ca96709493fb347eac995e1b32bc6f5f725c58776</guid>
+      <comments>https://getcomics.org/dc/northlanders-vol-1-6-tpb-2008-2012/#respond</comments>
+      <dc:creator>The Comic Guy</dc:creator>
+      <pubDate>Sun, 25 Oct 2026 22:47:48 +0000</pubDate>
+      <category>DC Comics</category>
+      <category>Northlanders</category>
+      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2008-2012 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 2.1 GB&lt;/p&gt;
+&lt;p&gt;Northlanders is a Vertigo series from writer Brian Wood set in the age of Vikings. Each story arc focuses on a different set of characters, in various places and centuries, with a rotating team of artists for each arc. The painted covers were provided by artist Massimo Carnevale.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://getcomics.org/dc/northlanders-vol-1-6-tpb-2008-2012/"&gt;Northlanders Vol. 1 &amp;#8211; 7 (TPB) (2008-2012)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
+</description>
+      <wfw:commentRss>https://getcomics.org/dc/northlanders-vol-1-6-tpb-2008-2012/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <wp9:post-id>71031</wp9:post-id>
     </item>
     <item>
       <title>Strangers in Paradise Omnibus Vol. 1 (2026)</title>
