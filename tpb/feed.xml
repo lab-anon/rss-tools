@@ -5,9 +5,29 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/tpb/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>TPB feeds</description>
-    <lastBuildDate>Thu, 29 Oct 2026 21:37:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 01:44:38 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
+    <item>
+      <title>Challengers of the Unknown Archives Vol. 1 (2003)</title>
+      <link>https://getcomics.org/dc/challengers-of-the-unknown-archives-vol-1-2003/</link>
+      <guid isPermaLink="false">rss-tools:link-sha256:8212d6e528234fa4b6cab012430e834dd0ee11ded8fb306021ad5cfa3e1d8fa7</guid>
+      <comments>https://getcomics.org/dc/challengers-of-the-unknown-archives-vol-1-2003/#respond</comments>
+      <dc:creator>The Comic Guy</dc:creator>
+      <pubDate>Thu, 29 Oct 2026 22:29:48 +0000</pubDate>
+      <category>DC Comics</category>
+      <category>Challengers of the Unknown</category>
+      <category>Non 0-Day</category>
+      <category>TPB</category>
+      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2003 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 107 MB&lt;/p&gt;
+&lt;p&gt;CHALLENGERS OF THE UNKNOWN ARCHIVES VOL. 1 reprints the original 1950s tales of four death defying adventurers and their impossible and unimaginable exploits. After surviving the crash of a small aircraft, test pilot Ace Morgan, daredevil Red Ryan, heavyweight boxing champ Rocky Davis, and marine scientist Professor Haley unite themselves in a mission to explore the unexplainable for the good of mankind. This beautiful hardcover edition tells the earliest adventurers of these four men of different backgrounds and personalities as they encounter powerful aliens, deadly robots, and creatures of unknown origins.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://getcomics.org/dc/challengers-of-the-unknown-archives-vol-1-2003/"&gt;Challengers of the Unknown Archives Vol. 1 (2003)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
+</description>
+      <wfw:commentRss>https://getcomics.org/dc/challengers-of-the-unknown-archives-vol-1-2003/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <wp9:post-id>409928</wp9:post-id>
+    </item>
     <item>
       <title>Exit City Vol. 2 (TPB) (2026)</title>
       <link>https://getcomics.org/other-comics/exit-city-vol-2-tpb-2026/</link>

@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"2c40e76a05eb3920556df0b4ee82278f\"",
+  "etag": "W/\"49064a514831445069cd7d5314692cdd\"",
   "items": [
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>The Department of Truth #39 (2026)</title>\n\t\t<link>https://getcomics.org/other-comics/the-department-of-truth-39-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/other-comics/the-department-of-truth-39-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Wed, 28 Oct 2026 12:31:06 +0000</pubDate>\n\t\t\t\t<category>Other Comics</category>\n\t\t<category>0-Day</category>\n\t\t<category>Image Comics</category>\n\t\t<category>The Department of Truth</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 75 MB&lt;/p&gt;\n&lt;p&gt;Lee\u2019s new DoT is buckling under the heat from Cole Turner\u2019s White Hat on one side and Martin Barker\u2019s Black Hat on the other \u2014 not to mention a government bureaucracy unlike any Lee\u2019s ever had to manage. With enemies approaching from all corners, will Lee end up dragging the country down with him?&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/other-comics/the-department-of-truth-39-2026/\"&gt;The Department of Truth #39 (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/other-comics/the-department-of-truth-39-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>409593</wp9:post-id>\t</item>\n\t\t",
@@ -11,10 +11,10 @@
     }
   ],
   "last_changed_at": "2026-10-28T22:29:14.556152Z",
-  "last_checked_at": "2026-10-28T22:29:14.556152Z",
+  "last_checked_at": "2026-10-30T01:38:36.668734Z",
   "last_error": null,
-  "last_modified": "Wed, 28 Oct 2026 22:24:58 GMT",
-  "last_success_at": "2026-10-28T22:29:14.556152Z",
+  "last_modified": "Thu, 29 Oct 2026 22:48:43 GMT",
+  "last_success_at": "2026-10-30T01:38:36.668734Z",
   "link": "https://getcomics.org/search/department+truth/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
