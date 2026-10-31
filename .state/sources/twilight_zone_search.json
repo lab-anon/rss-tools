@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"c741ecd9d65a6c8109f73e8c3a7e8a03\"",
+  "etag": "W/\"a42c60072000bb558b2b441f1f79c0a3\"",
   "items": [
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>The Twilight Zone #11 (2026)</title>\n\t\t<link>https://getcomics.org/other-comics/the-twilight-zone-11-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/other-comics/the-twilight-zone-11-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Thu, 22 Oct 2026 22:56:35 +0000</pubDate>\n\t\t\t\t<category>Other Comics</category>\n\t\t<category>0-Day</category>\n\t\t<category>IDW</category>\n\t\t<category>The Twilight Zone</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 87 MB&lt;/p&gt;\n&lt;p&gt;Something odd is happening in the Twilight Zone. In the middle ground between light and shadow, there is now... color?! This volume of The Twilight Zone (#11\u201316) will feature one color per issue! Enjoy your terrifying black and white with a flourish of pigment.&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/other-comics/the-twilight-zone-11-2026/\"&gt;The Twilight Zone #11 (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/other-comics/the-twilight-zone-11-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>409049</wp9:post-id>\t</item>\n\t\t",
@@ -11,10 +11,10 @@
     }
   ],
   "last_changed_at": "2026-10-24T00:20:36.760734Z",
-  "last_checked_at": "2026-10-30T20:29:13.825950Z",
+  "last_checked_at": "2026-10-31T22:16:10.917493Z",
   "last_error": null,
-  "last_modified": "Fri, 30 Oct 2026 13:06:13 GMT",
-  "last_success_at": "2026-10-30T20:29:13.825950Z",
+  "last_modified": "Sat, 31 Oct 2026 10:35:34 GMT",
+  "last_success_at": "2026-10-31T22:16:10.917493Z",
   "link": "https://getcomics.org/search/twilight+zone/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
