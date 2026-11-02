@@ -5,9 +5,28 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/ongoing_reading/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>Ongoing Reading feeds</description>
-    <lastBuildDate>Mon, 02 Nov 2026 07:23:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 18:02:10 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
+    <item>
+      <title>RoboCop – Roulette #1 – 4 (1993-1994)</title>
+      <link>https://getcomics.org/other-comics/robocop-roulette-1-4-1993-1994/</link>
+      <guid isPermaLink="false">rss-tools:link-sha256:4db00fc1edfadc8eb946b30cd05c170f31b2fc84312af7fecdb46a9f2b0e4f5a</guid>
+      <comments>https://getcomics.org/other-comics/robocop-roulette-1-4-1993-1994/#respond</comments>
+      <dc:creator>The Comic Guy</dc:creator>
+      <pubDate>Sun, 01 Nov 2026 13:56:33 +0000</pubDate>
+      <category>Other Comics</category>
+      <category>Non 0-Day</category>
+      <category>Robocop</category>
+      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;1993-1994 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 47 MB&lt;/p&gt;
+&lt;p&gt;This premiere issue is your ticket back to dystopian Detroit, where corpses keep popping up, and where RoboCop is the officer on the case. RoboCop begins to follow the trail of murder and mayhem back to OCP, taking time out along the way to face off with an ED-209 gone berserk and a man who could be the most pernicious villain of all -- an IRS agent!&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/robocop-roulette-1-4-1993-1994/"&gt;RoboCop &amp;#8211; Roulette #1 &amp;#8211; 4 (1993-1994)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
+</description>
+      <wfw:commentRss>https://getcomics.org/other-comics/robocop-roulette-1-4-1993-1994/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <wp9:post-id>410022</wp9:post-id>
+    </item>
     <item>
       <title>Alien vs. X-Men #2 (2026)</title>
       <link>https://getcomics.org/marvel/alien-vs-x-men-2-2026/</link>
