@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"80d406638debbe717bd81363ab1ba5f7\"",
+  "etag": "W/\"8ea686e50a5ed8170f2f2d0a1c422fcd\"",
   "items": [
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>RoboCop \u2013 Roulette #1 \u2013 4 (1993-1994)</title>\n\t\t<link>https://getcomics.org/other-comics/robocop-roulette-1-4-1993-1994/</link>\n\t\t\t\t\t<comments>https://getcomics.org/other-comics/robocop-roulette-1-4-1993-1994/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Sun, 01 Nov 2026 13:56:33 +0000</pubDate>\n\t\t\t\t<category>Other Comics</category>\n\t\t<category>Non 0-Day</category>\n\t\t<category>Robocop</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;1993-1994 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 47 MB&lt;/p&gt;\n&lt;p&gt;This premiere issue is your ticket back to dystopian Detroit, where corpses keep popping up, and where RoboCop is the officer on the case. RoboCop begins to follow the trail of murder and mayhem back to OCP, taking time out along the way to face off with an ED-209 gone berserk and a man who could be the most pernicious villain of all -- an IRS agent!&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/other-comics/robocop-roulette-1-4-1993-1994/\"&gt;RoboCop &amp;#8211; Roulette #1 &amp;#8211; 4 (1993-1994)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/other-comics/robocop-roulette-1-4-1993-1994/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>410022</wp9:post-id>\t</item>\n\t\t",
@@ -11,10 +11,10 @@
     }
   ],
   "last_changed_at": "2026-11-02T17:56:11.154790Z",
-  "last_checked_at": "2026-11-03T21:35:30.298266Z",
+  "last_checked_at": "2026-11-04T22:30:33.565135Z",
   "last_error": null,
-  "last_modified": "Tue, 03 Nov 2026 10:44:56 GMT",
-  "last_success_at": "2026-11-03T21:35:30.298266Z",
+  "last_modified": "Wed, 04 Nov 2026 18:19:00 GMT",
+  "last_success_at": "2026-11-04T22:30:33.565135Z",
   "link": "https://getcomics.org/search/robocop/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
