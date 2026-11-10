@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/tpb/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>TPB feeds</description>
-    <lastBuildDate>Tue, 10 Nov 2026 03:15:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 12:22:39 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -2842,27 +2842,6 @@
       <wfw:commentRss>https://getcomics.org/other-comics/napalm-lullaby-tpb-2025/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>408217</wp9:post-id>
-    </item>
-    <item>
-      <title>Secret War by Brian Michael Bendis Omnibus (2025)</title>
-      <link>https://getcomics.org/other-comics/secret-war-by-brian-michael-bendis-omnibus-2025/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:7be742145e08c81337ad498078ee8a41555b6b2194573d02a9c0f3ccbe01c641</guid>
-      <comments>https://getcomics.org/other-comics/secret-war-by-brian-michael-bendis-omnibus-2025/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Sun, 11 Oct 2026 07:56:12 +0000</pubDate>
-      <category>Other Comics</category>
-      <category>Marvel Comics</category>
-      <category>Non 0-Day</category>
-      <category>Secret War</category>
-      <category>TPB</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2025 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 999 MB&lt;/p&gt;
-&lt;p&gt;When Nick Fury discovers a disturbing connection between many of Marvel's deadliest villains, he assembles a ragtag team of the MU's most misunderstood heroes for a secret mission to do what the U.S. government could never allow — eventually leading to a super-powered blowout between a who's who of costumed crimefighters! We’re talking Captain America, Daredevil, Spider-Man, Black Widow, Wolverine and more! But as they come under attack by groups of high-tech villains, what is Nick Fury's secret — and will the heroes find out in time? In the aftermath, Luke Cage is missing, and Jessica Jones will do whatever she can to find him. But who are the mystery men following her? And will her life ever recover from the drama of Secret War? COLLECTING: Secret War (2004) 1-5, Pulse (2004) 6-9, Secret War: From the Files of Nick Fury (2005)&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/secret-war-by-brian-michael-bendis-omnibus-2025/"&gt;Secret War by Brian Michael Bendis Omnibus (2025)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/other-comics/secret-war-by-brian-michael-bendis-omnibus-2025/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>408187</wp9:post-id>
     </item>
   </channel>
 </rss>
