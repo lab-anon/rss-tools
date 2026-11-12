@@ -1,6 +1,14 @@
 {
-  "etag": "W/\"d7de05e07a5b624a1c72e3efdf1e7321\"",
+  "etag": "W/\"d0908dfb3bfd9ddc7928afe922c1d863\"",
   "items": [
+    {
+      "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Universal Monsters \u2013 Frankenstein Black &amp; White Special #2 (2026)</title>\n\t\t<link>https://getcomics.org/other-comics/universal-monsters-frankenstein-black-white-special-2-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/other-comics/universal-monsters-frankenstein-black-white-special-2-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Thu, 12 Nov 2026 21:47:21 +0000</pubDate>\n\t\t\t\t<category>Other Comics</category>\n\t\t<category>0-Day</category>\n\t\t<category>Image Comics</category>\n\t\t<category>Universal Monsters</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 187 MB&lt;/p&gt;\n&lt;p&gt;FRANKENSTEIN LIVES AGAIN IN SILVER SCREEN BLACK &amp;#038; WHITE! Award-winning creator MICHAEL WALSH (EXQUISITE CORPSES, THE SILVER COIN) presents the final issue of his jaw-dropping new vision of the seminal horror classic remastered stunning black &amp;#038; white.&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/other-comics/universal-monsters-frankenstein-black-white-special-2-2026/\"&gt;Universal Monsters &amp;#8211; Frankenstein Black &amp;#038; White Special #2 (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/other-comics/universal-monsters-frankenstein-black-white-special-2-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>410806</wp9:post-id>\t</item>\n\t\t",
+      "link": "https://getcomics.org/other-comics/universal-monsters-frankenstein-black-white-special-2-2026/",
+      "normalized_link": "https://getcomics.org/other-comics/universal-monsters-frankenstein-black-white-special-2-2026",
+      "published_at": "2026-11-12T21:47:21Z",
+      "stable_id": "02cad42a34db9e4c1f33b7a0590948ab46b134a1f2f4d39e1c1773e807d890cc",
+      "title": "Universal Monsters \u2013 Frankenstein Black & White Special #2 (2026)"
+    },
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Universal Monsters \u2013 The Bride of Frankenstein Lives #1 (2026)</title>\n\t\t<link>https://getcomics.org/other-comics/universal-monsters-the-bride-of-frankenstein-lives-1-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/other-comics/universal-monsters-the-bride-of-frankenstein-lives-1-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Wed, 28 Oct 2026 22:22:43 +0000</pubDate>\n\t\t\t\t<category>Other Comics</category>\n\t\t<category>0-Day</category>\n\t\t<category>Image Comics</category>\n\t\t<category>Universal Monsters</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 146 MB&lt;/p&gt;\n&lt;p&gt;HERE COMES THE BRIDE... With no memory of her past or understanding of what she is, The Bride took her first steps into the world and was...displeased. Now, she must discover where and who she came from and begin what every living thing begins...the process of staying alive. &lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/other-comics/universal-monsters-the-bride-of-frankenstein-lives-1-2026/\"&gt;Universal Monsters &amp;#8211; The Bride of Frankenstein Lives #1 (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/other-comics/universal-monsters-the-bride-of-frankenstein-lives-1-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>409626</wp9:post-id>\t</item>\n\t\t",
       "link": "https://getcomics.org/other-comics/universal-monsters-the-bride-of-frankenstein-lives-1-2026/",
@@ -18,11 +26,11 @@
       "title": "Universal Monsters \u2013 Frankenstein Black & White Special #1 (2026)"
     }
   ],
-  "last_changed_at": "2026-10-28T22:29:14.556152Z",
-  "last_checked_at": "2026-11-11T17:01:17.962244Z",
+  "last_changed_at": "2026-11-12T22:37:09.770952Z",
+  "last_checked_at": "2026-11-12T22:37:09.770952Z",
   "last_error": null,
-  "last_modified": "Wed, 11 Nov 2026 15:44:15 GMT",
-  "last_success_at": "2026-11-11T17:01:17.962244Z",
+  "last_modified": "Thu, 12 Nov 2026 21:49:43 GMT",
+  "last_success_at": "2026-11-12T22:37:09.770952Z",
   "link": "https://getcomics.org/search/universal+monsters/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
