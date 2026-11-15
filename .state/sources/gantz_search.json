@@ -1,11 +1,20 @@
 {
-  "etag": null,
-  "items": [],
-  "last_changed_at": "2026-07-20T15:36:19.326448Z",
-  "last_checked_at": "2026-11-14T14:51:08.449680Z",
+  "etag": "W/\"c9afc6f3a5ee5d0610e794d7a1b264f1\"",
+  "items": [
+    {
+      "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\">\n\t\t<title>Gantz:E Tomos [01-10]</title>\n\t\t<link>https://tomosmanga.com/descargar-gantz-e/</link>\n\t\t\t\t\t<comments>https://tomosmanga.com/descargar-gantz-e/#comments</comments>\n\t\t\n\t\t<dc:creator>TomosManga</dc:creator>\n\t\t<pubDate>Sun, 08 Nov 2026 16:20:00 +0000</pubDate>\n\t\t\t\t<category>En Publicaci\u00f3n</category>\n\t\t<category>Manga</category>\n\t\t<category>Seinen</category>\n\t\t<guid isPermaLink=\"false\">https://tomosmanga.com/?p=6488</guid>\n\n\t\t\t\t\t<description>&lt;p&gt;SINOPSIS La historia de este manga comienza en el periodo edo cuando cuando un campesino llamado Hanbee le pide a una chica, llamada Oharu, su ... &lt;/p&gt;\n&lt;p class=\"read-more-container\"&gt;&lt;a title=\"Gantz:E Tomos [01-10]\" class=\"read-more button\" href=\"https://tomosmanga.com/descargar-gantz-e/#more-6488\" aria-label=\"Leer m\u00e1s sobre Gantz:E Tomos [01-10]\"&gt;Leer m\u00e1s&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;La entrada &lt;a href=\"https://tomosmanga.com/descargar-gantz-e/\"&gt;Gantz:E Tomos [01-10]&lt;/a&gt; se public\u00f3 primero en &lt;a href=\"https://tomosmanga.com\"&gt;Tomos Manga&lt;/a&gt;.&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://tomosmanga.com/descargar-gantz-e/feed/</wfw:commentRss>\n\t\t\t<slash:comments>12</slash:comments>\n\t\t\n\t\t\n\t\t\t</item>\n\t\t",
+      "link": "https://tomosmanga.com/descargar-gantz-e/",
+      "normalized_link": "https://tomosmanga.com/descargar-gantz-e",
+      "published_at": "2026-11-08T16:20:00Z",
+      "stable_id": "870bfecafb7fc1b3a4bb9bb9fc6eef166354a159c83fbc102ace9f310e4c6195",
+      "title": "Gantz:E Tomos [01-10]"
+    }
+  ],
+  "last_changed_at": "2026-11-15T19:36:39.716899Z",
+  "last_checked_at": "2026-11-15T19:36:39.716899Z",
   "last_error": null,
-  "last_modified": null,
-  "last_success_at": "2026-11-14T14:51:08.449680Z",
+  "last_modified": "Sun, 15 Nov 2026 01:29:58 GMT",
+  "last_success_at": "2026-11-15T19:36:39.716899Z",
   "link": "https://tomosmanga.com/search/gantz/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",

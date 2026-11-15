@@ -1,11 +1,11 @@
 {
-  "etag": null,
+  "etag": "W/\"c9afc6f3a5ee5d0610e794d7a1b264f1\"",
   "items": [],
   "last_changed_at": "2026-07-20T15:36:19.326448Z",
-  "last_checked_at": "2026-11-13T19:24:42.739254Z",
+  "last_checked_at": "2026-11-15T19:36:39.716899Z",
   "last_error": null,
-  "last_modified": null,
-  "last_success_at": "2026-11-13T19:24:42.739254Z",
+  "last_modified": "Sun, 15 Nov 2026 01:29:58 GMT",
+  "last_success_at": "2026-11-15T19:36:39.716899Z",
   "link": "https://tomosmanga.com/search/tanabe/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",

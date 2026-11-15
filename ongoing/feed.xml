@@ -5,9 +5,26 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/ongoing/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>Ongoing feeds</description>
-    <lastBuildDate>Sun, 15 Nov 2026 13:36:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 19:39:40 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
+    <item>
+      <title>Sakamoto Days Tomos [01-29]</title>
+      <link>https://tomosmanga.com/manga-sakamoto-days/</link>
+      <guid isPermaLink="false">rss-tools:link-sha256:8994e0e93dfed907b95a8e934319d4ad622c0e4703dee71ca69134cfae104acc</guid>
+      <comments>https://tomosmanga.com/manga-sakamoto-days/#comments</comments>
+      <dc:creator>TomosManga</dc:creator>
+      <pubDate>Sun, 08 Nov 2026 16:39:33 +0000</pubDate>
+      <category>En Publicación</category>
+      <category>Manga</category>
+      <category>Shonen</category>
+      <description>&lt;p&gt;SINOPSIS Taro Sakamoto era conocido como el sicario más fuerte, temido por los villanos y un ejemplo a seguir para el resto de sicarios. Sin ... &lt;/p&gt;
+&lt;p class="read-more-container"&gt;&lt;a title="Sakamoto Days Tomos [01-29]" class="read-more button" href="https://tomosmanga.com/manga-sakamoto-days/#more-4165" aria-label="Leer más sobre Sakamoto Days Tomos [01-29]"&gt;Leer más&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;La entrada &lt;a href="https://tomosmanga.com/manga-sakamoto-days/"&gt;Sakamoto Days Tomos [01-29]&lt;/a&gt; se publicó primero en &lt;a href="https://tomosmanga.com"&gt;Tomos Manga&lt;/a&gt;.&lt;/p&gt;
+</description>
+      <wfw:commentRss>https://tomosmanga.com/manga-sakamoto-days/feed/</wfw:commentRss>
+      <slash:comments>63</slash:comments>
+    </item>
     <item>
       <title>Exquisite Corpses – Fox Mask Killer #2 (2026)</title>
       <link>https://getcomics.org/other-comics/exquisite-corpses-fox-mask-killer-2-2026/</link>

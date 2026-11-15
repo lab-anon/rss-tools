@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"7e4e7ad90f76551d5b930126bd096995\"",
+  "etag": "W/\"9b326ace3ac9b0e4e82d6fab66ff7be7\"",
   "items": [
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Superman \u2013 The Silver Age Omnibus Vol. 1 (2024)</title>\n\t\t<link>https://getcomics.org/dc/superman-the-silver-age-omnibus-vol-1-2024/</link>\n\t\t\t\t\t<comments>https://getcomics.org/dc/superman-the-silver-age-omnibus-vol-1-2024/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Sat, 14 Nov 2026 11:48:13 +0000</pubDate>\n\t\t\t\t<category>DC Comics</category>\n\t\t<category>Non 0-Day</category>\n\t\t<category>Silver Age</category>\n\t\t<category>Superman</category>\n\t\t<category>TPB</category>\n\t\t<guid isPermaLink=\"false\">https://getcomics.org/?p=411190</guid>\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2024 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 1.7 GB&lt;/p&gt;\n&lt;p&gt;The Man of Steel soars into the 1950s in this inaugural Silver Age volume. Featuring tales such as \u201cSuperman in the White House!,\u201d \u201cClark Kent\u2019s College Days!,\u201d \u201cThe Menace of Metallo!,\u201d \u201cWhen Lois First Suspected Clark Was Superman,\u201d and more, restored in full color for the first time\u2014plus a brand-new foreword by acclaimed writer/artist Karl Kesel\u2014this collection is a must-have for Super-fans of every generation. Collects ACTION COMICS #241-265 and SUPERMAN #122-137.&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/dc/superman-the-silver-age-omnibus-vol-1-2024/\"&gt;Superman &amp;#8211; The Silver Age Omnibus Vol. 1 (2024)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/dc/superman-the-silver-age-omnibus-vol-1-2024/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>411190</wp9:post-id>\t</item>\n\t\t",
@@ -1051,10 +1051,10 @@
     }
   ],
   "last_changed_at": "2026-11-15T13:36:38.775155Z",
-  "last_checked_at": "2026-11-15T13:36:38.775155Z",
+  "last_checked_at": "2026-11-15T19:36:39.716899Z",
   "last_error": null,
-  "last_modified": "Sun, 15 Nov 2026 02:10:46 GMT",
-  "last_success_at": "2026-11-15T13:36:38.775155Z",
+  "last_modified": "Sun, 15 Nov 2026 13:52:28 GMT",
+  "last_success_at": "2026-11-15T19:36:39.716899Z",
   "link": "https://getcomics.org/tag/tpb/feed/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
