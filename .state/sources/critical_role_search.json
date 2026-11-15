@@ -1,11 +1,11 @@
 {
-  "etag": "W/\"be06524a8489a82ac3ed6be92e4bbfb1\"",
+  "etag": "W/\"7e4e7ad90f76551d5b930126bd096995\"",
   "items": [],
   "last_changed_at": "2026-11-10T12:15:58.545688Z",
-  "last_checked_at": "2026-11-14T00:44:40.584296Z",
+  "last_checked_at": "2026-11-15T05:21:16.630827Z",
   "last_error": null,
-  "last_modified": "Fri, 13 Nov 2026 22:46:00 GMT",
-  "last_success_at": "2026-11-14T00:44:40.584296Z",
+  "last_modified": "Sun, 15 Nov 2026 02:10:46 GMT",
+  "last_success_at": "2026-11-15T05:21:16.630827Z",
   "link": "https://getcomics.org/search/critical+role/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
