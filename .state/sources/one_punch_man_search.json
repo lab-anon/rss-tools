@@ -1,11 +1,11 @@
 {
-  "etag": "W/\"c9afc6f3a5ee5d0610e794d7a1b264f1\"",
+  "etag": null,
   "items": [],
   "last_changed_at": "2026-08-23T01:24:22.915474Z",
-  "last_checked_at": "2026-11-15T19:36:39.716899Z",
+  "last_checked_at": "2026-11-17T00:01:24.323098Z",
   "last_error": null,
-  "last_modified": "Sun, 15 Nov 2026 01:29:58 GMT",
-  "last_success_at": "2026-11-15T19:36:39.716899Z",
+  "last_modified": null,
+  "last_success_at": "2026-11-17T00:01:24.323098Z",
   "link": "https://tomosmanga.com/search/one+punch+man/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
