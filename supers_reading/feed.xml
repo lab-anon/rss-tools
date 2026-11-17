@@ -1,12 +1,28 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:wp9="com-wordpress:feed-additions:1" version="2.0">
   <channel>
     <title>Merged - Supers Reading</title>
     <atom:link href="https://lab-anon.github.io/rss-tools/supers_reading/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>Supers Reading feeds</description>
-    <lastBuildDate>Tue, 17 Nov 2026 08:52:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 18:21:12 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
+    <item>
+      <title>The Ultimate Digital Comic Reading Setup on iPad</title>
+      <link>https://getcomics.org/news/the-ultimate-digital-comic-reading-setup-on-ipad/</link>
+      <guid isPermaLink="false">rss-tools:link-sha256:d1c1eb2c3389a00d48c458024064fa9de40b617bd6838839f8a20ea54dff0210</guid>
+      <comments>https://getcomics.org/news/the-ultimate-digital-comic-reading-setup-on-ipad/#respond</comments>
+      <dc:creator>The Comic Guy</dc:creator>
+      <pubDate>Tue, 17 Nov 2026 14:04:43 +0000</pubDate>
+      <category>News</category>
+      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
+&lt;p&gt;A reader-first guide to better viewing angles, fewer power interruptions, and a comic library that stays out of the way.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://getcomics.org/news/the-ultimate-digital-comic-reading-setup-on-ipad/"&gt;The Ultimate Digital Comic Reading Setup on iPad&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
+</description>
+      <wfw:commentRss>https://getcomics.org/news/the-ultimate-digital-comic-reading-setup-on-ipad/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <wp9:post-id>411489</wp9:post-id>
+    </item>
   </channel>
 </rss>
