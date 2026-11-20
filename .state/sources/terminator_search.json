@@ -1,6 +1,14 @@
 {
-  "etag": "W/\"5731301823f4d8813e38aede4a3cba27\"",
+  "etag": "W/\"c92e24802c550e2ddff76bc88d30c040\"",
   "items": [
+    {
+      "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Archie vs. the Terminator #2 (2026)</title>\n\t\t<link>https://getcomics.org/other-comics/archie-vs-the-terminator-2-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/other-comics/archie-vs-the-terminator-2-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Thu, 19 Nov 2026 21:03:38 +0000</pubDate>\n\t\t\t\t<category>Other Comics</category>\n\t\t<category>0-Day</category>\n\t\t<category>Archie</category>\n\t\t<category>Dynamite Entertainment</category>\n\t\t<category>The Terminator</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 73 MB&lt;/p&gt;\n&lt;p&gt;The cross-over no one saw coming is here! When a teenage John Connor enrolls at Riverdale High, Archie and the gang soon find themselves in the crosshairs of a Terminator! As the chaos unfolds across Riverdale, Archie and the gang are forced to help John evade the Terminator that's hunting them across town.&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/other-comics/archie-vs-the-terminator-2-2026/\"&gt;Archie vs. the Terminator #2 (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/other-comics/archie-vs-the-terminator-2-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>411396</wp9:post-id>\t</item>\n\t\t",
+      "link": "https://getcomics.org/other-comics/archie-vs-the-terminator-2-2026/",
+      "normalized_link": "https://getcomics.org/other-comics/archie-vs-the-terminator-2-2026",
+      "published_at": "2026-11-19T21:03:38Z",
+      "stable_id": "69ad440bcd9a5be61f12c0e6e2de06e3c8f1b7cc6e77c6a644b406458bd37664",
+      "title": "Archie vs. the Terminator #2 (2026)"
+    },
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Deathstroke \u2013 The Terminator #9 (2026)</title>\n\t\t<link>https://getcomics.org/dc/deathstroke-the-terminator-9-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/dc/deathstroke-the-terminator-9-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Wed, 18 Nov 2026 11:42:31 +0000</pubDate>\n\t\t\t\t<category>DC Comics</category>\n\t\t<category>0-Day</category>\n\t\t<category>Deathstroke</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 38 MB&lt;/p&gt;\n&lt;p&gt;DEATHSTROKE IN THE CROSSHAIRS! They say when you love what you do, you'll never work a day in your life. Slade Wilson's found his passion for killing again, but without a client or any kind of direction, he takes out the wrong stranger and finds himself in the crosshairs of a criminal cartel even more bloodthirsty and vengeful than he is. Now it's the great- est assassin vs. 1,000 psycho killers! Strap in! Plus: Where the heck is Ravager?!&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/dc/deathstroke-the-terminator-9-2026/\"&gt;Deathstroke &amp;#8211; The Terminator #9 (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/dc/deathstroke-the-terminator-9-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>411268</wp9:post-id>\t</item>\n\t\t",
       "link": "https://getcomics.org/dc/deathstroke-the-terminator-9-2026/",
@@ -26,11 +34,11 @@
       "title": "Deathstroke \u2013 The Terminator #8 (2026)"
     }
   ],
-  "last_changed_at": "2026-11-18T18:41:33.583077Z",
-  "last_checked_at": "2026-11-18T18:41:33.583077Z",
+  "last_changed_at": "2026-11-20T00:33:07.960546Z",
+  "last_checked_at": "2026-11-20T00:33:07.960546Z",
   "last_error": null,
-  "last_modified": "Wed, 18 Nov 2026 16:27:09 GMT",
-  "last_success_at": "2026-11-18T18:41:33.583077Z",
+  "last_modified": "Thu, 19 Nov 2026 22:17:49 GMT",
+  "last_success_at": "2026-11-20T00:33:07.960546Z",
   "link": "https://getcomics.org/search/terminator/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",

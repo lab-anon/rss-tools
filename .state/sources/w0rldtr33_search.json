@@ -1,11 +1,20 @@
 {
-  "etag": "W/\"5731301823f4d8813e38aede4a3cba27\"",
-  "items": [],
-  "last_changed_at": "2026-11-06T00:52:08.384160Z",
-  "last_checked_at": "2026-11-18T18:41:33.583077Z",
+  "etag": "W/\"c92e24802c550e2ddff76bc88d30c040\"",
+  "items": [
+    {
+      "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>W0rldtr33 #22 (2026)</title>\n\t\t<link>https://getcomics.org/other-comics/w0rldtr33-22-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/other-comics/w0rldtr33-22-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Thu, 19 Nov 2026 03:09:09 +0000</pubDate>\n\t\t\t\t<category>Other Comics</category>\n\t\t<category>0-Day</category>\n\t\t<category>Image Comics</category>\n\t\t<category>W0rldtr33</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 131 MB&lt;/p&gt;\n&lt;p&gt;It\u2019s almost the end of the world, and PH34R is tired of waiting for her promised apocalypse. She\u2019s ready to get back to what she does best. God help anyone in her crosshairs. W0RLDTR33\u2019s most monumental arc continues here in truly murderous fashion!&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/other-comics/w0rldtr33-22-2026/\"&gt;W0rldtr33 #22 (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/other-comics/w0rldtr33-22-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>411382</wp9:post-id>\t</item>\n\t\t",
+      "link": "https://getcomics.org/other-comics/w0rldtr33-22-2026/",
+      "normalized_link": "https://getcomics.org/other-comics/w0rldtr33-22-2026",
+      "published_at": "2026-11-19T03:09:09Z",
+      "stable_id": "09c8f6cdb158e9360fe60b8581eca7c250543d524641cc521646e58fea691a4b",
+      "title": "W0rldtr33 #22 (2026)"
+    }
+  ],
+  "last_changed_at": "2026-11-20T00:33:07.960546Z",
+  "last_checked_at": "2026-11-20T00:33:07.960546Z",
   "last_error": null,
-  "last_modified": "Wed, 18 Nov 2026 16:27:09 GMT",
-  "last_success_at": "2026-11-18T18:41:33.583077Z",
+  "last_modified": "Thu, 19 Nov 2026 22:17:49 GMT",
+  "last_success_at": "2026-11-20T00:33:07.960546Z",
   "link": "https://getcomics.org/search/w0rldtr33/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
