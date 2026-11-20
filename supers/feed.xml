@@ -5,7 +5,7 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/supers/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>Supers feeds</description>
-    <lastBuildDate>Fri, 20 Nov 2026 08:11:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 17:37:28 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
     <item>
@@ -69,25 +69,6 @@
       <wfw:commentRss>https://getcomics.org/other-comics/invincible-universe-battle-beast-vol-2-the-emissary-tpb-2026/feed/</wfw:commentRss>
       <slash:comments>0</slash:comments>
       <wp9:post-id>409456</wp9:post-id>
-    </item>
-    <item>
-      <title>Miles Morales – Spider-Man #3 (2026)</title>
-      <link>https://getcomics.org/marvel/miles-morales-spider-man-3-2026/</link>
-      <guid isPermaLink="false">rss-tools:link-sha256:77a2b14e5826879b40ce5231d880ea9c9e836ceff43af7a169c60a4b99c80f76</guid>
-      <comments>https://getcomics.org/marvel/miles-morales-spider-man-3-2026/#respond</comments>
-      <dc:creator>The Comic Guy</dc:creator>
-      <pubDate>Wed, 21 Oct 2026 12:58:48 +0000</pubDate>
-      <category>Marvel Comics</category>
-      <category>0-Day</category>
-      <category>Miles Morales - Spider-Man</category>
-      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
-&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 56 MB&lt;/p&gt;
-&lt;p&gt;SPIDER-MAN made a mistake. He got in the way. Now Jeff Morales' past isn't just back to haunt him. Miles' friends and family could all end up as collateral. Jeff may be complicit in this villain's rise... but what role did the Kingpin of Crime play? And how can Spidey hope to stop a foe who can mess with Miles' own uncanny spider-powers?!&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://getcomics.org/marvel/miles-morales-spider-man-3-2026/"&gt;Miles Morales &amp;#8211; Spider-Man #3 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://getcomics.org/marvel/miles-morales-spider-man-3-2026/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <wp9:post-id>408901</wp9:post-id>
     </item>
   </channel>
 </rss>
