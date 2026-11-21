@@ -1,11 +1,11 @@
 {
-  "etag": "W/\"c92e24802c550e2ddff76bc88d30c040\"",
+  "etag": "W/\"adc8c72e66bf6805502d03ba9f7ff905\"",
   "items": [],
   "last_changed_at": "2026-11-03T21:35:30.298266Z",
-  "last_checked_at": "2026-11-20T00:33:07.960546Z",
+  "last_checked_at": "2026-11-21T06:00:28.857599Z",
   "last_error": null,
-  "last_modified": "Thu, 19 Nov 2026 22:17:49 GMT",
-  "last_success_at": "2026-11-20T00:33:07.960546Z",
+  "last_modified": "Fri, 20 Nov 2026 13:33:40 GMT",
+  "last_success_at": "2026-11-21T06:00:28.857599Z",
   "link": "https://getcomics.org/search/hello+darkness/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
