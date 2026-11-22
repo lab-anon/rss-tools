@@ -1,11 +1,11 @@
 {
-  "etag": "W/\"adc8c72e66bf6805502d03ba9f7ff905\"",
+  "etag": "W/\"22221fcaae7dfc0df1454e7b73e12ea3\"",
   "items": [],
   "last_changed_at": "2026-11-21T06:00:28.857599Z",
-  "last_checked_at": "2026-11-21T06:00:28.857599Z",
+  "last_checked_at": "2026-11-22T09:31:03.208167Z",
   "last_error": null,
-  "last_modified": "Fri, 20 Nov 2026 13:33:40 GMT",
-  "last_success_at": "2026-11-21T06:00:28.857599Z",
+  "last_modified": "Sat, 21 Nov 2026 22:57:49 GMT",
+  "last_success_at": "2026-11-22T09:31:03.208167Z",
   "link": "https://getcomics.org/search/cyberpunk+2077/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
