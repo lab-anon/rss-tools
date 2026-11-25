@@ -1,5 +1,5 @@
 {
-  "etag": "W/\"aeb5f9855c2ec2ccee8818b3f700ea21\"",
+  "etag": "W/\"cfdb7143966a968930882bf85401bee3\"",
   "items": [
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Ultimate Fallout \u2013 Spider-Man No More #1 \u2013 6 (2011)</title>\n\t\t<link>https://getcomics.org/marvel/ultimate-fallout-spider-man-no-more-1-6-2011/</link>\n\t\t\t\t\t<comments>https://getcomics.org/marvel/ultimate-fallout-spider-man-no-more-1-6-2011/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Mon, 23 Nov 2026 09:50:38 +0000</pubDate>\n\t\t\t\t<category>Marvel Comics</category>\n\t\t<category>Non 0-Day</category>\n\t\t<category>Spider-man</category>\n\t\t<category>Ultimate Fallout</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2011 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 61 MB&lt;/p&gt;\n&lt;p&gt;The End before The Beginning. The mini-series that forms the bridge between Ultimate Comics Spider-Man Vol. 1 and Ultimate Comics Spider-Man Vol. 2. Following the death of Peter Parker, the whole Ultimate Universe is faced with the consequences and aftermath. This series showcases and acts as a springboard for the Ultimate Universe Reborn: Spider-Man, X-Men, and the Ultimates.&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/marvel/ultimate-fallout-spider-man-no-more-1-6-2011/\"&gt;Ultimate Fallout &amp;#8211; Spider-Man No More #1 &amp;#8211; 6 (2011)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/marvel/ultimate-fallout-spider-man-no-more-1-6-2011/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>411776</wp9:post-id>\t</item>\n\t\t",
@@ -35,10 +35,10 @@
     }
   ],
   "last_changed_at": "2026-11-23T19:01:14.546855Z",
-  "last_checked_at": "2026-11-23T19:01:14.546855Z",
+  "last_checked_at": "2026-11-25T00:25:17.374024Z",
   "last_error": null,
-  "last_modified": "Mon, 23 Nov 2026 09:56:58 GMT",
-  "last_success_at": "2026-11-23T19:01:14.546855Z",
+  "last_modified": "Tue, 24 Nov 2026 10:36:57 GMT",
+  "last_success_at": "2026-11-25T00:25:17.374024Z",
   "link": "https://getcomics.org/search/ultimate/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
