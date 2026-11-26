@@ -1,6 +1,14 @@
 {
-  "etag": "W/\"cfdb7143966a968930882bf85401bee3\"",
+  "etag": "W/\"4f6fae395b587dfc84fc6613ddc33c7b\"",
   "items": [
+    {
+      "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Alien vs. X-Men #3 (2026)</title>\n\t\t<link>https://getcomics.org/marvel/alien-vs-x-men-3-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/marvel/alien-vs-x-men-3-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Wed, 25 Nov 2026 05:42:38 +0000</pubDate>\n\t\t\t\t<category>Marvel Comics</category>\n\t\t<category>0-Day</category>\n\t\t<category>Alien</category>\n\t\t<category>X-Men</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 42 MB&lt;/p&gt;\n&lt;p&gt;MUTANT VS. XENOMORPH VS... ROBOT?! From a certain point of view, there's more than one invading species on Earth. There's the XENOMORPHS... and there's the X-MEN. A desperate situation turns worse when SENTINELS arrive \u2014 and their solution is to nuke the X-MANSION from orbit! It's the only way to be sure... Plus, in CHRIS CLAREMONT's bonus story, KITTY PRYDE and RACHEL SUMMERS face off against the Xenomorph queen for the fate of the PHOENIX!&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/marvel/alien-vs-x-men-3-2026/\"&gt;Alien vs. X-Men #3 (2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/marvel/alien-vs-x-men-3-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>411830</wp9:post-id>\t</item>\n\t\t",
+      "link": "https://getcomics.org/marvel/alien-vs-x-men-3-2026/",
+      "normalized_link": "https://getcomics.org/marvel/alien-vs-x-men-3-2026",
+      "published_at": "2026-11-25T05:42:38Z",
+      "stable_id": "7a658eca4879e42eb09590e19b53ed30fddeabf8ed6bd32d90542bcdfd7c634d",
+      "title": "Alien vs. X-Men #3 (2026)"
+    },
     {
       "item_xml": "<item xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\" xmlns:wfw=\"http://wellformedweb.org/CommentAPI/\" xmlns:wp9=\"com-wordpress:feed-additions:1\">\n\t\t<title>Bobby Jo and the Appalachian Alien Apocalypse #1 \u2013 5 (2023-2026)</title>\n\t\t<link>https://getcomics.org/other-comics/bobby-jo-and-the-appalachian-alien-apocalypse-1-5-2023-2026/</link>\n\t\t\t\t\t<comments>https://getcomics.org/other-comics/bobby-jo-and-the-appalachian-alien-apocalypse-1-5-2023-2026/#respond</comments>\n\t\t\n\t\t<dc:creator>The Comic Guy</dc:creator>\n\t\t<pubDate>Tue, 03 Nov 2026 10:05:14 +0000</pubDate>\n\t\t\t\t<category>Other Comics</category>\n\t\t<category>Bad Bug Media</category>\n\t\t<category>Non 0-Day</category>\n\t\t<guid isPermaLink=\"false\" />\n\n\t\t\t\t\t<description>&lt;p&gt;GetComics.info ~&lt;/p&gt;\n&lt;p style=\"text-align: center;\"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2023-2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 182 MB&lt;/p&gt;\n&lt;p&gt;Bobby Jo is a grindhouse sci-fi adventure set in 1970s Appalachia, following a foul-mouthed, shotgun-wielding redhead who moonlights as an alien hunter. When strange creatures, extraterrestrial threats, and otherworldly horrors begin descending from the skies, Bobby Jo finds herself on the front lines of a bizarre war to protect her hometown. Packed with action, humor, monsters, and retro exploitation-film charm, Bobby Jo delivers a wild blend of science fiction, horror, and Southern-fried attitude.&lt;/p&gt;\n&lt;p&gt;The post &lt;a href=\"https://getcomics.org/other-comics/bobby-jo-and-the-appalachian-alien-apocalypse-1-5-2023-2026/\"&gt;Bobby Jo and the Appalachian Alien Apocalypse #1 &amp;#8211; 5 (2023-2026)&lt;/a&gt; appeared first on &lt;a href=\"https://getcomics.org\"&gt;GetComics&lt;/a&gt;&lt;/p&gt;\n</description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://getcomics.org/other-comics/bobby-jo-and-the-appalachian-alien-apocalypse-1-5-2023-2026/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<wp9:post-id>410215</wp9:post-id>\t</item>\n\t\t",
       "link": "https://getcomics.org/other-comics/bobby-jo-and-the-appalachian-alien-apocalypse-1-5-2023-2026/",
@@ -26,11 +34,11 @@
       "title": "Aliens Epic Collection \u2013 The Original Years Vol. 4 (2026)"
     }
   ],
-  "last_changed_at": "2026-11-22T09:31:03.208167Z",
-  "last_checked_at": "2026-11-25T00:25:17.374024Z",
+  "last_changed_at": "2026-11-26T02:40:44.739612Z",
+  "last_checked_at": "2026-11-26T02:40:44.739612Z",
   "last_error": null,
-  "last_modified": "Tue, 24 Nov 2026 10:36:57 GMT",
-  "last_success_at": "2026-11-25T00:25:17.374024Z",
+  "last_modified": "Thu, 26 Nov 2026 00:45:14 GMT",
+  "last_success_at": "2026-11-26T02:40:44.739612Z",
   "link": "https://getcomics.org/search/aliens/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
