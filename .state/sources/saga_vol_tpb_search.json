@@ -1,11 +1,11 @@
 {
-  "etag": "W/\"262615a9f13d2a2fa840e4b5ba575307\"",
+  "etag": "W/\"74f08eae36d6091072941706ef40c3f1\"",
   "items": [],
   "last_changed_at": "2026-07-20T15:36:19.326448Z",
-  "last_checked_at": "2026-11-26T11:58:58.871299Z",
+  "last_checked_at": "2026-11-27T13:41:45.329732Z",
   "last_error": null,
-  "last_modified": "Thu, 26 Nov 2026 08:16:04 GMT",
-  "last_success_at": "2026-11-26T11:58:58.871299Z",
+  "last_modified": "Fri, 27 Nov 2026 13:41:57 GMT",
+  "last_success_at": "2026-11-27T13:41:45.329732Z",
   "link": "https://getcomics.org/search/saga+vol+tpb/feed/rss2/",
   "namespaces": {
     "atom": "http://www.w3.org/2005/Atom",
