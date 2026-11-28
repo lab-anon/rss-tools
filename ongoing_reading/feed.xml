@@ -5,9 +5,29 @@
     <atom:link href="https://lab-anon.github.io/rss-tools/ongoing_reading/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://lab-anon.github.io/rss-tools/</link>
     <description>Ongoing Reading feeds</description>
-    <lastBuildDate>Fri, 27 Nov 2026 22:32:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 04:41:32 +0000</lastBuildDate>
     <language>en-US</language>
     <generator>rss-tools</generator>
+    <item>
+      <title>Terminal #5 (2026)</title>
+      <link>https://getcomics.org/other-comics/terminal-5-2026/</link>
+      <guid isPermaLink="false">rss-tools:link-sha256:f50133491976af1334e29dfe516119f4cf6e501fd439a2e6c18cb684a7f5fa70</guid>
+      <comments>https://getcomics.org/other-comics/terminal-5-2026/#respond</comments>
+      <dc:creator>The Comic Guy</dc:creator>
+      <pubDate>Fri, 27 Nov 2026 05:55:50 +0000</pubDate>
+      <category>Other Comics</category>
+      <category>0-Day</category>
+      <category>Image Comics</category>
+      <category>Terminal</category>
+      <description>&lt;p&gt;GetComics.info ~&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Year : &lt;/strong&gt;2026 &amp;#124; &lt;strong&gt;Size :&lt;/strong&gt; 72 MB&lt;/p&gt;
+&lt;p&gt;A NEW ACTIVATOR JOINS THE TEAM! As Alessandra fights to complete her mission, Krowne Corp unleashes their weapons against both teams.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://getcomics.org/other-comics/terminal-5-2026/"&gt;Terminal #5 (2026)&lt;/a&gt; appeared first on &lt;a href="https://getcomics.org"&gt;GetComics&lt;/a&gt;&lt;/p&gt;
+</description>
+      <wfw:commentRss>https://getcomics.org/other-comics/terminal-5-2026/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <wp9:post-id>411908</wp9:post-id>
+    </item>
     <item>
       <title>Predator vs. the Planet of the Apes #5 (2026)</title>
       <link>https://getcomics.org/marvel/predator-vs-the-planet-of-the-apes-5-2026/</link>
